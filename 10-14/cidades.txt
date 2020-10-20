@@ -1,0 +1,16692 @@
+RO
+23857
+Alta Floresta D'Oeste
+RO
+11615
+Alto Alegre dos Parecis
+RO
+16758
+Alto Paraíso
+RO
+16485
+Alvorada D'Oeste
+RO
+82388
+Ariquemes
+RO
+33072
+Buritis
+RO
+6575
+Cabixi
+RO
+5553
+Cacaulândia
+RO
+76155
+Cacoal
+RO
+12455
+Campo Novo de Rondônia
+RO
+16736
+Candeias do Jamari
+RO
+3624
+Castanheiras
+RO
+16290
+Cerejeiras
+RO
+7456
+Chupinguaia
+RO
+17644
+Colorado do Oeste
+RO
+9476
+Corumbiara
+RO
+13664
+Costa Marques
+RO
+13857
+Cujubim
+RO
+27867
+Espigão D'Oeste
+RO
+11432
+Governador Jorge Teixeira
+RO
+39451
+Guajará-Mirim
+RO
+7905
+Itapuã do Oeste
+RO
+52453
+Jaru
+RO
+107679
+Ji-Paraná
+RO
+31475
+Machadinho D'Oeste
+RO
+10343
+Ministro Andreazza
+RO
+12086
+Mirante da Serra
+RO
+12357
+Monte Negro
+RO
+17170
+Nova Brasilândia D'Oeste
+RO
+21162
+Nova Mamoré
+RO
+7750
+Nova União
+RO
+9648
+Novo Horizonte do Oeste
+RO
+36040
+Ouro Preto do Oeste
+RO
+4583
+Parecis
+RO
+32893
+Pimenta Bueno
+RO
+2358
+Pimenteiras do Oeste
+RO
+369345
+Porto Velho
+RO
+22197
+Presidente Médici
+RO
+3704
+Primavera de Rondônia
+RO
+3174
+Rio Crespo
+RO
+48894
+Rolim de Moura
+RO
+9264
+Santa Luzia D'Oeste
+RO
+6286
+São Felipe D'Oeste
+RO
+15710
+São Francisco do Guaporé
+RO
+22622
+São Miguel do Guaporé
+RO
+11757
+Seringueiras
+RO
+4919
+Teixeirópolis
+RO
+9952
+Theobroma
+RO
+13381
+Urupá
+RO
+8751
+Vale do Anari
+RO
+8742
+Vale do Paraíso
+RO
+66746
+Vilhena
+AC
+11520
+Acrelândia
+AC
+5351
+Assis Brasil
+AC
+19065
+Brasiléia
+AC
+6543
+Bujari
+AC
+8446
+Capixaba
+AC
+73948
+Cruzeiro do Sul
+AC
+13434
+Epitaciolândia
+AC
+31288
+Feijó
+AC
+6059
+Jordão
+AC
+13785
+Mâncio Lima
+AC
+7148
+Manoel Urbano
+AC
+13061
+Marechal Thaumaturgo
+AC
+17258
+Plácido de Castro
+AC
+13716
+Porto Acre
+AC
+8170
+Porto Walter
+AC
+290639
+Rio Branco
+AC
+12428
+Rodrigues Alves
+AC
+3948
+Santa Rosa do Purus
+AC
+34230
+Sena Madureira
+AC
+18863
+Senador Guiomard
+AC
+32171
+Tarauacá
+AC
+14314
+Xapuri
+AM
+13010
+Alvarães
+AM
+8384
+Amaturá
+AM
+8152
+Anamã
+AM
+13834
+Anori
+AM
+17451
+Apuí
+AM
+13682
+Atalaia do Norte
+AM
+29907
+Autazes
+AM
+24567
+Barcelos
+AM
+26645
+Barreirinha
+AM
+29268
+Benjamin Constant
+AM
+13809
+Beruri
+AM
+13138
+Boa Vista do Ramos
+AM
+29818
+Boca do Acre
+AM
+31098
+Borba
+AM
+10547
+Caapiranga
+AM
+11463
+Canutama
+AM
+25110
+Carauari
+AM
+31070
+Careiro
+AM
+23023
+Careiro da Várzea
+AM
+65222
+Coari
+AM
+16025
+Codajás
+AM
+29411
+Eirunepé
+AM
+16438
+Envira
+AM
+19726
+Fonte Boa
+AM
+14102
+Guajará
+AM
+38559
+Humaitá
+AM
+17177
+Ipixuna
+AM
+32869
+Iranduba
+AM
+84676
+Itacoatiara
+AM
+8078
+Itamarati
+AM
+9141
+Itapiranga
+AM
+5281
+Japurá
+AM
+8658
+Juruá
+AM
+17129
+Jutaí
+AM
+36909
+Lábrea
+AM
+82309
+Manacapuru
+AM
+19164
+Manaquiri
+AM
+1646602
+Manaus
+AM
+44327
+Manicoré
+AM
+17507
+Maraã
+AM
+47020
+Maués
+AM
+17553
+Nhamundá
+AM
+29184
+Nova Olinda do Norte
+AM
+14630
+Novo Airão
+AM
+18196
+Novo Aripuanã
+AM
+102044
+Parintins
+AM
+18325
+Pauini
+AM
+24360
+Presidente Figueiredo
+AM
+24858
+Rio Preto da Eva
+AM
+16921
+Santa Isabel do Rio Negro
+AM
+29249
+Santo Antônio do Içá
+AM
+39130
+São Gabriel da Cachoeira
+AM
+30727
+São Paulo de Olivença
+AM
+8731
+São Sebastião do Uatumã
+AM
+8211
+Silves
+AM
+45293
+Tabatinga
+AM
+19453
+Tapauá
+AM
+62920
+Tefé
+AM
+19090
+Tonantins
+AM
+9859
+Uarini
+AM
+15716
+Urucará
+AM
+17184
+Urucurituba
+RR
+14386
+Alto Alegre
+RR
+7586
+Amajari
+RR
+249853
+Boa Vista
+RR
+10231
+Bonfim
+RR
+11119
+Cantá
+RR
+17981
+Caracaraí
+RR
+7086
+Caroebe
+RR
+5863
+Iracema
+RR
+12546
+Mucajaí
+RR
+7118
+Normandia
+RR
+8640
+Pacaraima
+RR
+24466
+Rorainópolis
+RR
+5727
+São João da Baliza
+RR
+5720
+São Luiz
+RR
+7403
+Uiramutã
+PA
+132222
+Abaetetuba
+PA
+6592
+Abel Figueiredo
+PA
+47923
+Acará
+PA
+31183
+Afuá
+PA
+28658
+Água Azul do Norte
+PA
+52661
+Alenquer
+PA
+30903
+Almeirim
+PA
+92105
+Altamira
+PA
+24942
+Anajás
+PA
+484278
+Ananindeua 
+PA
+17787
+Anapu
+PA
+37086
+Augusto Corrêa
+PA
+21239
+Aurora do Pará
+PA
+18830
+Aveiro
+PA
+18580
+Bagre
+PA
+26190
+Baião
+PA
+3812
+Bannach
+PA
+84560
+Barcarena
+PA
+1408847
+Belém 
+PA
+12707
+Belterra
+PA
+43282
+Benevides
+PA
+13145
+Bom Jesus do Tocantins
+PA
+11279
+Bonito
+PA
+101728
+Bragança
+PA
+18749
+Brasil Novo
+PA
+7444
+Brejo Grande do Araguaia
+PA
+47069
+Breu Branco
+PA
+94458
+Breves
+PA
+22535
+Bujaru
+PA
+18995
+Cachoeira do Arari
+PA
+17649
+Cachoeira do Piriá
+PA
+110323
+Cametá
+PA
+23757
+Canaã dos Carajás
+PA
+61350
+Capanema
+PA
+50839
+Capitão Poço
+PA
+152126
+Castanhal
+PA
+19368
+Chaves
+PA
+10981
+Colares
+PA
+45267
+Conceição do Araguaia
+PA
+21422
+Concórdia do Pará
+PA
+10452
+Cumaru do Norte
+PA
+17769
+Curionópolis
+PA
+25388
+Curralinho
+PA
+11928
+Curuá
+PA
+33768
+Curuçá
+PA
+38150
+Dom Eliseu
+PA
+28554
+Eldorado dos Carajás
+PA
+17253
+Faro
+PA
+14964
+Floresta do Araguaia
+PA
+24619
+Garrafão do Norte
+PA
+27166
+Goianésia do Pará
+PA
+24384
+Gurupá
+PA
+33778
+Igarapé-Açu
+PA
+54673
+Igarapé-Miri
+PA
+9592
+Inhangapi
+PA
+39563
+Ipixuna do Pará
+PA
+29746
+Irituia
+PA
+118194
+Itaituba
+PA
+42002
+Itupiranga
+PA
+37073
+Jacareacanga
+PA
+51511
+Jacundá
+PA
+33775
+Juruti
+PA
+23284
+Limoeiro do Ajuru
+PA
+27614
+Mãe do Rio
+PA
+7650
+Magalhães Barata
+PA
+196468
+Marabá 
+PA
+28296
+Maracanã
+PA
+26651
+Marapanim
+PA
+93416
+Marituba
+PA
+22624
+Medicilândia
+PA
+17845
+Melgaço
+PA
+23258
+Mocajuba
+PA
+63821
+Moju
+PA
+61350
+Monte Alegre
+PA
+28796
+Muaná
+PA
+22447
+Nova Esperança do Piriá
+PA
+14086
+Nova Ipixuna
+PA
+12103
+Nova Timboteua
+PA
+21598
+Novo Progresso
+PA
+51645
+Novo Repartimento
+PA
+46793
+Óbidos
+PA
+25420
+Oeiras do Pará
+PA
+55175
+Oriximiná
+PA
+15152
+Ourém
+PA
+20415
+Ourilândia do Norte
+PA
+38365
+Pacajá
+PA
+7156
+Palestina do Pará
+PA
+90819
+Paragominas
+PA
+133298
+Parauapebas
+PA
+6466
+Pau D'Arco
+PA
+7679
+Peixe-Boi
+PA
+12707
+Piçarra
+PA
+17898
+Placas
+PA
+24276
+Ponta de Pedras
+PA
+45586
+Portel
+PA
+26489
+Porto de Moz
+PA
+26436
+Prainha
+PA
+10463
+Primavera
+PA
+12620
+Quatipuru
+PA
+64583
+Redenção
+PA
+16993
+Rio Maria
+PA
+45016
+Rondon do Pará
+PA
+32950
+Rurópolis
+PA
+37066
+Salinópolis
+PA
+17077
+Salvaterra
+PA
+13714
+Santa Bárbara do Pará
+PA
+5921
+Santa Cruz do Arari
+PA
+51763
+Santa Isabel do Pará
+PA
+18123
+Santa Luzia do Pará
+PA
+16012
+Santa Maria das Barreiras
+PA
+22147
+Santa Maria do Pará
+PA
+49053
+Santana do Araguaia
+PA
+274285
+Santarém 
+PA
+6007
+Santarém Novo
+PA
+24814
+Santo Antônio do Tauá
+PA
+16179
+São Caetano de Odivelas
+PA
+21094
+São Domingos do Araguaia
+PA
+27094
+São Domingos do Capim
+PA
+59238
+São Félix do Xingu
+PA
+11913
+São Francisco do Pará
+PA
+24872
+São Geraldo do Araguaia
+PA
+4715
+São João da Ponta
+PA
+18919
+São João de Pirabas
+PA
+11673
+São João do Araguaia
+PA
+42987
+São Miguel do Guamá
+PA
+20500
+São Sebastião da Boa Vista
+PA
+5117
+Sapucaia
+PA
+14302
+Senador José Porfírio
+PA
+21395
+Soure
+PA
+64281
+Tailândia
+PA
+9861
+Terra Alta
+PA
+15316
+Terra Santa
+PA
+47081
+Tomé-Açu
+PA
+26129
+Tracuateua
+PA
+16097
+Trairão
+PA
+26513
+Tucumã
+PA
+89264
+Tucuruí
+PA
+31881
+Ulianópolis
+PA
+59881
+Uruará (por decisão judicial)
+PA
+43847
+Vigia
+PA
+53217
+Viseu
+PA
+9693
+Vitória do Xingu
+PA
+38457
+Xinguara
+AP
+7492
+Amapá
+AP
+8656
+Calçoene
+AP
+4320
+Cutias
+AP
+5040
+Ferreira Gomes
+AP
+3439
+Itaubal
+AP
+37491
+Laranjal do Jari
+AP
+344153
+Macapá
+AP
+13862
+Mazagão
+AP
+19181
+Oiapoque
+AP
+7332
+Pedra Branca do Amapari
+AP
+13962
+Porto Grande
+AP
+3353
+Pracuúba
+AP
+92098
+Santana
+AP
+3772
+Serra do Navio
+AP
+12395
+Tartarugalzinho
+AP
+10765
+Vitória do Jari
+TO
+2245
+Abreulândia
+TO
+3995
+Aguiarnópolis
+TO
+5701
+Aliança do Tocantins
+TO
+7488
+Almas
+TO
+7976
+Alvorada
+TO
+9358
+Ananás
+TO
+3169
+Angico
+TO
+4018
+Aparecida do Rio Negro
+TO
+5469
+Aragominas
+TO
+5423
+Araguacema
+TO
+8989
+Araguaçu
+TO
+115759
+Araguaína
+TO
+5000
+Araguanã
+TO
+25973
+Araguatins
+TO
+6839
+Arapoema
+TO
+10626
+Arraias
+TO
+14800
+Augustinópolis
+TO
+3385
+Aurora do Tocantins
+TO
+8917
+Axixá do Tocantins
+TO
+10372
+Babaçulândia
+TO
+2711
+Bandeirantes do Tocantins
+TO
+3581
+Barra do Ouro
+TO
+5155
+Barrolândia
+TO
+4518
+Bernardo Sayão
+TO
+2710
+Bom Jesus do Tocantins
+TO
+2119
+Brasilândia do Tocantins
+TO
+5295
+Brejinho de Nazaré
+TO
+8164
+Buriti do Tocantins
+TO
+2171
+Cachoeirinha
+TO
+7615
+Campos Lindos
+TO
+3562
+Cariri do Tocantins
+TO
+2313
+Carmolândia
+TO
+3314
+Carrasco Bonito
+TO
+4667
+Caseara
+TO
+2386
+Centenário
+TO
+3680
+Chapada da Natividade
+TO
+1239
+Chapada de Areia
+TO
+29298
+Colinas do Tocantins
+TO
+8759
+Colméia
+TO
+4878
+Combinado
+TO
+4402
+Conceição do Tocantins
+TO
+4887
+Couto de Magalhães
+TO
+6520
+Cristalândia
+TO
+1264
+Crixás do Tocantins
+TO
+5130
+Darcinópolis
+TO
+18584
+Dianópolis
+TO
+6359
+Divinópolis do Tocantins
+TO
+7060
+Dois Irmãos do Tocantins
+TO
+4489
+Dueré
+TO
+8134
+Esperantina
+TO
+3984
+Fátima
+TO
+4820
+Figueirópolis
+TO
+7787
+Filadélfia
+TO
+18225
+Formoso do Araguaia
+TO
+2101
+Fortaleza do Tabocão
+TO
+5221
+Goianorte
+TO
+11639
+Goiatins
+TO
+21669
+Guaraí
+TO
+71413
+Gurupi
+TO
+1698
+Ipueiras
+TO
+6386
+Itacajá
+TO
+6074
+Itaguatins
+TO
+3421
+Itapiratins
+TO
+2989
+Itaporã do Tocantins
+TO
+3789
+Jaú do Tocantins
+TO
+2141
+Juarina
+TO
+8220
+Lagoa da Confusão
+TO
+3179
+Lagoa do Tocantins
+TO
+2159
+Lajeado
+TO
+1590
+Lavandeira
+TO
+3634
+Lizarda
+TO
+2784
+Luzinópolis
+TO
+4473
+Marianópolis do Tocantins
+TO
+1737
+Mateiros
+TO
+3185
+Maurilândia do Tocantins
+TO
+19683
+Miracema do Tocantins
+TO
+11858
+Miranorte
+TO
+6387
+Monte do Carmo
+TO
+1858
+Monte Santo do Tocantins
+TO
+2850
+Muricilândia
+TO
+9090
+Natividade
+TO
+4528
+Nazaré
+TO
+10518
+Nova Olinda
+TO
+3772
+Nova Rosalândia
+TO
+3754
+Novo Acordo
+TO
+1801
+Novo Alegre
+TO
+2419
+Novo Jardim
+TO
+1081
+Oliveira de Fátima
+TO
+178386
+Palmas
+TO
+4689
+Palmeirante
+TO
+4542
+Palmeiras do Tocantins
+TO
+8120
+Palmeirópolis
+TO
+40290
+Paraíso do Tocantins
+TO
+10491
+Paranã
+TO
+4767
+Pau D'Arco
+TO
+10294
+Pedro Afonso
+TO
+8750
+Peixe
+TO
+4799
+Pequizeiro
+TO
+4397
+Pindorama do Tocantins
+TO
+3014
+Piraquê
+TO
+6403
+Pium
+TO
+4529
+Ponte Alta do Bom Jesus
+TO
+6569
+Ponte Alta do Tocantins
+TO
+2830
+Porto Alegre do Tocantins
+TO
+45289
+Porto Nacional
+TO
+7060
+Praia Norte
+TO
+3680
+Presidente Kennedy
+TO
+2165
+Pugmil
+TO
+3665
+Recursolândia
+TO
+3691
+Riachinho
+TO
+1454
+Rio da Conceição
+TO
+2092
+Rio dos Bois
+TO
+6167
+Rio Sono
+TO
+3672
+Sampaio
+TO
+3443
+Sandolândia
+TO
+5610
+Santa Fé do Araguaia
+TO
+2673
+Santa Maria do Tocantins
+TO
+2260
+Santa Rita do Tocantins
+TO
+4417
+Santa Rosa do Tocantins
+TO
+2297
+Santa Tereza do Tocantins
+TO
+2291
+Santa Terezinha do Tocantins
+TO
+4447
+São Bento do Tocantins
+TO
+1409
+São Félix do Tocantins
+TO
+10221
+São Miguel do Tocantins
+TO
+3012
+São Salvador do Tocantins
+TO
+4244
+São Sebastião do Tocantins
+TO
+4885
+São Valério da Natividade
+TO
+5098
+Silvanópolis
+TO
+9302
+Sítio Novo do Tocantins
+TO
+1667
+Sucupira
+TO
+14110
+Taguatinga
+TO
+1916
+Taipas do Tocantins
+TO
+2555
+Talismã
+TO
+6663
+Tocantínia
+TO
+21334
+Tocantinópolis
+TO
+1405
+Tupirama
+TO
+2007
+Tupiratins
+TO
+9317
+Wanderlândia
+TO
+10856
+Xambioá
+MA
+97034
+Açailândia
+MA
+5651
+Afonso Cunha
+MA
+11829
+Água Doce do Maranhão
+MA
+21349
+Alcântara
+MA
+21645
+Aldeias Altas
+MA
+7365
+Altamira do Maranhão
+MA
+22002
+Alto Alegre do Maranhão
+MA
+31992
+Alto Alegre do Pindaré
+MA
+10304
+Alto Parnaíba
+MA
+6168
+Amapá do Maranhão
+MA
+35727
+Amarante do Maranhão
+MA
+23941
+Anajatuba
+MA
+12580
+Anapurus
+MA
+13216
+Apicum-Açu
+MA
+9918
+Araguanã
+MA
+37655
+Araioses
+MA
+27229
+Arame
+MA
+27753
+Arari
+MA
+14249
+Axixá
+MA
+95124
+Bacabal
+MA
+14611
+Bacabeira
+MA
+16026
+Bacuri
+MA
+5425
+Bacurituba
+MA
+78845
+Balsas
+MA
+16565
+Barão de Grajaú
+MA
+78718
+Barra do Corda
+MA
+47850
+Barreirinhas
+MA
+8603
+Bela Vista do Maranhão
+MA
+5717
+Belágua
+MA
+5387
+Benedito Leite
+MA
+20735
+Bequimão
+MA
+5972
+Bernardo do Mearim
+MA
+7385
+Boa Vista do Gurupi
+MA
+37659
+Bom Jardim
+MA
+23827
+Bom Jesus das Selvas
+MA
+12825
+Bom Lugar
+MA
+31049
+Brejo
+MA
+5803
+Brejo de Areia
+MA
+25274
+Buriti
+MA
+22279
+Buriti Bravo
+MA
+61480
+Buriticupu
+MA
+12596
+Buritirana
+MA
+8831
+Cachoeira Grande
+MA
+9982
+Cajapió
+MA
+12842
+Cajari
+MA
+12246
+Campestre do Maranhão
+MA
+18820
+Cândido Mendes
+MA
+18827
+Cantanhede
+MA
+10385
+Capinzal do Norte
+MA
+24442
+Carolina
+MA
+20285
+Carutapera
+MA
+143197
+Caxias
+MA
+9841
+Cedral
+MA
+8776
+Central do Maranhão
+MA
+7094
+Centro do Guilherme
+MA
+15127
+Centro Novo do Maranhão
+MA
+67649
+Chapadinha
+MA
+12407
+Cidelândia
+MA
+110574
+Codó
+MA
+44031
+Coelho Neto
+MA
+35692
+Colinas
+MA
+14063
+Conceição do Lago-Açu
+MA
+60589
+Coroatá
+MA
+34018
+Cururupu
+MA
+11786
+Davinópolis
+MA
+21479
+Dom Pedro
+MA
+10384
+Duque Bacelar
+MA
+18569
+Esperantinópolis
+MA
+26490
+Estreito
+MA
+7648
+Feira Nova do Maranhão
+MA
+8105
+Fernando Falcão
+MA
+16882
+Formosa da Serra Negra
+MA
+11578
+Fortaleza dos Nogueiras
+MA
+14486
+Fortuna
+MA
+10452
+Godofredo Viana
+MA
+16444
+Gonçalves Dias
+MA
+9920
+Governador Archer
+MA
+14086
+Governador Edison Lobão
+MA
+15857
+Governador Eugênio Barros
+MA
+6884
+Governador Luiz Rocha
+MA
+11346
+Governador Newton Bello
+MA
+24012
+Governador Nunes Freire
+MA
+6254
+Graça Aranha
+MA
+54135
+Grajaú
+MA
+12387
+Guimarães
+MA
+24275
+Humberto de Campos
+MA
+24432
+Icatu
+MA
+11697
+Igarapé do Meio
+MA
+10676
+Igarapé Grande
+MA
+229671
+Imperatriz
+MA
+13197
+Itaipava do Grajaú
+MA
+54573
+Itapecuru Mirim
+MA
+25100
+Itinga do Maranhão
+MA
+8255
+Jatobá
+MA
+14815
+Jenipapo dos Vieiras
+MA
+19928
+João Lisboa
+MA
+15583
+Joselândia
+MA
+4014
+Junco do Maranhão
+MA
+42666
+Lago da Pedra
+MA
+9616
+Lago do Junco
+MA
+7780
+Lago dos Rodrigues
+MA
+14580
+Lago Verde
+MA
+10225
+Lagoa do Mato
+MA
+9015
+Lagoa Grande do Maranhão
+MA
+6620
+Lajeado Novo
+MA
+11365
+Lima Campos
+MA
+10340
+Loreto
+MA
+6672
+Luís Domingues
+MA
+14217
+Magalhães de Almeida
+MA
+17537
+Maracaçumé
+MA
+6790
+Marajá do Sena
+MA
+11887
+Maranhãozinho
+MA
+13812
+Mata Roma
+MA
+20422
+Matinha
+MA
+28278
+Matões
+MA
+10576
+Matões do Norte
+MA
+7617
+Milagres do Maranhão
+MA
+19445
+Mirador
+MA
+17742
+Miranda do Norte
+MA
+13786
+Mirinzal
+MA
+27558
+Monção
+MA
+8828
+Montes Altos
+MA
+17077
+Morros
+MA
+10003
+Nina Rodrigues
+MA
+4829
+Nova Colinas
+MA
+4892
+Nova Iorque
+MA
+17121
+Nova Olinda do Maranhão
+MA
+17361
+Olho d'Água das Cunhãs
+MA
+12068
+Olinda Nova do Maranhão
+MA
+98175
+Paço do Lumiar
+MA
+18105
+Palmeirândia
+MA
+19453
+Paraibano
+MA
+34912
+Parnarama
+MA
+17085
+Passagem Franca
+MA
+17507
+Pastos Bons
+MA
+12799
+Paulino Neves
+MA
+16129
+Paulo Ramos
+MA
+37984
+Pedreiras
+MA
+21714
+Pedro do Rosário
+MA
+33473
+Penalva
+MA
+12219
+Peri Mirim
+MA
+19017
+Peritoró
+MA
+30927
+Pindaré-Mirim
+MA
+74123
+Pinheiro
+MA
+21821
+Pio XII
+MA
+15043
+Pirapemas
+MA
+15853
+Poção de Pedras
+MA
+18692
+Porto Franco
+MA
+6900
+Porto Rico do Maranhão
+MA
+40004
+Presidente Dutra
+MA
+11705
+Presidente Juscelino
+MA
+6058
+Presidente Médici
+MA
+15606
+Presidente Sarney
+MA
+9798
+Presidente Vargas
+MA
+11999
+Primeira Cruz
+MA
+24201
+Raposa
+MA
+21016
+Riachão
+MA
+7170
+Ribamar Fiquene
+MA
+37920
+Rosário
+MA
+5792
+Sambaíba
+MA
+5526
+Santa Filomena do Maranhão
+MA
+34022
+Santa Helena
+MA
+82026
+Santa Inês
+MA
+69306
+Santa Luzia
+MA
+19633
+Santa Luzia do Paruá
+MA
+28341
+Santa Quitéria do Maranhão
+MA
+30882
+Santa Rita
+MA
+10537
+Santana do Maranhão
+MA
+11155
+Santo Amaro do Maranhão
+MA
+14225
+Santo Antônio dos Lopes
+MA
+17191
+São Benedito do Rio Preto
+MA
+37449
+São Bento
+MA
+25480
+São Bernardo
+MA
+6953
+São Domingos do Azeitão
+MA
+32557
+São Domingos do Maranhão
+MA
+4398
+São Félix de Balsas
+MA
+8431
+São Francisco do Brejão
+MA
+14194
+São Francisco do Maranhão
+MA
+18108
+São João Batista
+MA
+12281
+São João do Carú
+MA
+11267
+São João do Paraíso
+MA
+16592
+São João do Soter
+MA
+23576
+São João dos Patos
+MA
+131379
+São José de Ribamar
+MA
+7282
+São José dos Basílios
+MA
+957515
+São Luís
+MA
+19655
+São Luís Gonzaga do Maranhão
+MA
+38045
+São Mateus do Maranhão
+MA
+11113
+São Pedro da Água Branca
+MA
+4020
+São Pedro dos Crentes
+MA
+15962
+São Raimundo das Mangabeiras
+MA
+4502
+São Raimundo do Doca Bezerra
+MA
+4989
+São Roberto
+MA
+19692
+São Vicente Ferrer
+MA
+8399
+Satubinha
+MA
+9071
+Senador Alexandre Costa
+MA
+20793
+Senador La Rocque
+MA
+10576
+Serrano do Maranhão
+MA
+15549
+Sítio Novo
+MA
+10235
+Sucupira do Norte
+MA
+4675
+Sucupira do Riachão
+MA
+6652
+Tasso Fragoso
+MA
+26132
+Timbiras
+MA
+144333
+Timon
+MA
+18300
+Trizidela do Vale
+MA
+5517
+Tufilândia
+MA
+37894
+Tuntum
+MA
+32491
+Turiaçu
+MA
+20119
+Turilândia
+MA
+46280
+Tutóia
+MA
+21747
+Urbano Santos
+MA
+43228
+Vargem Grande
+MA
+47466
+Viana
+MA
+8671
+Vila Nova dos Martírios
+MA
+30935
+Vitória do Mearim
+MA
+30235
+Vitorino Freire
+MA
+45008
+Zé Doca
+PI
+6300
+Acauã
+PI
+4980
+Agricolândia
+PI
+15887
+Água Branca
+PI
+7447
+Alagoinha do Piauí
+PI
+4482
+Alegrete do Piauí
+PI
+13612
+Alto Longá
+PI
+38328
+Altos
+PI
+4976
+Alvorada do Gurguéia
+PI
+17316
+Amarante
+PI
+6609
+Angical do Piauí
+PI
+8197
+Anísio de Abreu
+PI
+3140
+Antônio Almeida
+PI
+5857
+Aroazes
+PI
+2654
+Aroeiras do Itaim
+PI
+5002
+Arraial
+PI
+8011
+Assunção do Piauí
+PI
+11507
+Avelino Lopes
+PI
+10232
+Baixa Grande do Ribeiro
+PI
+3774
+Barra D'Alcântara
+PI
+43328
+Barras
+PI
+3355
+Barreiras do Piauí
+PI
+6661
+Barro Duro
+PI
+25724
+Batalha
+PI
+3344
+Bela Vista do Piauí
+PI
+2788
+Belém do Piauí
+PI
+9560
+Beneditinos
+PI
+5302
+Bertolínia
+PI
+9312
+Betânia do Piauí
+PI
+6086
+Boa Hora
+PI
+4039
+Bocaina
+PI
+19532
+Bom Jesus
+PI
+5276
+Bom Princípio do Piauí
+PI
+5185
+Bonfim do Piauí
+PI
+6325
+Boqueirão do Piauí
+PI
+7699
+Brasileira
+PI
+3181
+Brejo do Piauí
+PI
+19150
+Buriti dos Lopes
+PI
+7820
+Buriti dos Montes
+PI
+9438
+Cabeceiras do Piauí
+PI
+3193
+Cajazeiras do Piauí
+PI
+6981
+Cajueiro da Praia
+PI
+5622
+Caldeirão Grande do Piauí
+PI
+5598
+Campinas do Piauí
+PI
+4451
+Campo Alegre do Fidalgo
+PI
+5645
+Campo Grande do Piauí
+PI
+6726
+Campo Largo do Piauí
+PI
+44548
+Campo Maior
+PI
+3984
+Canavieira
+PI
+20673
+Canto do Buriti
+PI
+10830
+Capitão de Campos
+PI
+3865
+Capitão Gervásio Oliveira
+PI
+10343
+Caracol
+PI
+5371
+Caraúbas do Piauí
+PI
+4583
+Caridade do Piauí
+PI
+18550
+Castelo do Piauí
+PI
+5023
+Caxingó
+PI
+26201
+Cocal
+PI
+4522
+Cocal de Telha
+PI
+5341
+Cocal dos Alves
+PI
+3797
+Coivaras
+PI
+5700
+Colônia do Gurguéia
+PI
+7662
+Colônia do Piauí
+PI
+4923
+Conceição do Canindé
+PI
+4356
+Coronel José Dias
+PI
+24518
+Corrente
+PI
+7800
+Cristalândia do Piauí
+PI
+9518
+Cristino Castro
+PI
+10360
+Curimatá
+PI
+4538
+Currais
+PI
+4898
+Curral Novo do Piauí
+PI
+4072
+Curralinhos
+PI
+12806
+Demerval Lobão
+PI
+6721
+Dirceu Arcoverde
+PI
+6532
+Dom Expedito Lopes
+PI
+10329
+Dom Inocêncio
+PI
+4312
+Domingos Mourão
+PI
+14174
+Elesbão Veloso
+PI
+4722
+Eliseu Martins
+PI
+36190
+Esperantina
+PI
+5190
+Fartura do Piauí
+PI
+4468
+Flores do Piauí
+PI
+2551
+Floresta do Piauí
+PI
+56090
+Floriano
+PI
+5292
+Francinópolis
+PI
+5017
+Francisco Ayres
+PI
+2255
+Francisco Macedo
+PI
+8293
+Francisco Santos
+PI
+11054
+Fronteiras
+PI
+5255
+Geminiano
+PI
+10351
+Gilbués
+PI
+9587
+Guadalupe
+PI
+4343
+Guaribas
+PI
+3674
+Hugo Napoleão
+PI
+8420
+Ilha Grande
+PI
+14973
+Inhuma
+PI
+9354
+Ipiranga do Piauí
+PI
+7790
+Isaías Coelho
+PI
+11084
+Itainópolis
+PI
+10558
+Itaueira
+PI
+5597
+Jacobina do Piauí
+PI
+16826
+Jaicós
+PI
+4171
+Jardim do Mulato
+PI
+4523
+Jatobá do Piauí
+PI
+4371
+Jerumenha
+PI
+3199
+João Costa
+PI
+13779
+Joaquim Pires
+PI
+5345
+Joca Marques
+PI
+35164
+José de Freitas
+PI
+4769
+Juazeiro do Piauí
+PI
+5250
+Júlio Borges
+PI
+4388
+Jurema
+PI
+7862
+Lagoa Alegre
+PI
+6520
+Lagoa de São Francisco
+PI
+4543
+Lagoa do Barro do Piauí
+PI
+3684
+Lagoa do Piauí
+PI
+5042
+Lagoa do Sítio
+PI
+2563
+Lagoinha do Piauí
+PI
+5586
+Landri Sales
+PI
+26147
+Luís Correia
+PI
+24323
+Luzilândia
+PI
+7680
+Madeiro
+PI
+5357
+Manoel Emídio
+PI
+7154
+Marcolândia
+PI
+4198
+Marcos Parente
+PI
+6428
+Massapê do Piauí
+PI
+10465
+Matias Olímpio
+PI
+32178
+Miguel Alves
+PI
+1194
+Miguel Leão
+PI
+7030
+Milton Brandão
+PI
+10321
+Monsenhor Gil
+PI
+7163
+Monsenhor Hipólito
+PI
+10335
+Monte Alegre do Piauí
+PI
+4241
+Morro Cabeça no Tempo
+PI
+6377
+Morro do Chapéu do Piauí
+PI
+7655
+Murici dos Portelas
+PI
+6947
+Nazaré do Piauí
+PI
+4048
+Nossa Senhora de Nazaré
+PI
+8044
+Nossa Senhora dos Remédios
+PI
+4284
+Nova Santa Rita
+PI
+6191
+Novo Oriente do Piauí
+PI
+3383
+Novo Santo Antônio
+PI
+35075
+Oeiras
+PI
+2637
+Olho D'Água do Piauí
+PI
+7340
+Padre Marcos
+PI
+4462
+Paes Landim
+PI
+3616
+Pajeú do Piauí
+PI
+4985
+Palmeira do Piauí
+PI
+13721
+Palmeirais
+PI
+4531
+Paquetá
+PI
+10313
+Parnaguá
+PI
+140839
+Parnaíba
+PI
+4127
+Passagem Franca do Piauí
+PI
+6171
+Patos do Piauí
+PI
+3713
+Pau D'Arco do Piauí
+PI
+16930
+Paulistana
+PI
+4291
+Pavussu
+PI
+36675
+Pedro II
+PI
+2105
+Pedro Laurentino
+PI
+70450
+Picos
+PI
+11722
+Pimenteiras
+PI
+17123
+Pio IX
+PI
+25625
+Piracuruca
+PI
+60249
+Piripiri
+PI
+11492
+Porto
+PI
+2468
+Porto Alegre do Piauí
+PI
+3159
+Prata do Piauí
+PI
+9146
+Queimada Nova
+PI
+8263
+Redenção do Gurguéia
+PI
+17633
+Regeneração
+PI
+4884
+Riacho Frio
+PI
+4103
+Ribeira do Piauí
+PI
+6577
+Ribeiro Gonçalves
+PI
+6430
+Rio Grande do Piauí
+PI
+5790
+Santa Cruz do Piauí
+PI
+3352
+Santa Cruz dos Milagres
+PI
+5999
+Santa Filomena
+PI
+5280
+Santa Luz
+PI
+5149
+Santa Rosa do Piauí
+PI
+4841
+Santana do Piauí
+PI
+5729
+Santo Antônio de Lisboa
+PI
+1965
+Santo Antônio dos Milagres
+PI
+3626
+Santo Inácio do Piauí
+PI
+4311
+São Braz do Piauí
+PI
+3132
+São Félix do Piauí
+PI
+5015
+São Francisco de Assis do Piauí
+PI
+6276
+São Francisco do Piauí
+PI
+2455
+São Gonçalo do Gurguéia
+PI
+4342
+São Gonçalo do Piauí
+PI
+4364
+São João da Canabrava
+PI
+5008
+São João da Fronteira
+PI
+6672
+São João da Serra
+PI
+4776
+São João da Varjota
+PI
+7081
+São João do Arraial
+PI
+18689
+São João do Piauí
+PI
+5045
+São José do Divino
+PI
+3730
+São José do Peixe
+PI
+6808
+São José do Piauí
+PI
+5908
+São Julião
+PI
+4899
+São Lourenço do Piauí
+PI
+2596
+São Luis do Piauí
+PI
+2083
+São Miguel da Baixa Grande
+PI
+3078
+São Miguel do Fidalgo
+PI
+19201
+São Miguel do Tapuio
+PI
+13083
+São Pedro do Piauí
+PI
+30852
+São Raimundo Nonato
+PI
+4178
+Sebastião Barros
+PI
+4080
+Sebastião Leal
+PI
+9506
+Sigefredo Pacheco
+PI
+13734
+Simões
+PI
+11472
+Simplício Mendes
+PI
+4599
+Socorro do Piauí
+PI
+5537
+Sussuapara
+PI
+2897
+Tamboril do Piauí
+PI
+2605
+Tanque do Piauí
+PI
+779939
+Teresina
+PI
+41661
+União
+PI
+19017
+Uruçuí
+PI
+19716
+Valença do Piauí
+PI
+5178
+Várzea Branca
+PI
+4429
+Várzea Grande
+PI
+3097
+Vera Mendes
+PI
+3030
+Vila Nova do Piauí
+PI
+4452
+Wall Ferraz
+CE
+10227
+Abaiara
+CE
+14658
+Acarape
+CE
+52123
+Acaraú
+CE
+48703
+Acopiara
+CE
+15585
+Aiuaba
+CE
+10270
+Alcântaras
+CE
+6417
+Altaneira
+CE
+19154
+Alto Santo
+CE
+37513
+Amontada
+CE
+6761
+Antonina do Norte
+CE
+13649
+Apuiarés
+CE
+67265
+Aquiraz
+CE
+66049
+Aracati
+CE
+24423
+Aracoiaba
+CE
+10649
+Ararendá
+CE
+21214
+Araripe
+CE
+12129
+Aratuba
+CE
+7302
+Arneiroz
+CE
+21616
+Assaré
+CE
+24480
+Aurora
+CE
+5780
+Baixio
+CE
+17448
+Banabuiú
+CE
+50386
+Barbalha
+CE
+18453
+Barreira
+CE
+20673
+Barro
+CE
+14812
+Barroquinha
+CE
+31669
+Baturité
+CE
+46155
+Beberibe
+CE
+29566
+Bela Cruz
+CE
+53538
+Boa Viagem
+CE
+39613
+Brejo Santo
+CE
+58470
+Camocim
+CE
+25553
+Campos Sales
+CE
+73878
+Canindé
+CE
+16403
+Capistrano
+CE
+17977
+Caridade
+CE
+18527
+Cariré
+CE
+26325
+Caririaçu
+CE
+18649
+Cariús
+CE
+16001
+Carnaubal
+CE
+63932
+Cascavel
+CE
+17028
+Catarina
+CE
+10508
+Catunda
+CE
+316906
+Caucaia 
+CE
+24607
+Cedro
+CE
+12215
+Chaval
+CE
+12790
+Choró
+CE
+18261
+Chorozinho
+CE
+21171
+Coreaú
+CE
+72386
+Crateús
+CE
+111198
+Crato
+CE
+17317
+Croatá
+CE
+22144
+Cruz
+CE
+9108
+Deputado Irapuan Pinheiro
+CE
+6927
+Ererê
+CE
+38189
+Eusébio
+CE
+19244
+Farias Brito
+CE
+20181
+Forquilha
+CE
+2431415
+Fortaleza 
+CE
+14072
+Fortim
+CE
+12830
+Frecheirinha
+CE
+6540
+General Sampaio
+CE
+15297
+Graça
+CE
+51410
+Granja
+CE
+4931
+Granjeiro
+CE
+9456
+Groaíras
+CE
+22405
+Guaiúba
+CE
+36705
+Guaraciaba do Norte
+CE
+4307
+Guaramiranga
+CE
+18534
+Hidrolândia
+CE
+48660
+Horizonte
+CE
+12735
+Ibaretama
+CE
+23088
+Ibiapina
+CE
+11000
+Ibicuitinga
+CE
+18186
+Icapuí
+CE
+63262
+Icó
+CE
+92260
+Iguatu
+CE
+25413
+Independência
+CE
+11353
+Ipaporanga
+CE
+11591
+Ipaumirim
+CE
+39438
+Ipu
+CE
+38044
+Ipueiras
+CE
+14313
+Iracema
+CE
+21921
+Irauçuba
+CE
+7462
+Itaiçaba
+CE
+31107
+Itaitinga
+CE
+45426
+Itapagé
+CE
+107281
+Itapipoca
+CE
+17602
+Itapiúna
+CE
+34296
+Itarema
+CE
+17689
+Itatira
+CE
+17851
+Jaguaretama
+CE
+9780
+Jaguaribara
+CE
+35237
+Jaguaribe
+CE
+30965
+Jaguaruana
+CE
+25810
+Jardim
+CE
+7270
+Jati
+CE
+15442
+Jijoca de Jericoacoara
+CE
+242139
+Juazeiro do Norte 
+CE
+22890
+Jucás
+CE
+29872
+Lavras da Mangabeira
+CE
+53289
+Limoeiro do Norte
+CE
+17051
+Madalena
+CE
+197301
+Maracanaú 
+CE
+102982
+Maranguape
+CE
+23107
+Marco
+CE
+10304
+Martinópole
+CE
+33256
+Massapê
+CE
+41679
+Mauriti
+CE
+12148
+Meruoca
+CE
+27355
+Milagres
+CE
+14111
+Milhã
+CE
+12131
+Miraíma
+CE
+33690
+Missão Velha
+CE
+44364
+Mombaça
+CE
+16557
+Monsenhor Tabosa
+CE
+61751
+Morada Nova
+CE
+8005
+Moraújo
+CE
+21111
+Morrinhos
+CE
+14007
+Mucambo
+CE
+10975
+Mulungu
+CE
+12974
+Nova Olinda
+CE
+30615
+Nova Russas
+CE
+27418
+Novo Oriente
+CE
+23359
+Ocara
+CE
+21268
+Orós
+CE
+54881
+Pacajus
+CE
+65772
+Pacatuba
+CE
+11097
+Pacoti
+CE
+5950
+Pacujá
+CE
+8797
+Palhano
+CE
+10352
+Palmácia
+CE
+30665
+Paracuru
+CE
+28192
+Paraipaba
+CE
+30596
+Parambu
+CE
+11573
+Paramoti
+CE
+40762
+Pedra Branca
+CE
+7715
+Penaforte
+CE
+33717
+Pentecoste
+CE
+15291
+Pereiro
+CE
+17143
+Pindoretama
+CE
+14736
+Piquet Carneiro
+CE
+9483
+Pires Ferreira
+CE
+11905
+Poranga
+CE
+14792
+Porteiras
+CE
+9670
+Potengi
+CE
+6478
+Potiretama
+CE
+20079
+Quiterianópolis
+CE
+76105
+Quixadá
+CE
+15708
+Quixelô
+CE
+68966
+Quixeramobim
+CE
+18652
+Quixeré
+CE
+25702
+Redenção
+CE
+19310
+Reriutaba
+CE
+63975
+Russas
+CE
+16282
+Saboeiro
+CE
+15798
+Salitre
+CE
+43344
+Santa Quitéria
+CE
+28741
+Santana do Acaraú
+CE
+17574
+Santana do Cariri
+CE
+43077
+São Benedito
+CE
+40312
+São Gonçalo do Amarante
+CE
+8310
+São João do Jaguaribe
+CE
+12052
+São Luís do Curu
+CE
+25290
+Senador Pompeu
+CE
+6274
+Senador Sá
+CE
+176895
+Sobral 
+CE
+17340
+Solonópole
+CE
+28291
+Tabuleiro do Norte
+CE
+25459
+Tamboril
+CE
+8734
+Tarrafas
+CE
+54273
+Tauá
+CE
+15062
+Tejuçuoca
+CE
+64612
+Tianguá
+CE
+48620
+Trairi
+CE
+13350
+Tururu
+CE
+29569
+Ubajara
+CE
+7591
+Umari
+CE
+18195
+Umirim
+CE
+19218
+Uruburetama
+CE
+12973
+Uruoca
+CE
+17087
+Varjota
+CE
+37740
+Várzea Alegre
+CE
+52855
+Viçosa do Ceará
+RN
+10911
+Acari
+RN
+51262
+Açu
+RN
+10339
+Afonso Bezerra
+RN
+2843
+Água Nova
+RN
+13729
+Alexandria
+RN
+4948
+Almino Afonso
+RN
+11443
+Alto do Rodrigues
+RN
+11227
+Angicos
+RN
+6997
+Antônio Martins
+RN
+34632
+Apodi
+RN
+24398
+Areia Branca
+RN
+12236
+Arês
+RN
+8936
+Augusto Severo
+RN
+8466
+Baía Formosa
+RN
+23098
+Baraúna
+RN
+3928
+Barcelona
+RN
+5006
+Bento Fernandes
+RN
+2542
+Bodó
+RN
+8478
+Bom Jesus
+RN
+11135
+Brejinho
+RN
+6384
+Caiçara do Norte
+RN
+3064
+Caiçara do Rio do Vento
+RN
+60656
+Caicó
+RN
+10462
+Campo Redondo
+RN
+29334
+Canguaretama
+RN
+19739
+Caraúbas
+RN
+6836
+Carnaúba dos Dantas
+RN
+9284
+Carnaubais
+RN
+65450
+Ceará-Mirim
+RN
+10890
+Cerro Corá
+RN
+5255
+Coronel Ezequiel
+RN
+4827
+Coronel João Pessoa
+RN
+7825
+Cruzeta
+RN
+42066
+Currais Novos
+RN
+6431
+Doutor Severiano
+RN
+5158
+Encanto
+RN
+5875
+Equador
+RN
+10132
+Espírito Santo
+RN
+21792
+Extremoz
+RN
+5680
+Felipe Guerra
+RN
+2876
+Fernando Pedroza
+RN
+8313
+Florânia
+RN
+2928
+Francisco Dantas
+RN
+4360
+Frutuoso Gomes
+RN
+2149
+Galinhos
+RN
+20347
+Goianinha
+RN
+12374
+Governador Dix-Sept Rosado
+RN
+9441
+Grossos
+RN
+11737
+Guamaré
+RN
+11649
+Ielmo Marinho
+RN
+13444
+Ipanguaçu
+RN
+2035
+Ipueira
+RN
+6410
+Itajá
+RN
+5758
+Itaú
+RN
+7788
+Jaçanã
+RN
+6447
+Jandaíra
+RN
+5416
+Janduís
+RN
+8294
+Januário Cicco
+RN
+5610
+Japi
+RN
+2536
+Jardim de Angicos
+RN
+13704
+Jardim de Piranhas
+RN
+12013
+Jardim do Seridó
+RN
+30423
+João Câmara
+RN
+2723
+João Dias
+RN
+5982
+José da Penha
+RN
+17501
+Jucurutu
+RN
+3517
+Jundiá
+RN
+5940
+Lagoa d'Anta
+RN
+6989
+Lagoa de Pedras
+RN
+2699
+Lagoa de Velhos
+RN
+13167
+Lagoa Nova
+RN
+7179
+Lagoa Salgada
+RN
+10412
+Lajes
+RN
+4217
+Lajes Pintadas
+RN
+3418
+Lucrécia
+RN
+9763
+Luís Gomes
+RN
+63337
+Macaíba
+RN
+27132
+Macau
+RN
+3459
+Major Sales
+RN
+8112
+Marcelino Vieira
+RN
+8089
+Martins
+RN
+8969
+Maxaranguape
+RN
+3795
+Messias Targino
+RN
+12393
+Montanhas
+RN
+20590
+Monte Alegre
+RN
+2394
+Monte das Gameleiras
+RN
+234390
+Mossoró
+RN
+774230
+Natal
+RN
+22906
+Nísia Floresta
+RN
+35280
+Nova Cruz
+RN
+4442
+Olho-d'Água do Borges
+RN
+4973
+Ouro Branco
+RN
+3886
+Paraná
+RN
+3880
+Paraú
+RN
+4772
+Parazinho
+RN
+19972
+Parelhas
+RN
+172751
+Parnamirim
+RN
+10372
+Passa e Fica
+RN
+2629
+Passagem
+RN
+11303
+Patu
+RN
+26728
+Pau dos Ferros
+RN
+3918
+Pedra Grande
+RN
+2659
+Pedra Preta
+RN
+7405
+Pedro Avelino
+RN
+13673
+Pedro Velho
+RN
+12505
+Pendências
+RN
+3381
+Pilões
+RN
+12288
+Poço Branco
+RN
+6855
+Portalegre
+RN
+4792
+Porto do Mangue
+RN
+8283
+Presidente Juscelino
+RN
+8030
+Pureza
+RN
+4608
+Rafael Fernandes
+RN
+3131
+Rafael Godeiro
+RN
+3025
+Riacho da Cruz
+RN
+4292
+Riacho de Santana
+RN
+6824
+Riachuelo
+RN
+9753
+Rio do Fogo
+RN
+4569
+Rodolfo Fernandes
+RN
+3625
+Ruy Barbosa
+RN
+33736
+Santa Cruz
+RN
+4659
+Santa Maria
+RN
+14312
+Santana do Matos
+RN
+2729
+Santana do Seridó
+RN
+21263
+Santo Antônio
+RN
+3529
+São Bento do Norte
+RN
+3702
+São Bento do Trairí
+RN
+3381
+São Fernando
+RN
+3669
+São Francisco do Oeste
+RN
+77363
+São Gonçalo do Amarante
+RN
+5765
+São João do Sabugi
+RN
+36990
+São José de Mipibu
+RN
+11744
+São José do Campestre
+RN
+3925
+São José do Seridó
+RN
+22579
+São Miguel
+RN
+8810
+São Miguel do Gostoso
+RN
+14483
+São Paulo do Potengi
+RN
+6433
+São Pedro
+RN
+8116
+São Rafael
+RN
+11115
+São Tomé
+RN
+5819
+São Vicente
+RN
+5906
+Senador Elói de Souza
+RN
+3690
+Senador Georgino Avelino
+RN
+5801
+Serra de São Bento
+RN
+9216
+Serra do Mel
+RN
+7241
+Serra Negra do Norte
+RN
+6740
+Serrinha
+RN
+4360
+Serrinha dos Pintos
+RN
+5671
+Severiano Melo
+RN
+5212
+Sítio Novo
+RN
+2278
+Taboleiro Grande
+RN
+11768
+Taipu
+RN
+13081
+Tangará
+RN
+9311
+Tenente Ananias
+RN
+5120
+Tenente Laurentino Cruz
+RN
+3750
+Tibau
+RN
+10959
+Tibau do Sul
+RN
+2295
+Timbaúba dos Batistas
+RN
+29436
+Touros
+RN
+3272
+Triunfo Potiguar
+RN
+10640
+Umarizal
+RN
+12719
+Upanema
+RN
+5276
+Várzea
+RN
+3494
+Venha-Ver
+RN
+10313
+Vera Cruz
+RN
+1769
+Viçosa
+RN
+2647
+Vila Flor
+PB
+9224
+Água Branca
+PB
+5629
+Aguiar
+PB
+27448
+Alagoa Grande
+PB
+19163
+Alagoa Nova
+PB
+13025
+Alagoinha
+PB
+5068
+Alcantil
+PB
+2342
+Algodão de Jandaíra
+PB
+18183
+Alhandra
+PB
+2007
+Amparo
+PB
+7323
+Aparecida
+PB
+17376
+Araçagi
+PB
+12356
+Arara
+PB
+19191
+Araruna
+PB
+24992
+Areia
+PB
+2096
+Areia de Baraúnas
+PB
+6234
+Areial
+PB
+19174
+Aroeiras
+PB
+3336
+Assunção
+PB
+7630
+Baía da Traição
+PB
+21670
+Bananeiras
+PB
+3864
+Baraúna
+PB
+12848
+Barra de Santa Rosa
+PB
+8619
+Barra de Santana
+PB
+5435
+Barra de São Miguel
+PB
+92891
+Bayeux
+PB
+17173
+Belém
+PB
+7040
+Belém do Brejo do Cruz
+PB
+3164
+Bernardino Batista
+PB
+5800
+Boa Ventura
+PB
+5673
+Boa Vista
+PB
+2233
+Bom Jesus
+PB
+5152
+Bom Sucesso
+PB
+10253
+Bonito de Santa Fé
+PB
+15877
+Boqueirão
+PB
+5009
+Borborema
+PB
+12424
+Brejo do Cruz
+PB
+5743
+Brejo dos Santos
+PB
+19388
+Caaporã
+PB
+4907
+Cabaceiras
+PB
+49728
+Cabedelo
+PB
+8388
+Cachoeira dos Índios
+PB
+3485
+Cacimba de Areia
+PB
+17108
+Cacimba de Dentro
+PB
+6787
+Cacimbas
+PB
+7314
+Caiçara
+PB
+56051
+Cajazeiras
+PB
+3057
+Cajazeirinhas
+PB
+5363
+Caldas Brandão
+PB
+5761
+Camalaú
+PB
+371060
+Campina Grande
+PB
+9549
+Campo de Santana
+PB
+5207
+Capim
+PB
+3824
+Caraúbas
+PB
+2389
+Carrapateira
+PB
+6762
+Casserengue
+PB
+4849
+Catingueira
+PB
+27548
+Catolé do Rocha
+PB
+4467
+Caturité
+PB
+17496
+Conceição
+PB
+6702
+Condado
+PB
+19925
+Conde
+PB
+4770
+Congo
+PB
+15236
+Coremas
+PB
+1705
+Coxixola
+PB
+15281
+Cruz do Espírito Santo
+PB
+6356
+Cubati
+PB
+20197
+Cuité
+PB
+6505
+Cuité de Mamanguape
+PB
+7047
+Cuitegi
+PB
+5469
+Curral de Cima
+PB
+2781
+Curral Velho
+PB
+4807
+Damião
+PB
+7929
+Desterro
+PB
+6582
+Diamante
+PB
+10832
+Dona Inês
+PB
+3748
+Duas Estradas
+PB
+3257
+Emas
+PB
+29801
+Esperança
+PB
+11830
+Fagundes
+PB
+2935
+Frei Martinho
+PB
+8236
+Gado Bravo
+PB
+54200
+Guarabira
+PB
+13209
+Gurinhém
+PB
+2985
+Gurjão
+PB
+6139
+Ibiara
+PB
+6334
+Igaracy
+PB
+11451
+Imaculada
+PB
+18168
+Ingá
+PB
+24752
+Itabaiana
+PB
+22425
+Itaporanga
+PB
+15966
+Itapororoca
+PB
+9841
+Itatuba
+PB
+13708
+Jacaraú
+PB
+7825
+Jericó
+PB
+674762
+João Pessoa
+PB
+7618
+Juarez Távora
+PB
+15899
+Juazeirinho
+PB
+6486
+Junco do Seridó
+PB
+10240
+Juripiranga
+PB
+10222
+Juru
+PB
+4807
+Lagoa
+PB
+7258
+Lagoa de Dentro
+PB
+24937
+Lagoa Seca
+PB
+2834
+Lastro
+PB
+7105
+Livramento
+PB
+3816
+Logradouro
+PB
+10943
+Lucena
+PB
+4017
+Mãe d'Água
+PB
+5634
+Malta
+PB
+40283
+Mamanguape
+PB
+10986
+Manaíra
+PB
+7287
+Marcação
+PB
+20526
+Mari
+PB
+6214
+Marizópolis
+PB
+12494
+Massaranduba
+PB
+6984
+Mataraca
+PB
+4178
+Matinhas
+PB
+2601
+Mato Grosso
+PB
+5785
+Maturéia
+PB
+12305
+Mogeiro
+PB
+4558
+Montadas
+PB
+4345
+Monte Horebe
+PB
+29980
+Monteiro
+PB
+9317
+Mulungu
+PB
+10216
+Natuba
+PB
+6933
+Nazarezinho
+PB
+10032
+Nova Floresta
+PB
+6280
+Nova Olinda
+PB
+3934
+Nova Palmeira
+PB
+7450
+Olho d'Água
+PB
+3489
+Olivedos
+PB
+2974
+Ouro Velho
+PB
+1245
+Parari
+PB
+2124
+Passagem
+PB
+97276
+Patos
+PB
+11619
+Paulista
+PB
+3745
+Pedra Branca
+PB
+6810
+Pedra Lavrada
+PB
+26279
+Pedras de Fogo
+PB
+5588
+Pedro Régis
+PB
+15881
+Piancó
+PB
+18716
+Picuí
+PB
+11301
+Pilar
+PB
+6936
+Pilões
+PB
+5319
+Pilõezinhos
+PB
+10232
+Pirpirituba
+PB
+16140
+Pitimbu
+PB
+15956
+Pocinhos
+PB
+3919
+Poço Dantas
+PB
+3959
+Poço de José de Moura
+PB
+31524
+Pombal
+PB
+3896
+Prata
+PB
+19330
+Princesa Isabel
+PB
+12881
+Puxinanã
+PB
+38883
+Queimadas
+PB
+1433
+Quixabá
+PB
+16748
+Remígio
+PB
+3405
+Riachão
+PB
+4172
+Riachão do Bacamarte
+PB
+4239
+Riachão do Poço
+PB
+1524
+Riacho de Santo Antônio
+PB
+8057
+Riacho dos Cavalos
+PB
+23023
+Rio Tinto
+PB
+3367
+Salgadinho
+PB
+12526
+Salgado de São Félix
+PB
+7016
+Santa Cecília
+PB
+6480
+Santa Cruz
+PB
+6028
+Santa Helena
+PB
+3707
+Santa Inês
+PB
+14292
+Santa Luzia
+PB
+122454
+Santa Rita
+PB
+4644
+Santa Teresinha
+PB
+5609
+Santana de Mangueira
+PB
+7610
+Santana dos Garrotes
+PB
+2660
+Santarém
+PB
+2641
+Santo André
+PB
+4049
+São Bentinho
+PB
+29196
+São Bento
+PB
+2719
+São Domingos de Pombal
+PB
+2265
+São Domingos do Cariri
+PB
+3442
+São Francisco
+PB
+4438
+São João do Cariri
+PB
+17773
+São João do Rio do Peixe
+PB
+4578
+São João do Tigre
+PB
+7810
+São José da Lagoa Tapada
+PB
+5942
+São José de Caiana
+PB
+4913
+São José de Espinharas
+PB
+18898
+São José de Piranhas
+PB
+4644
+São José de Princesa
+PB
+3180
+São José do Bonfim
+PB
+1647
+São José do Brejo do Cruz
+PB
+3986
+São José do Sabugi
+PB
+3973
+São José dos Cordeiros
+PB
+5482
+São José dos Ramos
+PB
+7782
+São Mamede
+PB
+6568
+São Miguel de Taipu
+PB
+10908
+São Sebastião de Lagoa de Roça
+PB
+3061
+São Sebastião do Umbuzeiro
+PB
+46363
+Sapé
+PB
+9737
+Seridó
+PB
+12413
+Serra Branca
+PB
+3130
+Serra da Raiz
+PB
+3038
+Serra Grande
+PB
+7651
+Serra Redonda
+PB
+6602
+Serraria
+PB
+4213
+Sertãozinho
+PB
+7340
+Sobrado
+PB
+27346
+Solânea
+PB
+13128
+Soledade
+PB
+2965
+Sossêgo
+PB
+63783
+Sousa
+PB
+16456
+Sumé
+PB
+14715
+Taperoá
+PB
+14021
+Tavares
+PB
+13685
+Teixeira
+PB
+2806
+Tenório
+PB
+9624
+Triunfo
+PB
+14454
+Uiraúna
+PB
+9173
+Umbuzeiro
+PB
+2457
+Várzea
+PB
+4756
+Vieirópolis
+PB
+3253
+Vista Serrana
+PB
+2024
+Zabelê
+PE
+92217
+Abreu e Lima
+PE
+34047
+Afogados da Ingazeira
+PE
+16471
+Afrânio
+PE
+21456
+Agrestina
+PE
+29508
+Água Preta
+PE
+37992
+Águas Belas
+PE
+14016
+Alagoinha
+PE
+34740
+Aliança
+PE
+21782
+Altinho
+PE
+20149
+Amaraji
+PE
+9836
+Angelim
+PE
+16520
+Araçoiaba
+PE
+75878
+Araripina
+PE
+64863
+Arcoverde
+PE
+13900
+Barra de Guabiraba
+PE
+41748
+Barreiros
+PE
+9649
+Belém de Maria
+PE
+20545
+Belém de São Francisco
+PE
+70963
+Belo Jardim
+PE
+11548
+Betânia
+PE
+56629
+Bezerros
+PE
+33381
+Bodocó
+PE
+43397
+Bom Conselho
+PE
+39023
+Bom Jardim
+PE
+39111
+Bonito
+PE
+9341
+Brejão
+PE
+7158
+Brejinho
+PE
+40265
+Brejo da Madre de Deus
+PE
+12962
+Buenos Aires
+PE
+49937
+Buíque
+PE
+163139
+Cabo de Santo Agostinho
+PE
+28851
+Cabrobó
+PE
+17421
+Cachoeirinha
+PE
+25219
+Caetés
+PE
+11337
+Calçado
+PE
+7577
+Calumbi
+PE
+136381
+Camaragibe
+PE
+15831
+Camocim de São Félix
+PE
+7921
+Camutanga
+PE
+24218
+Canhotinho
+PE
+19337
+Capoeiras
+PE
+18345
+Carnaíba
+PE
+11689
+Carnaubeira da Penha
+PE
+65390
+Carpina
+PE
+289086
+Caruaru 
+PE
+14103
+Casinhas
+PE
+33479
+Catende
+PE
+10283
+Cedro
+PE
+11636
+Chã de Alegria
+PE
+17563
+Chã Grande
+PE
+23211
+Condado
+PE
+16330
+Correntes
+PE
+11616
+Cortês
+PE
+16388
+Cumaru
+PE
+22106
+Cupira
+PE
+32157
+Custódia
+PE
+15595
+Dormentes
+PE
+59850
+Escada
+PE
+30567
+Exu
+PE
+19276
+Feira Nova
+PE
+2801
+Fernando de Noronha
+PE
+11002
+Ferreiros
+PE
+21962
+Flores
+PE
+26648
+Floresta
+PE
+14067
+Frei Miguelinho
+PE
+26281
+Gameleira
+PE
+124996
+Garanhuns
+PE
+27397
+Glória do Goitá
+PE
+71796
+Goiana
+PE
+6593
+Granito
+PE
+71570
+Gravatá
+PE
+17733
+Iati
+PE
+27261
+Ibimirim
+PE
+7545
+Ibirajuba
+PE
+93748
+Igarassu
+PE
+11880
+Iguaraci
+PE
+17573
+Ilha de Itamaracá
+PE
+14036
+Inajá
+PE
+4444
+Ingazeira
+PE
+70070
+Ipojuca
+PE
+25718
+Ipubi
+PE
+4097
+Itacuruba
+PE
+26735
+Itaíba
+PE
+34944
+Itambé
+PE
+13849
+Itapetim
+PE
+22852
+Itapissuma
+PE
+14985
+Itaquitinga
+PE
+665387
+Jaboatão dos Guararapes 
+PE
+12102
+Jaqueira
+PE
+14813
+Jataúba
+PE
+13797
+Jatobá
+PE
+28488
+João Alfredo
+PE
+15947
+Joaquim Nabuco
+PE
+10500
+Jucati
+PE
+13628
+Jupi
+PE
+14760
+Jurema
+PE
+14380
+Lagoa do Carro
+PE
+19987
+Lagoa do Itaenga
+PE
+11655
+Lagoa do Ouro
+PE
+15967
+Lagoa dos Gatos
+PE
+21125
+Lagoa Grande
+PE
+33348
+Lajedo
+PE
+55560
+Limoeiro
+PE
+23078
+Macaparana
+PE
+11152
+Machados
+PE
+16540
+Manari
+PE
+12352
+Maraial
+PE
+13304
+Mirandiba
+PE
+10424
+Moreilândia
+PE
+52830
+Moreno
+PE
+29202
+Nazaré da Mata
+PE
+391433
+Olinda 
+PE
+21632
+Orobó
+PE
+13167
+Orocó
+PE
+63042
+Ouricuri
+PE
+56643
+Palmares
+PE
+8487
+Palmeirina
+PE
+24918
+Panelas
+PE
+11669
+Paranatama
+PE
+19214
+Parnamirim
+PE
+27910
+Passira
+PE
+45777
+Paudalho
+PE
+307284
+Paulista 
+PE
+20132
+Pedra
+PE
+61337
+Pesqueira
+PE
+30597
+Petrolândia
+PE
+268339
+Petrolina 
+PE
+11135
+Poção
+PE
+21810
+Pombos
+PE
+11853
+Primavera
+PE
+24197
+Quipapá
+PE
+6875
+Quixaba
+PE
+1533580
+Recife 
+PE
+18269
+Riacho das Almas
+PE
+38755
+Ribeirão
+PE
+21024
+Rio Formoso
+PE
+13709
+Sairé
+PE
+7770
+Salgadinho
+PE
+53167
+Salgueiro
+PE
+15027
+Saloá
+PE
+17627
+Sanharó
+PE
+13644
+Santa Cruz
+PE
+11610
+Santa Cruz da Baixa Verde
+PE
+73680
+Santa Cruz do Capibaribe
+PE
+13759
+Santa Filomena
+PE
+39626
+Santa Maria da Boa Vista
+PE
+12348
+Santa Maria do Cambucá
+PE
+9934
+Santa Terezinha
+PE
+9790
+São Benedito do Sul
+PE
+47230
+São Bento do Una
+PE
+34769
+São Caitano
+PE
+21011
+São João
+PE
+20869
+São Joaquim do Monte
+PE
+17090
+São José da Coroa Grande
+PE
+32704
+São José do Belmonte
+PE
+30469
+São José do Egito
+PE
+95304
+São Lourenço da Mata
+PE
+16598
+São Vicente Ferrer
+PE
+76198
+Serra Talhada
+PE
+18228
+Serrita
+PE
+34069
+Sertânia
+PE
+36414
+Sirinhaém
+PE
+5837
+Solidão
+PE
+53934
+Surubim
+PE
+25836
+Tabira
+PE
+12095
+Tacaimbó
+PE
+20552
+Tacaratu
+PE
+18137
+Tamandaré
+PE
+21447
+Taquaritinga do Norte
+PE
+6496
+Terezinha
+PE
+9057
+Terra Nova
+PE
+51529
+Timbaúba
+PE
+29900
+Toritama
+PE
+12734
+Tracunhaém
+PE
+24642
+Trindade
+PE
+15225
+Triunfo
+PE
+18913
+Tupanatinga
+PE
+8257
+Tuparetama
+PE
+15576
+Venturosa
+PE
+9567
+Verdejante
+PE
+7500
+Vertente do Lério
+PE
+17021
+Vertentes
+PE
+27360
+Vicência
+PE
+121233
+Vitória de Santo Antão
+PE
+14224
+Xexéu
+AL
+19316
+Água Branca
+AL
+17274
+Anadia
+AL
+202398
+Arapiraca
+AL
+50323
+Atalaia
+AL
+13731
+Barra de Santo Antônio
+AL
+7247
+Barra de São Miguel
+AL
+16247
+Batalha
+AL
+5031
+Belém
+AL
+7238
+Belo Monte
+AL
+25145
+Boca da Mata
+AL
+11796
+Branquinha
+AL
+9843
+Cacimbinhas
+AL
+20076
+Cajueiro
+AL
+6016
+Campestre
+AL
+45307
+Campo Alegre
+AL
+9563
+Campo Grande
+AL
+17793
+Canapi
+AL
+17034
+Capela
+AL
+8044
+Carneiros
+AL
+6953
+Chã Preta
+AL
+10916
+Coité do Nóia
+AL
+19363
+Colônia Leopoldina
+AL
+5336
+Coqueiro Seco
+AL
+51027
+Coruripe
+AL
+22411
+Craíbas
+AL
+46599
+Delmiro Gouveia
+AL
+10885
+Dois Riachos
+AL
+16694
+Estrela de Alagoas
+AL
+21180
+Feira Grande
+AL
+4370
+Feliz Deserto
+AL
+11928
+Flexeiras
+AL
+35162
+Girau do Ponciano
+AL
+15359
+Ibateguara
+AL
+25140
+Igaci
+AL
+22925
+Igreja Nova
+AL
+17637
+Inhapi
+AL
+5724
+Jacaré dos Homens
+AL
+6883
+Jacuípe
+AL
+7463
+Japaratinga
+AL
+5939
+Jaramataia
+AL
+11430
+Jequiá da Praia
+AL
+21735
+Joaquim Gomes
+AL
+4569
+Jundiá
+AL
+24460
+Junqueiro
+AL
+18017
+Lagoa da Canoa
+AL
+25484
+Limoeiro de Anadia
+AL
+896965
+Maceió
+AL
+18811
+Major Isidoro
+AL
+4014
+Mar Vermelho
+AL
+25726
+Maragogi
+AL
+10203
+Maravilha
+AL
+45141
+Marechal Deodoro
+AL
+13865
+Maribondo
+AL
+24599
+Mata Grande
+AL
+24656
+Matriz de Camaragibe
+AL
+15072
+Messias
+AL
+5160
+Minador do Negrão
+AL
+7090
+Monteirópolis
+AL
+25964
+Murici
+AL
+11903
+Novo Lino
+AL
+19885
+Olho d'Água das Flores
+AL
+8139
+Olho d'Água do Casado
+AL
+4817
+Olho d'Água Grande
+AL
+10522
+Olivença
+AL
+11049
+Ouro Branco
+AL
+4878
+Palestina
+AL
+70151
+Palmeira dos Índios
+AL
+23855
+Pão de Açúcar
+AL
+10209
+Pariconha
+AL
+9725
+Paripueira
+AL
+13826
+Passo de Camaragibe
+AL
+7534
+Paulo Jacinto
+AL
+59020
+Penedo
+AL
+17466
+Piaçabuçu
+AL
+31627
+Pilar
+AL
+3126
+Pindoba
+AL
+23910
+Piranhas
+AL
+12205
+Poço das Trincheiras
+AL
+25129
+Porto Calvo
+AL
+10321
+Porto de Pedras
+AL
+17947
+Porto Real do Colégio
+AL
+11289
+Quebrangulo
+AL
+65432
+Rio Largo
+AL
+6692
+Roteiro
+AL
+7248
+Santa Luzia do Norte
+AL
+42296
+Santana do Ipanema
+AL
+11663
+Santana do Mundaú
+AL
+6820
+São Brás
+AL
+22282
+São José da Laje
+AL
+30129
+São José da Tapera
+AL
+31647
+São Luís do Quitunde
+AL
+51473
+São Miguel dos Campos
+AL
+7219
+São Miguel dos Milagres
+AL
+31002
+São Sebastião
+AL
+14154
+Satuba
+AL
+12641
+Senador Rui Palmeira
+AL
+5695
+Tanque d'Arca
+AL
+18157
+Taquarana
+AL
+40291
+Teotônio Vilela
+AL
+24911
+Traipu
+AL
+60619
+União dos Palmares
+AL
+26050
+Viçosa
+SE
+2197
+Amparo de São Francisco
+SE
+19185
+Aquidabã
+SE
+520303
+Aracaju
+SE
+11633
+Arauá
+SE
+16072
+Areia Branca
+SE
+19218
+Barra dos Coqueiros
+SE
+24472
+Boquim
+SE
+7760
+Brejo Grande
+SE
+16122
+Campo do Brito
+SE
+3910
+Canhoba
+SE
+21806
+Canindé de São Francisco
+SE
+27913
+Capela
+SE
+18965
+Carira
+SE
+11911
+Carmópolis
+SE
+5358
+Cedro de São João
+SE
+15867
+Cristinápolis
+SE
+3741
+Cumbe
+SE
+4198
+Divina Pastora
+SE
+61368
+Estância
+SE
+5628
+Feira Nova
+SE
+12589
+Frei Paulo
+SE
+11606
+Gararu
+SE
+2773
+General Maynard
+SE
+5554
+Gracho Cardoso
+SE
+8598
+Ilha das Flores
+SE
+17089
+Indiaroba
+SE
+83161
+Itabaiana
+SE
+37431
+Itabaianinha
+SE
+4736
+Itabi
+SE
+28131
+Itaporanga d'Ajuda
+SE
+15450
+Japaratuba
+SE
+13539
+Japoatã
+SE
+88980
+Lagarto
+SE
+23923
+Laranjeiras
+SE
+6295
+Macambira
+SE
+3658
+Malhada dos Bois
+SE
+11728
+Malhador
+SE
+15150
+Maruim
+SE
+10910
+Moita Bonita
+SE
+13199
+Monte Alegre de Sergipe
+SE
+7225
+Muribeca
+SE
+18909
+Neópolis
+SE
+8517
+Nossa Senhora Aparecida
+SE
+29546
+Nossa Senhora da Glória
+SE
+23800
+Nossa Senhora das Dores
+SE
+6280
+Nossa Senhora de Lourdes
+SE
+148546
+Nossa Senhora do Socorro
+SE
+12377
+Pacatuba
+SE
+2774
+Pedra Mole
+SE
+8389
+Pedrinhas
+SE
+5590
+Pinhão
+SE
+8227
+Pirambu
+SE
+28969
+Poço Redondo
+SE
+21083
+Poço Verde
+SE
+26520
+Porto da Folha
+SE
+27629
+Propriá
+SE
+19019
+Riachão do Dantas
+SE
+9087
+Riachuelo
+SE
+15676
+Ribeirópolis
+SE
+8518
+Rosário do Catete
+SE
+18563
+Salgado
+SE
+13041
+Santa Luzia do Itanhy
+SE
+3844
+Santa Rosa de Lima
+SE
+6596
+Santana do São Francisco
+SE
+11652
+Santo Amaro das Brotas
+SE
+71931
+São Cristóvão
+SE
+10128
+São Domingos
+SE
+2874
+São Francisco
+SE
+3670
+São Miguel do Aleixo
+SE
+37145
+Simão Dias
+SE
+7618
+Siriri
+SE
+2852
+Telha
+SE
+47265
+Tobias Barreto
+SE
+12877
+Tomar do Geru
+SE
+20562
+Umbaúba
+BA
+8638
+Abaíra
+BA
+17342
+Abaré
+BA
+14628
+Acajutiba
+BA
+14824
+Adustina
+BA
+14814
+Água Fria
+BA
+5212
+Aiquara
+BA
+132725
+Alagoinhas
+BA
+19840
+Alcobaça
+BA
+6687
+Almadina
+BA
+33554
+Amargosa
+BA
+22096
+Amélia Rodrigues
+BA
+16189
+América Dourada
+BA
+25716
+Anagé
+BA
+14088
+Andaraí
+BA
+14132
+Andorinha
+BA
+14700
+Angical
+BA
+9523
+Anguera
+BA
+16446
+Antas
+BA
+12074
+Antônio Cardoso
+BA
+10653
+Antônio Gonçalves
+BA
+17870
+Aporá
+BA
+7379
+Apuarema
+BA
+11662
+Araças
+BA
+14168
+Aracatu
+BA
+51912
+Araci
+BA
+9527
+Aramari
+BA
+10717
+Arataca
+BA
+8507
+Aratuípe
+BA
+14458
+Aurelino Leal
+BA
+13437
+Baianópolis
+BA
+20980
+Baixa Grande
+BA
+10865
+Banzaê
+BA
+47755
+Barra
+BA
+20750
+Barra da Estiva
+BA
+32489
+Barra do Choça
+BA
+14054
+Barra do Mendes
+BA
+6133
+Barra do Rocha
+BA
+129501
+Barreiras
+BA
+13403
+Barro Alto
+BA
+6669
+Barro Preto
+BA
+13182
+Barrocas
+BA
+21479
+Belmonte
+BA
+15262
+Belo Campo
+BA
+13961
+Biritinga
+BA
+16007
+Boa Nova
+BA
+17841
+Boa Vista do Tupim
+BA
+62199
+Bom Jesus da Lapa
+BA
+10295
+Bom Jesus da Serra
+BA
+13227
+Boninal
+BA
+13678
+Bonito
+BA
+21863
+Boquira
+BA
+11026
+Botuporã
+BA
+12677
+Brejões
+BA
+9337
+Brejolândia
+BA
+10922
+Brotas de Macaúbas
+BA
+62381
+Brumado
+BA
+19956
+Buerarema
+BA
+18656
+Buritirama
+BA
+10367
+Caatiba
+BA
+17502
+Cabaceiras do Paraguaçu
+BA
+32252
+Cachoeira
+BA
+21847
+Caculé
+BA
+10377
+Caém
+BA
+12133
+Caetanos
+BA
+46192
+Caetité
+BA
+17402
+Cafarnaum
+BA
+13712
+Cairu
+BA
+13072
+Caldeirão Grande
+BA
+30289
+Camacan
+BA
+220495
+Camaçari 
+BA
+32172
+Camamu
+BA
+26935
+Campo Alegre de Lourdes
+BA
+65137
+Campo Formoso
+BA
+10577
+Canápolis
+BA
+24436
+Canarana
+BA
+35743
+Canavieiras
+BA
+9019
+Candeal
+BA
+78618
+Candeias
+BA
+12352
+Candiba
+BA
+26727
+Cândido Sales
+BA
+32789
+Cansanção
+BA
+14656
+Canudos
+BA
+12311
+Capela do Alto Alegre
+BA
+25823
+Capim Grosso
+BA
+10541
+Caraíbas
+BA
+21150
+Caravelas
+BA
+8280
+Cardeal da Silva
+BA
+28879
+Carinhanha
+BA
+62862
+Casa Nova
+BA
+24437
+Castro Alves
+BA
+3767
+Catolândia
+BA
+48697
+Catu
+BA
+8545
+Caturama
+BA
+17320
+Central
+BA
+10571
+Chorrochó
+BA
+30827
+Cícero Dantas
+BA
+15063
+Cipó
+BA
+22764
+Coaraci
+BA
+17394
+Cocos
+BA
+19091
+Conceição da Feira
+BA
+17684
+Conceição do Almeida
+BA
+60835
+Conceição do Coité
+BA
+27522
+Conceição do Jacuípe
+BA
+22034
+Conde
+BA
+17004
+Condeúba
+BA
+3857
+Contendas do Sincorá
+BA
+23161
+Coração de Maria
+BA
+8518
+Cordeiros
+BA
+14555
+Coribe
+BA
+18168
+Coronel João Sá
+BA
+31658
+Correntina
+BA
+13663
+Cotegipe
+BA
+5429
+Cravolândia
+BA
+19510
+Crisópolis
+BA
+13595
+Cristópolis
+BA
+54827
+Cruz das Almas
+BA
+32449
+Curaçá
+BA
+12565
+Dário Meira
+BA
+53821
+Dias d'Ávila
+BA
+11087
+Dom Basílio
+BA
+3809
+Dom Macedo Costa
+BA
+7907
+Elísio Medrado
+BA
+22525
+Encruzilhada
+BA
+38886
+Entre Rios
+BA
+10609
+Érico Cardoso
+BA
+31118
+Esplanada
+BA
+56625
+Euclides da Cunha
+BA
+93984
+Eunápolis
+BA
+18918
+Fátima
+BA
+6328
+Feira da Mata
+BA
+571997
+Feira de Santana 
+BA
+15979
+Filadélfia
+BA
+5577
+Firmino Alves
+BA
+10333
+Floresta Azul
+BA
+20845
+Formosa do Rio Preto
+BA
+30091
+Gandu
+BA
+4444
+Gavião
+BA
+11326
+Gentio do Ouro
+BA
+13879
+Glória
+BA
+6845
+Gongogi
+BA
+19828
+Governador Mangabeira
+BA
+7062
+Guajeru
+BA
+76230
+Guanambi
+BA
+22621
+Guaratinga
+BA
+14020
+Heliópolis
+BA
+27835
+Iaçu
+BA
+9507
+Ibiassucê
+BA
+24752
+Ibicaraí
+BA
+15856
+Ibicoara
+BA
+15777
+Ibicuí
+BA
+16762
+Ibipeba
+BA
+13841
+Ibipitanga
+BA
+5007
+Ibiquera
+BA
+23197
+Ibirapitanga
+BA
+7534
+Ibirapuã
+BA
+23940
+Ibirataia
+BA
+15802
+Ibitiara
+BA
+18614
+Ibititá
+BA
+25292
+Ibotirama
+BA
+5881
+Ichu
+BA
+14499
+Igaporã
+BA
+13246
+Igrapiúna
+BA
+27849
+Iguaí
+BA
+220144
+Ilhéus 
+BA
+34388
+Inhambupe
+BA
+16055
+Ipecaetá
+BA
+42561
+Ipiaú
+BA
+60043
+Ipirá
+BA
+8931
+Ipupiara
+BA
+7215
+Irajuba
+BA
+15134
+Iramaia
+BA
+22607
+Iraquara
+BA
+25012
+Irará
+BA
+62676
+Irecê
+BA
+25821
+Itabela
+BA
+59393
+Itaberaba
+BA
+210604
+Itabuna 
+BA
+24720
+Itacaré
+BA
+14154
+Itaeté
+BA
+13882
+Itagi
+BA
+16272
+Itagibá
+BA
+7049
+Itagimirim
+BA
+12545
+Itaguaçu da Bahia
+BA
+7673
+Itaju do Colônia
+BA
+20343
+Itajuípe
+BA
+65327
+Itamaraju
+BA
+8468
+Itamari
+BA
+33687
+Itambé
+BA
+6605
+Itanagra
+BA
+20636
+Itanhém
+BA
+19897
+Itaparica
+BA
+11123
+Itapé
+BA
+11520
+Itapebi
+BA
+63243
+Itapetinga
+BA
+30703
+Itapicuru
+BA
+10106
+Itapitanga
+BA
+7564
+Itaquara
+BA
+17615
+Itarantim
+BA
+14569
+Itatim
+BA
+15764
+Itiruçu
+BA
+35749
+Itiúba
+BA
+20165
+Itororó
+BA
+17939
+Ituaçu
+BA
+23530
+Ituberá
+BA
+11469
+Iuiú
+BA
+8931
+Jaborandi
+BA
+14346
+Jacaraci
+BA
+76463
+Jacobina
+BA
+46641
+Jaguaquara
+BA
+29097
+Jaguarari
+BA
+16207
+Jaguaripe
+BA
+9758
+Jandaíra
+BA
+145964
+Jequié
+BA
+37431
+Jeremoabo
+BA
+13386
+Jiquiriçá
+BA
+16839
+Jitaúna
+BA
+20834
+João Dourado
+BA
+230538
+Juazeiro 
+BA
+10599
+Jucuruçu
+BA
+14833
+Jussara
+BA
+6857
+Jussari
+BA
+8465
+Jussiape
+BA
+3526
+Lafaiete Coutinho
+BA
+13795
+Lagoa Real
+BA
+21104
+Laje
+BA
+3469
+Lajedão
+BA
+4329
+Lajedinho
+BA
+8591
+Lajedo do Tabocal
+BA
+11988
+Lamarão
+BA
+25557
+Lapão
+BA
+144492
+Lauro de Freitas
+BA
+9617
+Lençóis
+BA
+12695
+Licínio de Almeida
+BA
+42146
+Livramento de Nossa Senhora
+BA
+44265
+Luís Eduardo Magalhães
+BA
+11207
+Macajuba
+BA
+16046
+Macarani
+BA
+45958
+Macaúbas
+BA
+7779
+Macururé
+BA
+15432
+Madre de Deus
+BA
+8793
+Maetinga
+BA
+8324
+Maiquinique
+BA
+19259
+Mairi
+BA
+16085
+Malhada
+BA
+7620
+Malhada de Pedras
+BA
+14262
+Manoel Vitorino
+BA
+11694
+Mansidão
+BA
+34221
+Maracás
+BA
+42079
+Maragogipe
+BA
+17029
+Maraú
+BA
+10716
+Marcionílio Souza
+BA
+16061
+Mascote
+BA
+37201
+Mata de São João
+BA
+12322
+Matina
+BA
+21866
+Medeiros Neto
+BA
+27213
+Miguel Calmon
+BA
+11771
+Milagres
+BA
+17474
+Mirangaba
+BA
+9174
+Mirante
+BA
+52252
+Monte Santo
+BA
+8586
+Morpará
+BA
+34012
+Morro do Chapéu
+BA
+13905
+Mortugaba
+BA
+14131
+Mucugê
+BA
+33143
+Mucuri
+BA
+13755
+Mulungu do Morro
+BA
+23822
+Mundo Novo
+BA
+6990
+Muniz Ferreira
+BA
+10096
+Muquém de São Francisco
+BA
+27212
+Muritiba
+BA
+21181
+Mutuípe
+BA
+26506
+Nazaré
+BA
+12531
+Nilo Peçanha
+BA
+12172
+Nordestina
+BA
+18829
+Nova Canaã
+BA
+7674
+Nova Fátima
+BA
+6871
+Nova Ibiá
+BA
+7423
+Nova Itarana
+BA
+8943
+Nova Redenção
+BA
+25697
+Nova Soure
+BA
+34623
+Nova Viçosa
+BA
+10304
+Novo Horizonte
+BA
+14153
+Novo Triunfo
+BA
+23791
+Olindina
+BA
+22609
+Oliveira dos Brejinhos
+BA
+7802
+Ouriçangas
+BA
+16302
+Ourolândia
+BA
+21107
+Palmas de Monte Alto
+BA
+8040
+Palmeiras
+BA
+20055
+Paramirim
+BA
+28671
+Paratinga
+BA
+28347
+Paripiranga
+BA
+12155
+Pau Brasil
+BA
+101952
+Paulo Afonso
+BA
+14160
+Pé de Serra
+BA
+7238
+Pedrão
+BA
+17092
+Pedro Alexandre
+BA
+18085
+Piatã
+BA
+32844
+Pilão Arcado
+BA
+15306
+Pindaí
+BA
+20312
+Pindobaçu
+BA
+10551
+Pintadas
+BA
+8897
+Piraí do Norte
+BA
+13515
+Piripá
+BA
+24189
+Piritiba
+BA
+8472
+Planaltino
+BA
+21486
+Planalto
+BA
+44759
+Poções
+BA
+30221
+Pojuca
+BA
+14820
+Ponto Novo
+BA
+114459
+Porto Seguro
+BA
+10350
+Potiraguá
+BA
+25429
+Prado
+BA
+13822
+Presidente Dutra
+BA
+14803
+Presidente Jânio Quadros
+BA
+22684
+Presidente Tancredo Neves
+BA
+27186
+Queimadas
+BA
+27068
+Quijingue
+BA
+9348
+Quixabeira
+BA
+23107
+Rafael Jambeiro
+BA
+38004
+Remanso
+BA
+11938
+Retirolândia
+BA
+22528
+Riachão das Neves
+BA
+32522
+Riachão do Jacuípe
+BA
+29425
+Riacho de Santana
+BA
+14101
+Ribeira do Amparo
+BA
+47400
+Ribeira do Pombal
+BA
+14297
+Ribeirão do Largo
+BA
+13447
+Rio de Contas
+BA
+15096
+Rio do Antônio
+BA
+11385
+Rio do Pires
+BA
+36169
+Rio Real
+BA
+7023
+Rodelas
+BA
+29358
+Ruy Barbosa
+BA
+13090
+Salinas da Margarida
+BA
+2892625
+Salvador 
+BA
+19440
+Santa Bárbara
+BA
+15483
+Santa Brígida
+BA
+25110
+Santa Cruz Cabrália
+BA
+6386
+Santa Cruz da Vitória
+BA
+10564
+Santa Inês
+BA
+15184
+Santa Luzia
+BA
+40571
+Santa Maria da Vitória
+BA
+26135
+Santa Rita de Cássia
+BA
+9914
+Santa Teresinha
+BA
+33633
+Santaluz
+BA
+25947
+Santana
+BA
+9199
+Santanópolis
+BA
+58028
+Santo Amaro
+BA
+84256
+Santo Antônio de Jesus
+BA
+44532
+Santo Estêvão
+BA
+25158
+São Desidério
+BA
+8818
+São Domingos
+BA
+20265
+São Felipe
+BA
+15302
+São Félix
+BA
+12815
+São Félix do Coribe
+BA
+29829
+São Francisco do Conde
+BA
+18468
+São Gabriel
+BA
+29205
+São Gonçalo dos Campos
+BA
+6095
+São José da Vitória
+BA
+10477
+São José do Jacuípe
+BA
+10270
+São Miguel das Matas
+BA
+40321
+São Sebastião do Passé
+BA
+16518
+Sapeaçu
+BA
+18104
+Sátiro Dias
+BA
+11051
+Saubara
+BA
+11866
+Saúde
+BA
+40543
+Seabra
+BA
+10712
+Sebastião Laranjeiras
+BA
+72511
+Senhor do Bonfim
+BA
+36517
+Sento Sé
+BA
+31130
+Serra do Ramalho
+BA
+17422
+Serra Dourada
+BA
+15149
+Serra Preta
+BA
+71383
+Serrinha
+BA
+12120
+Serrolândia
+BA
+109269
+Simões Filho
+BA
+12567
+Sítio do Mato
+BA
+14069
+Sítio do Quinto
+BA
+21315
+Sobradinho
+BA
+18013
+Souto Soares
+BA
+12281
+Tabocas do Brejo Velho
+BA
+19591
+Tanhaçu
+BA
+15745
+Tanque Novo
+BA
+7589
+Tanquinho
+BA
+18217
+Taperoá
+BA
+17254
+Tapiramutá
+BA
+118702
+Teixeira de Freitas
+BA
+8306
+Teodoro Sampaio
+BA
+20702
+Teofilândia
+BA
+12429
+Teolândia
+BA
+12310
+Terra Nova
+BA
+18483
+Tremedal
+BA
+48740
+Tucano
+BA
+24662
+Uauá
+BA
+20708
+Ubaíra
+BA
+20478
+Ubaitaba
+BA
+24791
+Ubatã
+BA
+13719
+Uibaí
+BA
+16081
+Umburanas
+BA
+25277
+Una
+BA
+15822
+Urandi
+BA
+22070
+Uruçuca
+BA
+19229
+Utinga
+BA
+84931
+Valença
+BA
+21512
+Valente
+BA
+14479
+Várzea da Roça
+BA
+8569
+Várzea do Poço
+BA
+13949
+Várzea Nova
+BA
+9054
+Varzedo
+BA
+35060
+Vera Cruz
+BA
+7174
+Vereda
+BA
+308204
+Vitória da Conquista 
+BA
+8610
+Wagner
+BA
+12982
+Wanderley
+BA
+23985
+Wenceslau Guimarães
+BA
+45700
+Xique-Xique
+MG
+6556
+Abadia dos Dourados
+MG
+22474
+Abaeté
+MG
+12867
+Abre Campo
+MG
+4056
+Acaiaca
+MG
+11127
+Açucena
+MG
+16435
+Água Boa
+MG
+2093
+Água Comprida
+MG
+4054
+Aguanil
+MG
+18518
+Águas Formosas
+MG
+12674
+Águas Vermelhas
+MG
+24232
+Aimorés
+MG
+6099
+Aiuruoca
+MG
+2825
+Alagoa
+MG
+2872
+Albertina
+MG
+33495
+Além Paraíba
+MG
+71628
+Alfenas
+MG
+5900
+Alfredo Vasconcelos
+MG
+36907
+Almenara
+MG
+7007
+Alpercata
+MG
+17821
+Alpinópolis
+MG
+13286
+Alterosa
+MG
+5048
+Alto Caparaó
+MG
+7976
+Alto Jequitibá
+MG
+12657
+Alto Rio Doce
+MG
+4558
+Alvarenga
+MG
+15251
+Alvinópolis
+MG
+3482
+Alvorada de Minas
+MG
+5245
+Amparo do Serra
+MG
+34956
+Andradas
+MG
+12035
+Andrelândia
+MG
+8130
+Angelândia
+MG
+11172
+Antônio Carlos
+MG
+9435
+Antônio Dias
+MG
+1962
+Antônio Prado de Minas
+MG
+2384
+Araçaí
+MG
+1875
+Aracitaba
+MG
+36083
+Araçuaí
+MG
+106403
+Araguari
+MG
+2544
+Arantina
+MG
+8029
+Araponga
+MG
+6113
+Araporã
+MG
+2699
+Arapuá
+MG
+7201
+Araújos
+MG
+87764
+Araxá
+MG
+7994
+Arceburgo
+MG
+34763
+Arcos
+MG
+13181
+Areado
+MG
+2995
+Argirita
+MG
+4832
+Aricanduva
+MG
+17592
+Arinos
+MG
+12510
+Astolfo Dutra
+MG
+15078
+Ataléia
+MG
+4589
+Augusto de Lima
+MG
+18016
+Baependi
+MG
+8274
+Baldim
+MG
+21850
+Bambuí
+MG
+5337
+Bandeira
+MG
+5106
+Bandeira do Sul
+MG
+26421
+Barão de Cocais
+MG
+5656
+Barão de Monte Alto
+MG
+122377
+Barbacena
+MG
+6965
+Barra Longa
+MG
+19352
+Barroso
+MG
+9968
+Bela Vista de Minas
+MG
+3067
+Belmiro Braga
+MG
+2412937
+Belo Horizonte 
+MG
+21369
+Belo Oriente
+MG
+7267
+Belo Vale
+MG
+13214
+Berilo
+MG
+4399
+Berizal
+MG
+4588
+Bertópolis
+MG
+415098
+Betim 
+MG
+3880
+Bias Fortes
+MG
+13638
+Bicas
+MG
+2592
+Biquinhas
+MG
+37801
+Boa Esperança
+MG
+5034
+Bocaina de Minas
+MG
+44657
+Bocaiúva
+MG
+42260
+Bom Despacho
+MG
+6481
+Bom Jardim de Minas
+MG
+3787
+Bom Jesus da Penha
+MG
+5412
+Bom Jesus do Amparo
+MG
+15198
+Bom Jesus do Galho
+MG
+10482
+Bom Repouso
+MG
+17194
+Bom Sucesso
+MG
+6715
+Bonfim
+MG
+5828
+Bonfinópolis de Minas
+MG
+8787
+Bonito de Minas
+MG
+14892
+Borda da Mata
+MG
+14853
+Botelhos
+MG
+6435
+Botumirim
+MG
+4592
+Brás Pires
+MG
+12821
+Brasilândia de Minas
+MG
+31165
+Brasília de Minas
+MG
+14452
+Brasópolis
+MG
+5208
+Braúnas
+MG
+31965
+Brumadinho
+MG
+10864
+Bueno Brandão
+MG
+9522
+Buenópolis
+MG
+3960
+Bugre
+MG
+21472
+Buritis
+MG
+26133
+Buritizeiro
+MG
+6294
+Cabeceira Grande
+MG
+13614
+Cabo Verde
+MG
+3802
+Cachoeira da Prata
+MG
+10820
+Cachoeira de Minas
+MG
+9089
+Cachoeira de Pajeú
+MG
+2470
+Cachoeira Dourada
+MG
+9490
+Caetanópolis
+MG
+39039
+Caeté
+MG
+4537
+Caiana
+MG
+4015
+Cajuri
+MG
+13901
+Caldas
+MG
+3204
+Camacho
+MG
+19708
+Camanducaia
+MG
+25010
+Cambuí
+MG
+12520
+Cambuquira
+MG
+3592
+Campanário
+MG
+15169
+Campanha
+MG
+20251
+Campestre
+MG
+18680
+Campina Verde
+MG
+3828
+Campo Azul
+MG
+51375
+Campo Belo
+MG
+11476
+Campo do Meio
+MG
+6570
+Campo Florido
+MG
+13184
+Campos Altos
+MG
+26954
+Campos Gerais
+MG
+5712
+Cana Verde
+MG
+4668
+Canaã
+MG
+11313
+Canápolis
+MG
+15499
+Candeias
+MG
+3967
+Cantagalo
+MG
+4863
+Caparaó
+MG
+4598
+Capela Nova
+MG
+33061
+Capelinha
+MG
+7154
+Capetinga
+MG
+8763
+Capim Branco
+MG
+15302
+Capinópolis
+MG
+4801
+Capitão Andrade
+MG
+14106
+Capitão Enéas
+MG
+7634
+Capitólio
+MG
+8855
+Caputira
+MG
+21530
+Caraí
+MG
+3445
+Caranaíba
+MG
+22240
+Carandaí
+MG
+32068
+Carangola
+MG
+81731
+Caratinga
+MG
+10145
+Carbonita
+MG
+6029
+Careaçu
+MG
+20812
+Carlos Chagas
+MG
+2550
+Carmésia
+MG
+11656
+Carmo da Cachoeira
+MG
+10942
+Carmo da Mata
+MG
+13657
+Carmo de Minas
+MG
+18943
+Carmo do Cajuru
+MG
+30712
+Carmo do Paranaíba
+MG
+19480
+Carmo do Rio Claro
+MG
+15743
+Carmópolis de Minas
+MG
+8859
+Carneirinho
+MG
+4015
+Carrancas
+MG
+3234
+Carvalhópolis
+MG
+4611
+Carvalhos
+MG
+2100
+Casa Grande
+MG
+2799
+Cascalho Rico
+MG
+17067
+Cássia
+MG
+67384
+Cataguases
+MG
+4561
+Catas Altas
+MG
+3424
+Catas Altas da Noruega
+MG
+6597
+Catuji
+MG
+5303
+Catuti
+MG
+21009
+Caxambu
+MG
+1203
+Cedro do Abaeté
+MG
+6590
+Central de Minas
+MG
+10219
+Centralina
+MG
+2613
+Chácara
+MG
+5465
+Chalé
+MG
+15449
+Chapada do Norte
+MG
+10266
+Chapada Gaúcha
+MG
+2893
+Chiador
+MG
+6539
+Cipotânea
+MG
+4295
+Claraval
+MG
+8131
+Claro dos Poções
+MG
+24590
+Cláudio
+MG
+6886
+Coimbra
+MG
+9281
+Coluna
+MG
+3087
+Comendador Gomes
+MG
+8720
+Comercinho
+MG
+10215
+Conceição da Aparecida
+MG
+3960
+Conceição da Barra de Minas
+MG
+20426
+Conceição das Alagoas
+MG
+2726
+Conceição das Pedras
+MG
+4396
+Conceição de Ipanema
+MG
+18070
+Conceição do Mato Dentro
+MG
+4725
+Conceição do Pará
+MG
+12708
+Conceição do Rio Verde
+MG
+10204
+Conceição dos Ouros
+MG
+6279
+Cônego Marinho
+MG
+5680
+Confins
+MG
+9692
+Congonhal
+MG
+45984
+Congonhas
+MG
+5110
+Congonhas do Norte
+MG
+6580
+Conquista
+MG
+109280
+Conselheiro Lafaiete
+MG
+21793
+Conselheiro Pena
+MG
+1695
+Consolação
+MG
+608650
+Contagem 
+MG
+9466
+Coqueiral
+MG
+26131
+Coração de Jesus
+MG
+9033
+Cordisburgo
+MG
+3570
+Cordislândia
+MG
+22741
+Corinto
+MG
+10776
+Coroaci
+MG
+27392
+Coromandel
+MG
+100805
+Coronel Fabriciano
+MG
+9120
+Coronel Murta
+MG
+2457
+Coronel Pacheco
+MG
+3194
+Coronel Xavier Chaves
+MG
+3423
+Córrego Danta
+MG
+3724
+Córrego do Bom Jesus
+MG
+5635
+Córrego Fundo
+MG
+3155
+Córrego Novo
+MG
+4332
+Couto de Magalhães de Minas
+MG
+5659
+Crisólita
+MG
+10631
+Cristais
+MG
+5731
+Cristália
+MG
+4881
+Cristiano Otoni
+MG
+10955
+Cristina
+MG
+4593
+Crucilândia
+MG
+3760
+Cruzeiro da Fortaleza
+MG
+14656
+Cruzília
+MG
+4404
+Cuparaque
+MG
+6907
+Curral de Dentro
+MG
+71611
+Curvelo
+MG
+5418
+Datas
+MG
+7834
+Delfim Moreira
+MG
+6698
+Delfinópolis
+MG
+6600
+Delta
+MG
+4876
+Descoberto
+MG
+6914
+Desterro de Entre Rios
+MG
+3198
+Desterro do Melo
+MG
+44746
+Diamantina
+MG
+3941
+Diogo de Vasconcelos
+MG
+10234
+Dionísio
+MG
+3276
+Divinésia
+MG
+19245
+Divino
+MG
+4934
+Divino das Laranjeiras
+MG
+6724
+Divinolândia de Minas
+MG
+209921
+Divinópolis 
+MG
+5793
+Divisa Alegre
+MG
+5619
+Divisa Nova
+MG
+7852
+Divisópolis
+MG
+3781
+Dom Bosco
+MG
+5593
+Dom Cavati
+MG
+4530
+Dom Joaquim
+MG
+5284
+Dom Silvério
+MG
+3020
+Dom Viçoso
+MG
+5569
+Dona Eusébia
+MG
+9276
+Dores de Campos
+MG
+5528
+Dores de Guanhães
+MG
+13996
+Dores do Indaiá
+MG
+4572
+Dores do Turvo
+MG
+1492
+Doresópolis
+MG
+1846
+Douradoquara
+MG
+6932
+Durandé
+MG
+24161
+Elói Mendes
+MG
+10317
+Engenheiro Caldas
+MG
+7079
+Engenheiro Navarro
+MG
+4931
+Entre Folhas
+MG
+13887
+Entre Rios de Minas
+MG
+18002
+Ervália
+MG
+55436
+Esmeraldas
+MG
+20835
+Espera Feliz
+MG
+31322
+Espinosa
+MG
+4293
+Espírito Santo do Dourado
+MG
+10920
+Estiva
+MG
+2497
+Estrela Dalva
+MG
+3651
+Estrela do Indaiá
+MG
+7136
+Estrela do Sul
+MG
+10291
+Eugenópolis
+MG
+3567
+Ewbank da Câmara
+MG
+24886
+Extrema
+MG
+2219
+Fama
+MG
+3612
+Faria Lemos
+MG
+5685
+Felício dos Santos
+MG
+6687
+Felisburgo
+MG
+13618
+Felixlândia
+MG
+2612
+Fernandes Tourinho
+MG
+11387
+Ferros
+MG
+10261
+Fervedouro
+MG
+5928
+Florestal
+MG
+64585
+Formiga
+MG
+6612
+Formoso
+MG
+3837
+Fortaleza de Minas
+MG
+2454
+Fortuna de Minas
+MG
+10269
+Francisco Badaró
+MG
+4759
+Francisco Dumont
+MG
+24838
+Francisco Sá
+MG
+5664
+Franciscópolis
+MG
+6343
+Frei Gaspar
+MG
+8873
+Frei Inocêncio
+MG
+3342
+Frei Lagonegro
+MG
+13983
+Fronteira
+MG
+4835
+Fronteira dos Vales
+MG
+6327
+Fruta de Leite
+MG
+51766
+Frutal
+MG
+3639
+Funilândia
+MG
+7302
+Galiléia
+MG
+5226
+Gameleiras
+MG
+2932
+Glaucilândia
+MG
+3052
+Goiabeira
+MG
+3643
+Goianá
+MG
+4270
+Gonçalves
+MG
+5620
+Gonzaga
+MG
+11569
+Gouveia
+MG
+260396
+Governador Valadares 
+MG
+14594
+Grão Mogol
+MG
+1412
+Grupiara
+MG
+29286
+Guanhães
+MG
+13152
+Guapé
+MG
+10428
+Guaraciaba
+MG
+4554
+Guaraciama
+MG
+18147
+Guaranésia
+MG
+9487
+Guarani
+MG
+4017
+Guarará
+MG
+6577
+Guarda-Mor
+MG
+47894
+Guaxupé
+MG
+7321
+Guidoval
+MG
+6946
+Guimarânia
+MG
+8906
+Guiricema
+MG
+6194
+Gurinhatã
+MG
+6005
+Heliodora
+MG
+10851
+Iapu
+MG
+5057
+Ibertioga
+MG
+22069
+Ibiá
+MG
+7571
+Ibiaí
+MG
+5898
+Ibiracatu
+MG
+11023
+Ibiraci
+MG
+148535
+Ibirité
+MG
+3382
+Ibitiúra de Minas
+MG
+2825
+Ibituruna
+MG
+10331
+Icaraí de Minas
+MG
+31135
+Igarapé
+MG
+8477
+Igaratinga
+MG
+7632
+Iguatama
+MG
+5687
+Ijaci
+MG
+11265
+Ilicínea
+MG
+6324
+Imbé de Minas
+MG
+7253
+Inconfidentes
+MG
+7482
+Indaiabira
+MG
+6244
+Indianópolis
+MG
+2496
+Ingaí
+MG
+24289
+Inhapim
+MG
+5347
+Inhaúma
+MG
+6420
+Inimutaba
+MG
+14844
+Ipaba
+MG
+17128
+Ipanema
+MG
+238397
+Ipatinga 
+MG
+4191
+Ipiaçu
+MG
+9183
+Ipuiúna
+MG
+6295
+Iraí de Minas
+MG
+105159
+Itabira
+MG
+10338
+Itabirinha
+MG
+41522
+Itabirito
+MG
+5018
+Itacambira
+MG
+17626
+Itacarambi
+MG
+12292
+Itaguara
+MG
+11497
+Itaipé
+MG
+86673
+Itajubá
+MG
+31883
+Itamarandiba
+MG
+4035
+Itamarati de Minas
+MG
+22635
+Itambacuri
+MG
+2434
+Itambé do Mato Dentro
+MG
+10828
+Itamogi
+MG
+13756
+Itamonte
+MG
+14395
+Itanhandu
+MG
+11880
+Itanhomi
+MG
+20986
+Itaobim
+MG
+14019
+Itapagipe
+MG
+20653
+Itapecerica
+MG
+7722
+Itapeva
+MG
+8953
+Itatiaiuçu
+MG
+14551
+Itaú de Minas
+MG
+81833
+Itaúna
+MG
+5724
+Itaverava
+MG
+14587
+Itinga
+MG
+5830
+Itueta
+MG
+92727
+Ituiutaba
+MG
+6439
+Itumirim
+MG
+31495
+Iturama
+MG
+4051
+Itutinga
+MG
+15496
+Jaboticatubas
+MG
+12422
+Jacinto
+MG
+7225
+Jacuí
+MG
+20389
+Jacutinga
+MG
+2782
+Jaguaraçu
+MG
+30386
+Jaíba
+MG
+4926
+Jampruca
+MG
+65387
+Janaúba
+MG
+64985
+Januária
+MG
+3688
+Japaraíba
+MG
+8232
+Japonvar
+MG
+5892
+Jeceaba
+MG
+6905
+Jenipapo de Minas
+MG
+12965
+Jequeri
+MG
+8029
+Jequitaí
+MG
+5491
+Jequitibá
+MG
+23982
+Jequitinhonha
+MG
+4821
+Jesuânia
+MG
+14881
+Joaíma
+MG
+5628
+Joanésia
+MG
+71658
+João Monlevade
+MG
+43229
+João Pinheiro
+MG
+3937
+Joaquim Felício
+MG
+10751
+Jordânia
+MG
+4547
+José Gonçalves de Minas
+MG
+4146
+José Raydan
+MG
+4440
+Josenópolis
+MG
+19528
+Juatuba
+MG
+513348
+Juiz de Fora 
+MG
+3960
+Juramento
+MG
+8260
+Juruaia
+MG
+6050
+Juvenília
+MG
+16479
+Ladainha
+MG
+7636
+Lagamar
+MG
+44159
+Lagoa da Prata
+MG
+4448
+Lagoa dos Patos
+MG
+11792
+Lagoa Dourada
+MG
+16521
+Lagoa Formosa
+MG
+8660
+Lagoa Grande
+MG
+44922
+Lagoa Santa
+MG
+17580
+Lajinha
+MG
+18547
+Lambari
+MG
+3546
+Lamim
+MG
+6310
+Laranjal
+MG
+6458
+Lassance
+MG
+87421
+Lavras
+MG
+2955
+Leandro Ferreira
+MG
+4930
+Leme do Prado
+MG
+49915
+Leopoldina
+MG
+5333
+Liberdade
+MG
+15909
+Lima Duarte
+MG
+6492
+Limeira do Oeste
+MG
+7979
+Lontra
+MG
+6276
+Luisburgo
+MG
+6432
+Luislândia
+MG
+5374
+Luminárias
+MG
+17173
+Luz
+MG
+6855
+Machacalis
+MG
+37567
+Machado
+MG
+4951
+Madre de Deus de Minas
+MG
+17917
+Malacacheta
+MG
+6247
+Mamonas
+MG
+20903
+Manga
+MG
+74297
+Manhuaçu
+MG
+20209
+Manhumirim
+MG
+26721
+Mantena
+MG
+11139
+Mar de Espanha
+MG
+6840
+Maravilhas
+MG
+14249
+Maria da Fé
+MG
+51693
+Mariana
+MG
+4285
+Marilac
+MG
+11421
+Mário Campos
+MG
+2827
+Maripá de Minas
+MG
+3743
+Marliéria
+MG
+3100
+Marmelópolis
+MG
+12165
+Martinho Campos
+MG
+6338
+Martins Soares
+MG
+7458
+Mata Verde
+MG
+4662
+Materlândia
+MG
+25627
+Mateus Leme
+MG
+3457
+Mathias Lobato
+MG
+13205
+Matias Barbosa
+MG
+10270
+Matias Cardoso
+MG
+16430
+Matipó
+MG
+12664
+Mato Verde
+MG
+33317
+Matozinhos
+MG
+3700
+Matutina
+MG
+3238
+Medeiros
+MG
+20667
+Medina
+MG
+6431
+Mendes Pimentel
+MG
+10452
+Mercês
+MG
+6493
+Mesquita
+MG
+30578
+Minas Novas
+MG
+3603
+Minduri
+MG
+12769
+Mirabela
+MG
+10197
+Miradouro
+MG
+12949
+Miraí
+MG
+4708
+Miravânia
+MG
+4506
+Moeda
+MG
+6754
+Moema
+MG
+2303
+Monjolos
+MG
+7391
+Monsenhor Paulo
+MG
+15961
+Montalvânia
+MG
+18348
+Monte Alegre de Minas
+MG
+22437
+Monte Azul
+MG
+12573
+Monte Belo
+MG
+44367
+Monte Carmelo
+MG
+4709
+Monte Formoso
+MG
+20133
+Monte Santo de Minas
+MG
+19228
+Monte Sião
+MG
+352384
+Montes Claros 
+MG
+7259
+Montezuma
+MG
+8297
+Morada Nova de Minas
+MG
+2887
+Morro da Garça
+MG
+3474
+Morro do Pilar
+MG
+6298
+Munhoz
+MG
+95548
+Muriaé
+MG
+26331
+Mutum
+MG
+19925
+Muzambinho
+MG
+2957
+Nacip Raydan
+MG
+40307
+Nanuque
+MG
+5885
+Naque
+MG
+3271
+Natalândia
+MG
+4623
+Natércia
+MG
+7716
+Nazareno
+MG
+24430
+Nepomuceno
+MG
+10414
+Ninheira
+MG
+3629
+Nova Belém
+MG
+17932
+Nova Era
+MG
+72207
+Nova Lima
+MG
+3878
+Nova Módica
+MG
+11586
+Nova Ponte
+MG
+7358
+Nova Porteirinha
+MG
+14145
+Nova Resende
+MG
+60195
+Nova Serrana
+MG
+5461
+Nova União
+MG
+30331
+Novo Cruzeiro
+MG
+10327
+Novo Oriente de Minas
+MG
+4899
+Novorizonte
+MG
+2380
+Olaria
+MG
+4991
+Olhos-d'Água
+MG
+2505
+Olímpio Noronha
+MG
+37805
+Oliveira
+MG
+1939
+Oliveira Fortes
+MG
+3019
+Onça de Pitangui
+MG
+4385
+Oratórios
+MG
+6771
+Orizânia
+MG
+33548
+Ouro Branco
+MG
+31154
+Ouro Fino
+MG
+67048
+Ouro Preto
+MG
+6832
+Ouro Verde de Minas
+MG
+5828
+Padre Carvalho
+MG
+18120
+Padre Paraíso
+MG
+5979
+Pai Pedro
+MG
+4594
+Paineiras
+MG
+8122
+Pains
+MG
+1630
+Paiva
+MG
+6118
+Palma
+MG
+7041
+Palmópolis
+MG
+14410
+Papagaios
+MG
+79852
+Pará de Minas
+MG
+79739
+Paracatu
+MG
+19603
+Paraguaçu
+MG
+18088
+Paraisópolis
+MG
+22204
+Paraopeba
+MG
+15285
+Passa Quatro
+MG
+8494
+Passa Tempo
+MG
+1801
+Passabém
+MG
+2082
+Passa-Vinte
+MG
+102765
+Passos
+MG
+5346
+Patis
+MG
+133054
+Patos de Minas
+MG
+81589
+Patrocínio
+MG
+5319
+Patrocínio do Muriaé
+MG
+9086
+Paula Cândido
+MG
+4893
+Paulistas
+MG
+8868
+Pavão
+MG
+17157
+Peçanha
+MG
+24851
+Pedra Azul
+MG
+6474
+Pedra Bonita
+MG
+3672
+Pedra do Anta
+MG
+3921
+Pedra do Indaiá
+MG
+2100
+Pedra Dourada
+MG
+11184
+Pedralva
+MG
+10976
+Pedras de Maria da Cruz
+MG
+3448
+Pedrinópolis
+MG
+56518
+Pedro Leopoldo
+MG
+1658
+Pedro Teixeira
+MG
+2997
+Pequeri
+MG
+4232
+Pequi
+MG
+7310
+Perdigão
+MG
+13924
+Perdizes
+MG
+19407
+Perdões
+MG
+7030
+Periquito
+MG
+4056
+Pescador
+MG
+2973
+Piau
+MG
+6444
+Piedade de Caratinga
+MG
+4113
+Piedade de Ponte Nova
+MG
+4781
+Piedade do Rio Grande
+MG
+4542
+Piedade dos Gerais
+MG
+8164
+Pimenta
+MG
+4016
+Pingo-d'Água
+MG
+7727
+Pintópolis
+MG
+6554
+Piracema
+MG
+3694
+Pirajuba
+MG
+17208
+Piranga
+MG
+5125
+Piranguçu
+MG
+7849
+Piranguinho
+MG
+10240
+Pirapetinga
+MG
+51636
+Pirapora
+MG
+10686
+Piraúba
+MG
+24618
+Pitangui
+MG
+30984
+Piumhi
+MG
+10289
+Planura
+MG
+15350
+Poço Fundo
+MG
+144386
+Poços de Caldas
+MG
+8769
+Pocrane
+MG
+28393
+Pompéu
+MG
+55687
+Ponte Nova
+MG
+4046
+Ponto Chique
+MG
+10976
+Ponto dos Volantes
+MG
+36864
+Porteirinha
+MG
+10404
+Porto Firme
+MG
+14749
+Poté
+MG
+120467
+Pouso Alegre
+MG
+6359
+Pouso Alto
+MG
+8168
+Prados
+MG
+25511
+Prata
+MG
+8653
+Pratápolis
+MG
+3236
+Pratinha
+MG
+5699
+Presidente Bernardes
+MG
+4257
+Presidente Juscelino
+MG
+2978
+Presidente Kubitschek
+MG
+18256
+Presidente Olegário
+MG
+8874
+Prudente de Morais
+MG
+3200
+Quartel Geral
+MG
+1826
+Queluzito
+MG
+14874
+Raposos
+MG
+23901
+Raul Soares
+MG
+10194
+Recreio
+MG
+6344
+Reduto
+MG
+10537
+Resende Costa
+MG
+17024
+Resplendor
+MG
+4574
+Ressaquinha
+MG
+8126
+Riachinho
+MG
+9392
+Riacho dos Machados
+MG
+329112
+Ribeirão das Neves 
+MG
+3773
+Ribeirão Vermelho
+MG
+8257
+Rio Acima
+MG
+14496
+Rio Casca
+MG
+4489
+Rio do Prado
+MG
+2520
+Rio Doce
+MG
+6594
+Rio Espera
+MG
+5007
+Rio Manso
+MG
+8914
+Rio Novo
+MG
+10809
+Rio Paranaíba
+MG
+28633
+Rio Pardo de Minas
+MG
+14319
+Rio Piracicaba
+MG
+16715
+Rio Pomba
+MG
+5388
+Rio Preto
+MG
+14856
+Rio Vermelho
+MG
+5068
+Ritápolis
+MG
+2036
+Rochedo de Minas
+MG
+6178
+Rodeiro
+MG
+3561
+Romaria
+MG
+4151
+Rosário da Limeira
+MG
+8299
+Rubelita
+MG
+9561
+Rubim
+MG
+120770
+Sabará
+MG
+15889
+Sabinópolis
+MG
+22159
+Sacramento
+MG
+37370
+Salinas
+MG
+6896
+Salto da Divisa
+MG
+26185
+Santa Bárbara
+MG
+7451
+Santa Bárbara do Leste
+MG
+2796
+Santa Bárbara do Monte Verde
+MG
+4504
+Santa Bárbara do Tugúrio
+MG
+7347
+Santa Cruz de Minas
+MG
+5192
+Santa Cruz de Salinas
+MG
+5193
+Santa Cruz do Escalvado
+MG
+4519
+Santa Efigênia de Minas
+MG
+4034
+Santa Fé de Minas
+MG
+5892
+Santa Helena de Minas
+MG
+10582
+Santa Juliana
+MG
+222507
+Santa Luzia 
+MG
+14205
+Santa Margarida
+MG
+10445
+Santa Maria de Itabira
+MG
+5724
+Santa Maria do Salto
+MG
+14427
+Santa Maria do Suaçuí
+MG
+9078
+Santa Rita de Caldas
+MG
+3747
+Santa Rita de Ibitipoca
+MG
+5588
+Santa Rita de Jacutinga
+MG
+5787
+Santa Rita de Minas
+MG
+5652
+Santa Rita do Itueto
+MG
+34246
+Santa Rita do Sapucaí
+MG
+3261
+Santa Rosa da Serra
+MG
+15492
+Santa Vitória
+MG
+7092
+Santana da Vargem
+MG
+3603
+Santana de Cataguases
+MG
+8549
+Santana de Pirapama
+MG
+3833
+Santana do Deserto
+MG
+2104
+Santana do Garambéu
+MG
+4532
+Santana do Jacaré
+MG
+8185
+Santana do Manhuaçu
+MG
+22765
+Santana do Paraíso
+MG
+4159
+Santana do Riacho
+MG
+3989
+Santana dos Montes
+MG
+17255
+Santo Antônio do Amparo
+MG
+3489
+Santo Antônio do Aventureiro
+MG
+4241
+Santo Antônio do Grama
+MG
+4517
+Santo Antônio do Itambé
+MG
+11294
+Santo Antônio do Jacinto
+MG
+24746
+Santo Antônio do Monte
+MG
+6817
+Santo Antônio do Retiro
+MG
+1753
+Santo Antônio do Rio Abaixo
+MG
+3541
+Santo Hipólito
+MG
+45922
+Santos Dumont
+MG
+4400
+São Bento Abade
+MG
+3488
+São Brás do Suaçuí
+MG
+5232
+São Domingos das Dores
+MG
+17349
+São Domingos do Prata
+MG
+3387
+São Félix de Minas
+MG
+52985
+São Francisco
+MG
+6246
+São Francisco de Paula
+MG
+5167
+São Francisco de Sales
+MG
+5539
+São Francisco do Glória
+MG
+9171
+São Geraldo
+MG
+4768
+São Geraldo da Piedade
+MG
+3253
+São Geraldo do Baixio
+MG
+6156
+São Gonçalo do Abaeté
+MG
+10308
+São Gonçalo do Pará
+MG
+9233
+São Gonçalo do Rio Abaixo
+MG
+3124
+São Gonçalo do Rio Preto
+MG
+22756
+São Gonçalo do Sapucaí
+MG
+30757
+São Gotardo
+MG
+6828
+São João Batista do Glória
+MG
+4729
+São João da Lagoa
+MG
+2858
+São João da Mata
+MG
+26091
+São João da Ponte
+MG
+10769
+São João das Missões
+MG
+81918
+São João del Rei
+MG
+9394
+São João do Manhuaçu
+MG
+4855
+São João do Manteninha
+MG
+7988
+São João do Oriente
+MG
+4003
+São João do Pacuí
+MG
+21839
+São João do Paraíso
+MG
+15686
+São João Evangelista
+MG
+25011
+São João Nepomuceno
+MG
+22214
+São Joaquim de Bicas
+MG
+6701
+São José da Barra
+MG
+17900
+São José da Lapa
+MG
+3929
+São José da Safira
+MG
+3797
+São José da Varginha
+MG
+3908
+São José do Alegre
+MG
+3776
+São José do Divino
+MG
+5646
+São José do Goiabal
+MG
+6958
+São José do Jacuri
+MG
+2472
+São José do Mantimento
+MG
+40441
+São Lourenço
+MG
+6820
+São Miguel do Anta
+MG
+5291
+São Pedro da União
+MG
+5801
+São Pedro do Suaçuí
+MG
+8880
+São Pedro dos Ferros
+MG
+9080
+São Romão
+MG
+6141
+São Roque de Minas
+MG
+4884
+São Sebastião da Bela Vista
+MG
+2743
+São Sebastião da Vargem Alegre
+MG
+5388
+São Sebastião do Anta
+MG
+11686
+São Sebastião do Maranhão
+MG
+5336
+São Sebastião do Oeste
+MG
+61838
+São Sebastião do Paraíso
+MG
+1700
+São Sebastião do Rio Preto
+MG
+2170
+São Sebastião do Rio Verde
+MG
+6617
+São Thomé das Letras
+MG
+10289
+São Tiago
+MG
+6934
+São Tomás de Aquino
+MG
+6283
+São Vicente de Minas
+MG
+5772
+Sapucaí-Mirim
+MG
+5196
+Sardoá
+MG
+23282
+Sarzedo
+MG
+2950
+Sem-Peixe
+MG
+5051
+Senador Amaral
+MG
+2011
+Senador Cortes
+MG
+7019
+Senador Firmino
+MG
+1908
+Senador José Bento
+MG
+4988
+Senador Modestino Gonçalves
+MG
+5675
+Senhora de Oliveira
+MG
+3517
+Senhora do Porto
+MG
+10201
+Senhora dos Remédios
+MG
+7083
+Sericita
+MG
+1755
+Seritinga
+MG
+4307
+Serra Azul de Minas
+MG
+863
+Serra da Saudade
+MG
+10224
+Serra do Salitre
+MG
+8345
+Serra dos Aimorés
+MG
+7370
+Serrania
+MG
+4515
+Serranópolis de Minas
+MG
+2063
+Serranos
+MG
+20862
+Serro
+MG
+217506
+Sete Lagoas 
+MG
+10834
+Setubinha
+MG
+2125
+Silveirânia
+MG
+6018
+Silvianópolis
+MG
+2503
+Simão Pereira
+MG
+17257
+Simonésia
+MG
+5990
+Sobrália
+MG
+5518
+Soledade de Minas
+MG
+4061
+Tabuleiro
+MG
+29732
+Taiobeiras
+MG
+3243
+Taparuba
+MG
+3575
+Tapira
+MG
+1841
+Tapiraí
+MG
+3757
+Taquaraçu de Minas
+MG
+14185
+Tarumirim
+MG
+11665
+Teixeiras
+MG
+126895
+Teófilo Otoni
+MG
+76092
+Timóteo
+MG
+6547
+Tiradentes
+MG
+7416
+Tiros
+MG
+15704
+Tocantins
+MG
+3926
+Tocos do Moji
+MG
+5720
+Toledo
+MG
+9194
+Tombos
+MG
+71737
+Três Corações
+MG
+26431
+Três Marias
+MG
+52121
+Três Pontas
+MG
+5964
+Tumiritinga
+MG
+23076
+Tupaciguara
+MG
+17219
+Turmalina
+MG
+4737
+Turvolândia
+MG
+94228
+Ubá
+MG
+11834
+Ubaí
+MG
+12060
+Ubaporanga
+MG
+287760
+Uberaba 
+MG
+608369
+Uberlândia 
+MG
+2776
+Umburatiba
+MG
+74495
+Unaí
+MG
+4593
+União de Minas
+MG
+2777
+Uruana de Minas
+MG
+10203
+Urucânia
+MG
+11376
+Urucuia
+MG
+6594
+Vargem Alegre
+MG
+2098
+Vargem Bonita
+MG
+4703
+Vargem Grande do Rio Pardo
+MG
+116093
+Varginha
+MG
+5993
+Varjão de Minas
+MG
+34448
+Várzea da Palma
+MG
+19137
+Varzelândia
+MG
+19300
+Vazante
+MG
+8029
+Verdelândia
+MG
+5732
+Veredinha
+MG
+3667
+Veríssimo
+MG
+4551
+Vermelho Novo
+MG
+94191
+Vespasiano
+MG
+70404
+Viçosa
+MG
+3808
+Vieiras
+MG
+14103
+Virgem da Lapa
+MG
+8351
+Virgínia
+MG
+10891
+Virginópolis
+MG
+5724
+Virgolândia
+MG
+35346
+Visconde do Rio Branco
+MG
+5166
+Volta Grande
+MG
+2509
+Wenceslau Braz
+ES
+30773
+Afonso Cláudio
+ES
+11934
+Água Doce do Norte
+ES
+9281
+Águia Branca
+ES
+30473
+Alegre
+ES
+13983
+Alfredo Chaves
+ES
+6198
+Alto Rio Novo
+ES
+19459
+Anchieta
+ES
+7617
+Apiacá
+ES
+73358
+Aracruz
+ES
+8878
+Atilio Vivacqua
+ES
+28637
+Baixo Guandu
+ES
+39627
+Barra de São Francisco
+ES
+12912
+Boa Esperança
+ES
+9318
+Bom Jesus do Norte
+ES
+10949
+Brejetuba
+ES
+195288
+Cachoeiro de Itapemirim 
+ES
+356536
+Cariacica 
+ES
+32250
+Castelo
+ES
+106637
+Colatina
+ES
+26230
+Conceição da Barra
+ES
+11326
+Conceição do Castelo
+ES
+4837
+Divino de São Lourenço
+ES
+31175
+Domingos Martins
+ES
+6106
+Dores do Rio Preto
+ES
+23296
+Ecoporanga
+ES
+15209
+Fundão
+ES
+9890
+Governador Lindenberg
+ES
+25761
+Guaçuí
+ES
+98073
+Guarapari
+ES
+19649
+Ibatiba
+ES
+10312
+Ibiraçu
+ES
+8994
+Ibitirama
+ES
+11496
+Iconha
+ES
+10369
+Irupi
+ES
+13881
+Itaguaçu
+ES
+30833
+Itapemirim
+ES
+10569
+Itarana
+ES
+25533
+Iúna
+ES
+21949
+Jaguaré
+ES
+10701
+Jerônimo Monteiro
+ES
+14403
+João Neiva
+ES
+10802
+Laranja da Terra
+ES
+124564
+Linhares
+ES
+11463
+Mantenópolis
+ES
+31221
+Marataízes
+ES
+12699
+Marechal Floriano
+ES
+10226
+Marilândia
+ES
+26208
+Mimoso do Sul
+ES
+17998
+Montanha
+ES
+5755
+Mucurici
+ES
+18196
+Muniz Freire
+ES
+13841
+Muqui
+ES
+44380
+Nova Venécia
+ES
+18465
+Pancas
+ES
+23204
+Pedro Canário
+ES
+22663
+Pinheiros
+ES
+16249
+Piúma
+ES
+6831
+Ponto Belo
+ES
+10307
+Presidente Kennedy
+ES
+16587
+Rio Bananal
+ES
+11111
+Rio Novo do Sul
+ES
+12349
+Santa Leopoldina
+ES
+31845
+Santa Maria de Jetibá
+ES
+20179
+Santa Teresa
+ES
+7840
+São Domingos do Norte
+ES
+28878
+São Gabriel da Palha
+ES
+10570
+São José do Calçado
+ES
+96390
+São Mateus
+ES
+10439
+São Roque do Canaã
+ES
+385370
+Serra 
+ES
+21867
+Sooretama
+ES
+17862
+Vargem Alta
+ES
+18610
+Venda Nova do Imigrante
+ES
+57539
+Viana
+ES
+8705
+Vila Pavão
+ES
+13646
+Vila Valério
+ES
+398068
+Vila Velha 
+ES
+314042
+Vitória 
+RJ
+148476
+Angra dos Reis
+RJ
+8820
+Aperibé
+RJ
+98268
+Araruama
+RJ
+11009
+Areal
+RJ
+24560
+Armação dos Búzios
+RJ
+25248
+Arraial do Cabo
+RJ
+96282
+Barra do Piraí
+RJ
+175315
+Barra Mansa 
+RJ
+480555
+Belford Roxo 
+RJ
+24626
+Bom Jardim
+RJ
+33888
+Bom Jesus do Itabapoana
+RJ
+162229
+Cabo Frio
+RJ
+53037
+Cachoeiras de Macacu
+RJ
+14368
+Cambuci
+RJ
+426154
+Campos dos Goytacazes 
+RJ
+19799
+Cantagalo
+RJ
+10677
+Carapebus
+RJ
+12206
+Cardoso Moreira
+RJ
+16690
+Carmo
+RJ
+27086
+Casimiro de Abreu
+RJ
+8322
+Comendador Levy Gasparian
+RJ
+19479
+Conceição de Macabu
+RJ
+18984
+Cordeiro
+RJ
+10438
+Duas Barras
+RJ
+842686
+Duque de Caxias 
+RJ
+12544
+Engenheiro Paulo de Frontin
+RJ
+44692
+Guapimirim
+RJ
+19716
+Iguaba Grande
+RJ
+215792
+Itaboraí 
+RJ
+95356
+Itaguaí
+RJ
+13645
+Italva
+RJ
+22069
+Itaocara
+RJ
+92852
+Itaperuna
+RJ
+31185
+Itatiaia
+RJ
+93197
+Japeri
+RJ
+7769
+Laje do Muriaé
+RJ
+169513
+Macaé
+RJ
+5246
+Macuco
+RJ
+232171
+Magé 
+RJ
+29253
+Mangaratiba
+RJ
+105294
+Maricá
+RJ
+17242
+Mendes
+RJ
+182495
+Mesquita 
+RJ
+24585
+Miguel Pereira
+RJ
+26231
+Miracema
+RJ
+14930
+Natividade
+RJ
+153581
+Nilópolis
+RJ
+474002
+Niterói 
+RJ
+177376
+Nova Friburgo 
+RJ
+830672
+Nova Iguaçu 
+RJ
+42423
+Paracambi
+RJ
+39257
+Paraíba do Sul
+RJ
+32838
+Parati
+RJ
+25132
+Paty do Alferes
+RJ
+306645
+Petrópolis 
+RJ
+20885
+Pinheiral
+RJ
+24170
+Piraí
+RJ
+17178
+Porciúncula
+RJ
+14503
+Porto Real
+RJ
+12031
+Quatis
+RJ
+130275
+Queimados
+RJ
+17376
+Quissamã
+RJ
+118547
+Resende
+RJ
+51942
+Rio Bonito
+RJ
+17216
+Rio Claro
+RJ
+8192
+Rio das Flores
+RJ
+74750
+Rio das Ostras
+RJ
+6093472
+Rio de Janeiro 
+RJ
+10409
+Santa Maria Madalena
+RJ
+40145
+Santo Antônio de Pádua
+RJ
+37477
+São Fidélis
+RJ
+44549
+São Francisco de Itabapoana
+RJ
+960631
+São Gonçalo 
+RJ
+28889
+São João da Barra
+RJ
+464282
+São João de Meriti 
+RJ
+6829
+São José de Ubá
+RJ
+19439
+São José do Vale do Rio Preto
+RJ
+75869
+São Pedro da Aldeia
+RJ
+8616
+São Sebastião do Alto
+RJ
+16858
+Sapucaia
+RJ
+62174
+Saquarema
+RJ
+72466
+Seropédica
+RJ
+21362
+Silva Jardim
+RJ
+14562
+Sumidouro
+RJ
+28322
+Tanguá
+RJ
+150268
+Teresópolis
+RJ
+9706
+Trajano de Morais
+RJ
+72848
+Três Rios
+RJ
+70850
+Valença
+RJ
+8309
+Varre-Sai
+RJ
+32495
+Vassouras
+RJ
+255653
+Volta Redonda 
+SP
+33289
+Adamantina
+SP
+3609
+Adolfo
+SP
+30181
+Aguaí
+SP
+7367
+Águas da Prata
+SP
+15867
+Águas de Lindóia
+SP
+5360
+Águas de Santa Bárbara
+SP
+2340
+Águas de São Pedro
+SP
+34221
+Agudos
+SP
+4070
+Alambari
+SP
+3851
+Alfredo Marcondes
+SP
+3272
+Altair
+SP
+15139
+Altinópolis
+SP
+4157
+Alto Alegre
+SP
+15678
+Alumínio
+SP
+3902
+Álvares Florence
+SP
+22859
+Álvares Machado
+SP
+4610
+Álvaro de Carvalho
+SP
+2787
+Alvinlândia
+SP
+199094
+Americana 
+SP
+31005
+Américo Brasiliense
+SP
+5379
+Américo de Campos
+SP
+62692
+Amparo
+SP
+4166
+Analândia
+SP
+54753
+Andradina
+SP
+21523
+Angatuba
+SP
+5271
+Anhembi
+SP
+3695
+Anhumas
+SP
+35903
+Aparecida
+SP
+4577
+Aparecida d'Oeste
+SP
+25463
+Apiaí
+SP
+12291
+Araçariguama
+SP
+178839
+Araçatuba 
+SP
+24022
+Araçoiaba da Serra
+SP
+5019
+Aramina
+SP
+6013
+Arandu
+SP
+2527
+Arapeí
+SP
+195815
+Araraquara 
+SP
+108689
+Araras
+SP
+2003
+Arco-Íris
+SP
+7504
+Arealva
+SP
+3571
+Areias
+SP
+10630
+Areiópolis
+SP
+8255
+Ariranha
+SP
+39457
+Artur Nogueira
+SP
+72713
+Arujá
+SP
+1790
+Aspásia
+SP
+92965
+Assis
+SP
+119166
+Atibaia
+SP
+13760
+Auriflama
+SP
+4877
+Avaí
+SP
+10875
+Avanhandava
+SP
+80026
+Avaré
+SP
+13039
+Bady Bassitt
+SP
+3619
+Balbinos
+SP
+7767
+Bálsamo
+SP
+10233
+Bananal
+SP
+2751
+Barão de Antonina
+SP
+6454
+Barbosa
+SP
+30995
+Bariri
+SP
+35090
+Barra Bonita
+SP
+5077
+Barra do Chapéu
+SP
+7620
+Barra do Turvo
+SP
+107988
+Barretos
+SP
+25715
+Barrinha
+SP
+252748
+Barueri 
+SP
+20613
+Bastos
+SP
+53525
+Batatais
+SP
+347601
+Bauru 
+SP
+74865
+Bebedouro
+SP
+2740
+Bento de Abreu
+SP
+10487
+Bernardino de Campos
+SP
+39091
+Bertioga
+SP
+6905
+Bilac
+SP
+103394
+Birigui
+SP
+27483
+Biritiba-Mirim
+SP
+13208
+Boa Esperança do Sul
+SP
+10299
+Bocaina
+SP
+8565
+Bofete
+SP
+40783
+Boituva
+SP
+16211
+Bom Jesus dos Perdões
+SP
+3658
+Bom Sucesso de Itararé
+SP
+804
+Borá
+SP
+4128
+Boracéia
+SP
+13752
+Borborema
+SP
+2172
+Borebi
+SP
+120800
+Botucatu
+SP
+136286
+Bragança Paulista
+SP
+4728
+Braúna
+SP
+2432
+Brejo Alegre
+SP
+19018
+Brodowski
+SP
+20996
+Brotas
+SP
+17539
+Buri
+SP
+14735
+Buritama
+SP
+3872
+Buritizal
+SP
+4340
+Cabrália Paulista
+SP
+38898
+Cabreúva
+SP
+80458
+Caçapava
+SP
+31674
+Cachoeira Paulista
+SP
+18552
+Caconde
+SP
+16073
+Cafelândia
+SP
+4011
+Caiabu
+SP
+81163
+Caieiras
+SP
+4953
+Caiuá
+SP
+58436
+Cajamar
+SP
+28285
+Cajati
+SP
+9519
+Cajobi
+SP
+22695
+Cajuru
+SP
+5320
+Campina do Monte Alegre
+SP
+1039297
+Campinas 
+SP
+69810
+Campo Limpo Paulista
+SP
+44688
+Campos do Jordão
+SP
+4651
+Campos Novos Paulista
+SP
+12039
+Cananéia
+SP
+4318
+Canas
+SP
+29572
+Cândido Mota
+SP
+2655
+Cândido Rodrigues
+SP
+4265
+Canitar
+SP
+45275
+Capão Bonito
+SP
+15950
+Capela do Alto
+SP
+43779
+Capivari
+SP
+88815
+Caraguatatuba
+SP
+379566
+Carapicuíba 
+SP
+11324
+Cardoso
+SP
+27081
+Casa Branca
+SP
+2706
+Cássia dos Coqueiros
+SP
+15410
+Castilho
+SP
+109362
+Catanduva
+SP
+6870
+Catiguá
+SP
+7607
+Cedral
+SP
+16276
+Cerqueira César
+SP
+34769
+Cerquilho
+SP
+14005
+Cesário Lange
+SP
+14356
+Charqueada
+SP
+12226
+Chavantes
+SP
+6081
+Clementina
+SP
+16989
+Colina
+SP
+6073
+Colômbia
+SP
+23352
+Conchal
+SP
+15473
+Conchas
+SP
+19309
+Cordeirópolis
+SP
+4881
+Coroados
+SP
+5277
+Coronel Macedo
+SP
+3935
+Corumbataí
+SP
+53561
+Cosmópolis
+SP
+6951
+Cosmorama
+SP
+172823
+Cotia 
+SP
+29377
+Cravinhos
+SP
+7005
+Cristais Paulista
+SP
+2368
+Cruzália
+SP
+76098
+Cruzeiro
+SP
+120271
+Cubatão
+SP
+22951
+Cunha
+SP
+29533
+Descalvado
+SP
+386779
+Diadema 
+SP
+1582
+Dirce Reis
+SP
+11246
+Divinolândia
+SP
+7664
+Dobrada
+SP
+24384
+Dois Córregos
+SP
+2181
+Dolcinópolis
+SP
+8751
+Dourado
+SP
+42107
+Dracena
+SP
+12381
+Duartina
+SP
+7557
+Dumont
+SP
+6247
+Echaporã
+SP
+14038
+Eldorado
+SP
+14521
+Elias Fausto
+SP
+3024
+Elisiário
+SP
+2391
+Embaúba
+SP
+237318
+Embu 
+SP
+59083
+Embu-Guaçu
+SP
+3021
+Emilianópolis
+SP
+12729
+Engenheiro Coelho
+SP
+40684
+Espírito Santo do Pinhal
+SP
+4103
+Espírito Santo do Turvo
+SP
+9185
+Estiva Gerbi
+SP
+2454
+Estrela do Norte
+SP
+8590
+Estrela d'Oeste
+SP
+9923
+Euclides da Cunha Paulista
+SP
+14601
+Fartura
+SP
+5212
+Fernando Prestes
+SP
+61392
+Fernandópolis
+SP
+1457
+Fernão
+SP
+168897
+Ferraz de Vasconcelos 
+SP
+2019
+Flora Rica
+SP
+2907
+Floreal
+SP
+12660
+Flórida Paulista
+SP
+2860
+Florínia
+SP
+319094
+Franca 
+SP
+146634
+Francisco Morato
+SP
+121451
+Franco da Rocha
+SP
+2638
+Gabriel Monteiro
+SP
+6812
+Gália
+SP
+42218
+Garça
+SP
+3863
+Gastão Vidigal
+SP
+4103
+Gavião Peixoto
+SP
+10626
+General Salgado
+SP
+10515
+Getulina
+SP
+4398
+Glicério
+SP
+10357
+Guaiçara
+SP
+4752
+Guaimbê
+SP
+36544
+Guaíra
+SP
+16392
+Guapiaçu
+SP
+20056
+Guapiara
+SP
+18611
+Guará
+SP
+8505
+Guaraçaí
+SP
+9045
+Guaraci
+SP
+1963
+Guarani d'Oeste
+SP
+6410
+Guarantã
+SP
+28662
+Guararapes
+SP
+24854
+Guararema
+SP
+107895
+Guaratinguetá
+SP
+13202
+Guareí
+SP
+32664
+Guariba
+SP
+296150
+Guarujá 
+SP
+1236192
+Guarulhos 
+SP
+6217
+Guatapará
+SP
+4616
+Guzolândia
+SP
+8573
+Herculândia
+SP
+9111
+Holambra
+SP
+190781
+Hortolândia 
+SP
+9074
+Iacanga
+SP
+6677
+Iacri
+SP
+4777
+Iaras
+SP
+28040
+Ibaté
+SP
+10379
+Ibirá
+SP
+6617
+Ibirarema
+SP
+49951
+Ibitinga
+SP
+64832
+Ibiúna
+SP
+6429
+Icém
+SP
+7487
+Iepê
+SP
+23085
+Igaraçu do Tietê
+SP
+26862
+Igarapava
+SP
+8537
+Igaratá
+SP
+28977
+Iguape
+SP
+8875
+Ilha Comprida
+SP
+24181
+Ilha Solteira
+SP
+23886
+Ilhabela
+SP
+173508
+Indaiatuba 
+SP
+4682
+Indiana
+SP
+3880
+Indiaporã
+SP
+3595
+Inúbia Paulista
+SP
+12964
+Ipaussu
+SP
+24239
+Iperó
+SP
+5164
+Ipeúna
+SP
+3925
+Ipiguá
+SP
+4603
+Iporanga
+SP
+14344
+Ipuã
+SP
+18026
+Iracemápolis
+SP
+6710
+Irapuã
+SP
+7556
+Irapuru
+SP
+17576
+Itaberá
+SP
+22617
+Itaí
+SP
+14182
+Itajobi
+SP
+2624
+Itaju
+SP
+80778
+Itanhaém
+SP
+3087
+Itaóca
+SP
+148728
+Itapecerica da Serra
+SP
+138450
+Itapetininga
+SP
+85537
+Itapeva
+SP
+193686
+Itapevi 
+SP
+68187
+Itapira
+SP
+3723
+Itapirapuã Paulista
+SP
+38633
+Itápolis
+SP
+14284
+Itaporanga
+SP
+11605
+Itapuí
+SP
+3812
+Itapura
+SP
+334914
+Itaquaquecetuba 
+SP
+48732
+Itararé
+SP
+15115
+Itariri
+SP
+91479
+Itatiba
+SP
+17570
+Itatinga
+SP
+13889
+Itirapina
+SP
+5614
+Itirapuã
+SP
+7444
+Itobi
+SP
+147251
+Itu
+SP
+36766
+Itupeva
+SP
+38539
+Ituverava
+SP
+6462
+Jaborandi
+SP
+69624
+Jaboticabal
+SP
+207028
+Jacareí 
+SP
+5008
+Jaci
+SP
+16112
+Jacupiranga
+SP
+36804
+Jaguariúna
+SP
+47649
+Jales
+SP
+4968
+Jambeiro
+SP
+103578
+Jandira
+SP
+34611
+Jardinópolis
+SP
+20611
+Jarinu
+SP
+125469
+Jaú
+SP
+3153
+Jeriquara
+SP
+10671
+Joanópolis
+SP
+4092
+João Ramalho
+SP
+30639
+José Bonifácio
+SP
+4318
+Júlio Mesquita
+SP
+2205
+Jumirim
+SP
+342983
+Jundiaí 
+SP
+18628
+Junqueirópolis
+SP
+19352
+Juquiá
+SP
+27777
+Juquitiba
+SP
+4798
+Lagoinha
+SP
+24454
+Laranjal Paulista
+SP
+7984
+Lavínia
+SP
+6543
+Lavrinhas
+SP
+84406
+Leme
+SP
+59366
+Lençóis Paulista
+SP
+272734
+Limeira 
+SP
+5657
+Lindóia
+SP
+69279
+Lins
+SP
+79317
+Lorena
+SP
+1974
+Lourdes
+SP
+29760
+Louveira
+SP
+19212
+Lucélia
+SP
+2299
+Lucianópolis
+SP
+10272
+Luís Antônio
+SP
+4763
+Luiziânia
+SP
+4238
+Lupércio
+SP
+2794
+Lutécia
+SP
+16173
+Macatuba
+SP
+7396
+Macaubal
+SP
+3411
+Macedônia
+SP
+3154
+Magda
+SP
+41508
+Mairinque
+SP
+71754
+Mairiporã
+SP
+8651
+Manduri
+SP
+5193
+Marabá Paulista
+SP
+13163
+Maracaí
+SP
+2556
+Marapoama
+SP
+3786
+Mariápolis
+SP
+218113
+Marília 
+SP
+2114
+Marinópolis
+SP
+23983
+Martinópolis
+SP
+74407
+Matão
+SP
+402643
+Mauá 
+SP
+3980
+Mendonça
+SP
+3857
+Meridiano
+SP
+1768
+Mesópolis
+SP
+19972
+Miguelópolis
+SP
+11760
+Mineiros do Tietê
+SP
+2576
+Mira Estrela
+SP
+22796
+Miracatu
+SP
+25849
+Mirandópolis
+SP
+17128
+Mirante do Paranapanema
+SP
+51660
+Mirassol
+SP
+4099
+Mirassolândia
+SP
+66086
+Mococa
+SP
+362991
+Mogi das Cruzes 
+SP
+131870
+Mogi Guaçu
+SP
+84176
+Moji Mirim
+SP
+3280
+Mombuca
+SP
+2054
+Monções
+SP
+40423
+Mongaguá
+SP
+6957
+Monte Alegre do Sul
+SP
+44085
+Monte Alto
+SP
+19745
+Monte Aprazível
+SP
+19187
+Monte Azul Paulista
+SP
+4014
+Monte Castelo
+SP
+42824
+Monte Mor
+SP
+3994
+Monteiro Lobato
+SP
+25390
+Morro Agudo
+SP
+12007
+Morungaba
+SP
+4340
+Motuca
+SP
+4091
+Murutinga do Sul
+SP
+2483
+Nantes
+SP
+3941
+Narandiba
+SP
+7275
+Natividade da Serra
+SP
+14613
+Nazaré Paulista
+SP
+8825
+Neves Paulista
+SP
+10334
+Nhandeara
+SP
+3762
+Nipoã
+SP
+4905
+Nova Aliança
+SP
+8474
+Nova Campina
+SP
+2205
+Nova Canaã Paulista
+SP
+1057
+Nova Castilho
+SP
+9047
+Nova Europa
+SP
+17739
+Nova Granada
+SP
+2101
+Nova Guataporanga
+SP
+2480
+Nova Independência
+SP
+3403
+Nova Luzitânia
+SP
+45625
+Nova Odessa
+SP
+3661
+Novais
+SP
+34264
+Novo Horizonte
+SP
+6629
+Nuporanga
+SP
+4180
+Ocauçu
+SP
+2714
+Óleo
+SP
+48020
+Olímpia
+SP
+3736
+Onda Verde
+SP
+6079
+Oriente
+SP
+4916
+Orindiúva
+SP
+36149
+Orlândia
+SP
+701012
+Osasco 
+SP
+2476
+Oscar Bressane
+SP
+30150
+Osvaldo Cruz
+SP
+98868
+Ourinhos
+SP
+7668
+Ouro Verde
+SP
+7035
+Ouroeste
+SP
+13072
+Pacaembu
+SP
+10428
+Palestina
+SP
+10508
+Palmares Paulista
+SP
+9634
+Palmeira d'Oeste
+SP
+21298
+Palmital
+SP
+13944
+Panorama
+SP
+42117
+Paraguaçu Paulista
+SP
+16456
+Paraibuna
+SP
+5559
+Paraíso
+SP
+16667
+Paranapanema
+SP
+3614
+Paranapuã
+SP
+11029
+Parapuã
+SP
+5030
+Pardinho
+SP
+18079
+Pariquera-Açu
+SP
+2038
+Parisi
+SP
+12183
+Patrocínio Paulista
+SP
+5506
+Paulicéia
+SP
+73014
+Paulínia
+SP
+1824
+Paulistânia
+SP
+8942
+Paulo de Faria
+SP
+40270
+Pederneiras
+SP
+5835
+Pedra Bela
+SP
+2734
+Pedranópolis
+SP
+15156
+Pedregulho
+SP
+38152
+Pedreira
+SP
+2834
+Pedrinhas Paulista
+SP
+9692
+Pedro de Toledo
+SP
+56681
+Penápolis
+SP
+24220
+Pereira Barreto
+SP
+7347
+Pereiras
+SP
+54457
+Peruíbe
+SP
+5093
+Piacatu
+SP
+48430
+Piedade
+SP
+26457
+Pilar do Sul
+SP
+135682
+Pindamonhangaba
+SP
+14345
+Pindorama
+SP
+11817
+Pinhalzinho
+SP
+3599
+Piquerobi
+SP
+14475
+Piquete
+SP
+22335
+Piracaia
+SP
+358108
+Piracicaba 
+SP
+28228
+Piraju
+SP
+21035
+Pirajuí
+SP
+10315
+Pirangi
+SP
+14370
+Pirapora do Bom Jesus
+SP
+23709
+Pirapozinho
+SP
+67787
+Pirassununga
+SP
+11287
+Piratininga
+SP
+33329
+Pitangueiras
+SP
+4014
+Planalto
+SP
+3167
+Platina
+SP
+104904
+Poá
+SP
+4880
+Poloni
+SP
+19091
+Pompéia
+SP
+3473
+Pongaí
+SP
+35560
+Pontal
+SP
+3906
+Pontalinda
+SP
+2487
+Pontes Gestal
+SP
+4201
+Populina
+SP
+8069
+Porangaba
+SP
+46054
+Porto Feliz
+SP
+48760
+Porto Ferreira
+SP
+18143
+Potim
+SP
+14327
+Potirendaba
+SP
+2667
+Pracinha
+SP
+15148
+Pradópolis
+SP
+233806
+Praia Grande 
+SP
+4309
+Pratânia
+SP
+4346
+Presidente Alves
+SP
+14788
+Presidente Bernardes
+SP
+39403
+Presidente Epitácio
+SP
+202789
+Presidente Prudente 
+SP
+37155
+Presidente Venceslau
+SP
+34786
+Promissão
+SP
+2679
+Quadra
+SP
+11971
+Quatá
+SP
+2603
+Queiroz
+SP
+10323
+Queluz
+SP
+5654
+Quintana
+SP
+8151
+Rafard
+SP
+28303
+Rancharia
+SP
+4081
+Redenção da Serra
+SP
+17070
+Regente Feijó
+SP
+6993
+Reginópolis
+SP
+53369
+Registro
+SP
+6350
+Restinga
+SP
+3444
+Ribeira
+SP
+11383
+Ribeirão Bonito
+SP
+18879
+Ribeirão Branco
+SP
+4014
+Ribeirão Corrente
+SP
+4497
+Ribeirão do Sul
+SP
+2231
+Ribeirão dos Índios
+SP
+6928
+Ribeirão Grande
+SP
+107046
+Ribeirão Pires
+SP
+547417
+Ribeirão Preto 
+SP
+3587
+Rifaina
+SP
+10425
+Rincão
+SP
+9393
+Rinópolis
+SP
+185421
+Rio Claro 
+SP
+26344
+Rio das Pedras
+SP
+39270
+Rio Grande da Serra
+SP
+9713
+Riolândia
+SP
+6545
+Riversul
+SP
+19943
+Rosana
+SP
+9016
+Roseira
+SP
+2501
+Rubiácea
+SP
+2546
+Rubinéia
+SP
+5150
+Sabino
+SP
+2307
+Sagres
+SP
+5025
+Sales
+SP
+8187
+Sales Oliveira
+SP
+15157
+Salesópolis
+SP
+4551
+Salmourão
+SP
+6586
+Saltinho
+SP
+102311
+Salto
+SP
+37324
+Salto de Pirapora
+SP
+8592
+Salto Grande
+SP
+3217
+Sandovalina
+SP
+13861
+Santa Adélia
+SP
+5042
+Santa Albertina
+SP
+184318
+Santa Bárbara d'Oeste 
+SP
+13282
+Santa Branca
+SP
+2081
+Santa Clara d'Oeste
+SP
+3872
+Santa Cruz da Conceição
+SP
+1707
+Santa Cruz da Esperança
+SP
+30458
+Santa Cruz das Palmeiras
+SP
+41655
+Santa Cruz do Rio Pardo
+SP
+5510
+Santa Ernestina
+SP
+27693
+Santa Fé do Sul
+SP
+19044
+Santa Gertrudes
+SP
+44817
+Santa Isabel
+SP
+7862
+Santa Lúcia
+SP
+5417
+Santa Maria da Serra
+SP
+2589
+Santa Mercedes
+SP
+26456
+Santa Rita do Passa Quatro
+SP
+2493
+Santa Rita d'Oeste
+SP
+22699
+Santa Rosa de Viterbo
+SP
+1390
+Santa Salete
+SP
+1654
+Santana da Ponte Pensa
+SP
+100189
+Santana de Parnaíba
+SP
+20550
+Santo Anastácio
+SP
+667891
+Santo André 
+SP
+6020
+Santo Antônio da Alegria
+SP
+19824
+Santo Antônio de Posse
+SP
+7034
+Santo Antônio do Aracanguá
+SP
+5743
+Santo Antônio do Jardim
+SP
+6560
+Santo Antônio do Pinhal
+SP
+2759
+Santo Expedito
+SP
+4008
+Santópolis do Aguapeí
+SP
+418288
+Santos 
+SP
+10515
+São Bento do Sapucaí
+SP
+781390
+São Bernardo do Campo 
+SP
+144857
+São Caetano do Sul
+SP
+212956
+São Carlos 
+SP
+2812
+São Francisco
+SP
+79935
+São João da Boa Vista
+SP
+2571
+São João das Duas Pontes
+SP
+1725
+São João de Iracema
+SP
+2132
+São João do Pau d'Alho
+SP
+43703
+São Joaquim da Barra
+SP
+8173
+São José da Bela Vista
+SP
+4278
+São José do Barreiro
+SP
+51023
+São José do Rio Pardo
+SP
+402770
+São José do Rio Preto 
+SP
+594948
+São José dos Campos 
+SP
+16121
+São Lourenço da Serra
+SP
+10496
+São Luís do Paraitinga
+SP
+37797
+São Manuel
+SP
+30384
+São Miguel Arcanjo
+SP
+10886518
+São Paulo 
+SP
+29733
+São Pedro
+SP
+7094
+São Pedro do Turvo
+SP
+65693
+São Roque
+SP
+67348
+São Sebastião
+SP
+12509
+São Sebastião da Grama
+SP
+13781
+São Simão
+SP
+323599
+São Vicente 
+SP
+8158
+Sarapuí
+SP
+3680
+Sarutaiá
+SP
+2871
+Sebastianópolis do Sul
+SP
+9107
+Serra Azul
+SP
+24671
+Serra Negra
+SP
+36596
+Serrana
+SP
+103558
+Sertãozinho
+SP
+12975
+Sete Barras
+SP
+14713
+Severínia
+SP
+5562
+Silveiras
+SP
+33080
+Socorro
+SP
+559157
+Sorocaba 
+SP
+7714
+Sud Mennucci
+SP
+228696
+Sumaré 
+SP
+3421
+Suzanápolis
+SP
+268777
+Suzano 
+SP
+11255
+Tabapuã
+SP
+13965
+Tabatinga
+SP
+219200
+Taboão da Serra 
+SP
+5402
+Taciba
+SP
+9616
+Taguaí
+SP
+5804
+Taiaçu
+SP
+5366
+Taiúva
+SP
+21913
+Tambaú
+SP
+23400
+Tanabi
+SP
+7953
+Tapiraí
+SP
+12246
+Tapiratiba
+SP
+2827
+Taquaral
+SP
+53232
+Taquaritinga
+SP
+22170
+Taquarituba
+SP
+5098
+Taquarivaí
+SP
+6108
+Tarabai
+SP
+12302
+Tarumã
+SP
+101838
+Tatuí
+SP
+265514
+Taubaté 
+SP
+5015
+Tejupá
+SP
+20325
+Teodoro Sampaio
+SP
+8155
+Terra Roxa
+SP
+34018
+Tietê
+SP
+2535
+Timburi
+SP
+2784
+Torre de Pedra
+SP
+8918
+Torrinha
+SP
+1441
+Trabiju
+SP
+38321
+Tremembé
+SP
+5031
+Três Fronteiras
+SP
+5749
+Tuiuti
+SP
+62256
+Tupã
+SP
+13712
+Tupi Paulista
+SP
+1947
+Turiúba
+SP
+2024
+Turmalina
+SP
+4552
+Ubarana
+SP
+75008
+Ubatuba
+SP
+4269
+Ubirajara
+SP
+9348
+Uchoa
+SP
+1436
+União Paulista
+SP
+8727
+Urânia
+SP
+1362
+Uru
+SP
+11917
+Urupês
+SP
+9408
+Valentim Gentil
+SP
+97814
+Valinhos
+SP
+20827
+Valparaíso
+SP
+6883
+Vargem
+SP
+37357
+Vargem Grande do Sul
+SP
+40200
+Vargem Grande Paulista
+SP
+100406
+Várzea Paulista
+SP
+10020
+Vera Cruz
+SP
+57435
+Vinhedo
+SP
+17043
+Viradouro
+SP
+6100
+Vista Alegre do Alto
+SP
+1624
+Vitória Brasil
+SP
+99901
+Votorantim
+SP
+77622
+Votuporanga
+SP
+2229
+Zacarias
+PR
+7791
+Abatiá
+PR
+6709
+Adrianópolis
+PR
+8192
+Agudos do Sul
+PR
+93055
+Almirante Tamandaré
+PR
+4369
+Altamira do Paraná
+PR
+3252
+Alto Paraíso
+PR
+12936
+Alto Paraná
+PR
+10210
+Alto Piquiri
+PR
+19904
+Altônia
+PR
+9014
+Alvorada do Sul
+PR
+5140
+Amaporã
+PR
+17067
+Ampére
+PR
+2868
+Anahy
+PR
+21330
+Andirá
+PR
+2807
+Ângulo
+PR
+17581
+Antonina
+PR
+7477
+Antônio Olinto
+PR
+115323
+Apucarana
+PR
+96669
+Arapongas
+PR
+25645
+Arapoti
+PR
+3945
+Arapuã
+PR
+12650
+Araruna
+PR
+109943
+Araucária
+PR
+2540
+Ariranha do Ivaí
+PR
+16098
+Assaí
+PR
+32226
+Assis Chateaubriand
+PR
+24191
+Astorga
+PR
+3627
+Atalaia
+PR
+10639
+Balsa Nova
+PR
+32290
+Bandeirantes
+PR
+13655
+Barbosa Ferraz
+PR
+2757
+Barra do Jacaré
+PR
+9027
+Barracão
+PR
+4136
+Bela Vista da Caroba
+PR
+14996
+Bela Vista do Paraíso
+PR
+16142
+Bituruna
+PR
+4706
+Boa Esperança
+PR
+2866
+Boa Esperança do Iguaçu
+PR
+6744
+Boa Ventura de São Roque
+PR
+7818
+Boa Vista da Aparecida
+PR
+9533
+Bocaiúva do Sul
+PR
+3835
+Bom Jesus do Sul
+PR
+6397
+Bom Sucesso
+PR
+3061
+Bom Sucesso do Sul
+PR
+8275
+Borrazópolis
+PR
+6044
+Braganey
+PR
+3306
+Brasilândia do Sul
+PR
+2702
+Cafeara
+PR
+13065
+Cafelândia
+PR
+4271
+Cafezal do Sul
+PR
+7546
+Califórnia
+PR
+23956
+Cambará
+PR
+92888
+Cambé
+PR
+6862
+Cambira
+PR
+15983
+Campina da Lagoa
+PR
+4180
+Campina do Simão
+PR
+35396
+Campina Grande do Sul
+PR
+4426
+Campo Bonito
+PR
+6461
+Campo do Tenente
+PR
+105492
+Campo Largo
+PR
+22325
+Campo Magro
+PR
+82530
+Campo Mourão
+PR
+17775
+Cândido de Abreu
+PR
+15412
+Candói
+PR
+12418
+Cantagalo
+PR
+18103
+Capanema
+PR
+13616
+Capitão Leônidas Marques
+PR
+16521
+Carambeí
+PR
+13170
+Carlópolis
+PR
+285784
+Cascavel 
+PR
+65363
+Castro
+PR
+9578
+Catanduvas
+PR
+11247
+Centenário do Sul
+PR
+17693
+Cerro Azul
+PR
+10914
+Céu Azul
+PR
+19224
+Chopinzinho
+PR
+64498
+Cianorte
+PR
+10468
+Cidade Gaúcha
+PR
+17599
+Clevelândia
+PR
+233916
+Colombo 
+PR
+21049
+Colorado
+PR
+8552
+Congonhinhas
+PR
+3554
+Conselheiro Mairinck
+PR
+14800
+Contenda
+PR
+15428
+Corbélia
+PR
+46931
+Cornélio Procópio
+PR
+7480
+Coronel Domingos Soares
+PR
+21571
+Coronel Vivida
+PR
+4262
+Corumbataí do Sul
+PR
+18329
+Cruz Machado
+PR
+4150
+Cruzeiro do Iguaçu
+PR
+20182
+Cruzeiro do Oeste
+PR
+4493
+Cruzeiro do Sul
+PR
+3116
+Cruzmaltina
+PR
+1797408
+Curitiba 
+PR
+14338
+Curiúva
+PR
+5611
+Diamante do Norte
+PR
+3665
+Diamante do Sul
+PR
+4944
+Diamante D'Oeste
+PR
+34001
+Dois Vizinhos
+PR
+6530
+Douradina
+PR
+5609
+Doutor Camargo
+PR
+5956
+Doutor Ulysses
+PR
+5974
+Enéas Marques
+PR
+13867
+Engenheiro Beltrão
+PR
+3842
+Entre Rios do Oeste
+PR
+1887
+Esperança Nova
+PR
+5104
+Espigão Alto do Iguaçu
+PR
+3394
+Farol
+PR
+15527
+Faxinal
+PR
+75006
+Fazenda Rio Grande
+PR
+4871
+Fênix
+PR
+5688
+Fernandes Pinheiro
+PR
+8380
+Figueira
+PR
+4685
+Flor da Serra do Sul
+PR
+5051
+Floraí
+PR
+5215
+Floresta
+PR
+11571
+Florestópolis
+PR
+2448
+Flórida
+PR
+7532
+Formosa do Oeste
+PR
+311336
+Foz do Iguaçu 
+PR
+5832
+Foz do Jordão
+PR
+6342
+Francisco Alves
+PR
+72409
+Francisco Beltrão
+PR
+14591
+General Carneiro
+PR
+3568
+Godoy Moreira
+PR
+28941
+Goioerê
+PR
+7993
+Goioxim
+PR
+7641
+Grandes Rios
+PR
+28683
+Guaíra
+PR
+5721
+Guairaçá
+PR
+7548
+Guamiranga
+PR
+3639
+Guapirama
+PR
+2190
+Guaporema
+PR
+4993
+Guaraci
+PR
+15959
+Guaraniaçu
+PR
+164567
+Guarapuava
+PR
+7732
+Guaraqueçaba
+PR
+30793
+Guaratuba
+PR
+6169
+Honório Serpa
+PR
+28050
+Ibaiti
+PR
+5927
+Ibema
+PR
+45158
+Ibiporã
+PR
+9212
+Icaraíma
+PR
+3741
+Iguaraçu
+PR
+2286
+Iguatu
+PR
+11191
+Imbaú
+PR
+27044
+Imbituva
+PR
+11036
+Inácio Martins
+PR
+2810
+Inajá
+PR
+4138
+Indianópolis
+PR
+13993
+Ipiranga
+PR
+15086
+Iporã
+PR
+2580
+Iracema do Oeste
+PR
+54151
+Irati
+PR
+11174
+Iretama
+PR
+4508
+Itaguajé
+PR
+8581
+Itaipulândia
+PR
+6935
+Itambaracá
+PR
+5897
+Itambé
+PR
+10537
+Itapejara d'Oeste
+PR
+22021
+Itaperuçu
+PR
+3699
+Itaúna do Sul
+PR
+12840
+Ivaí
+PR
+31344
+Ivaiporã
+PR
+7792
+Ivaté
+PR
+2715
+Ivatuba
+PR
+5019
+Jaboti
+PR
+39327
+Jacarezinho
+PR
+11782
+Jaguapitã
+PR
+31865
+Jaguariaíva
+PR
+19534
+Jandaia do Sul
+PR
+7032
+Janiópolis
+PR
+4694
+Japira
+PR
+8248
+Japurá
+PR
+14315
+Jardim Alegre
+PR
+1461
+Jardim Olinda
+PR
+11244
+Jataizinho
+PR
+8825
+Jesuítas
+PR
+10247
+Joaquim Távora
+PR
+3654
+Jundiaí do Sul
+PR
+7684
+Juranda
+PR
+6090
+Jussara
+PR
+4664
+Kaloré
+PR
+41679
+Lapa
+PR
+6322
+Laranjal
+PR
+30481
+Laranjeiras do Sul
+PR
+4230
+Leópolis
+PR
+4123
+Lidianópolis
+PR
+5446
+Lindoeste
+PR
+19464
+Loanda
+PR
+4219
+Lobato
+PR
+497833
+Londrina 
+PR
+7204
+Luiziana
+PR
+5082
+Lunardelli
+PR
+4375
+Lupionópolis
+PR
+12414
+Mallet
+PR
+14132
+Mamborê
+PR
+18259
+Mandaguaçu
+PR
+31890
+Mandaguari
+PR
+20408
+Mandirituba
+PR
+3306
+Manfrinópolis
+PR
+17119
+Mangueirinha
+PR
+12762
+Manoel Ribas
+PR
+44562
+Marechal Cândido Rondon
+PR
+6012
+Maria Helena
+PR
+30017
+Marialva
+PR
+8932
+Marilândia do Sul
+PR
+6541
+Marilena
+PR
+10461
+Mariluz
+PR
+325968
+Maringá 
+PR
+5805
+Mariópolis
+PR
+5571
+Maripá
+PR
+13156
+Marmeleiro
+PR
+5205
+Marquinho
+PR
+4142
+Marumbi
+PR
+15404
+Matelândia
+PR
+23357
+Matinhos
+PR
+4156
+Mato Rico
+PR
+7814
+Mauá da Serra
+PR
+38397
+Medianeira
+PR
+4713
+Mercedes
+PR
+2336
+Mirador
+PR
+1899
+Miraselva
+PR
+10412
+Missal
+PR
+12926
+Moreira Sales
+PR
+16198
+Morretes
+PR
+3552
+Munhoz de Melo
+PR
+3903
+Nossa Senhora das Graças
+PR
+1377
+Nova Aliança do Ivaí
+PR
+3298
+Nova América da Colina
+PR
+11753
+Nova Aurora
+PR
+7795
+Nova Cantu
+PR
+25719
+Nova Esperança
+PR
+5182
+Nova Esperança do Sudoeste
+PR
+8054
+Nova Fátima
+PR
+11302
+Nova Laranjeiras
+PR
+12619
+Nova Londrina
+PR
+5227
+Nova Olímpia
+PR
+10452
+Nova Prata do Iguaçu
+PR
+3802
+Nova Santa Bárbara
+PR
+7582
+Nova Santa Rosa
+PR
+8317
+Nova Tebas
+PR
+2747
+Novo Itacolomi
+PR
+24397
+Ortigueira
+PR
+3296
+Ourizona
+PR
+5465
+Ouro Verde do Oeste
+PR
+34640
+Paiçandu
+PR
+40485
+Palmas
+PR
+31234
+Palmeira
+PR
+15454
+Palmital
+PR
+27545
+Palotina
+PR
+11169
+Paraíso do Norte
+PR
+9513
+Paranacity
+PR
+133559
+Paranaguá
+PR
+2656
+Paranapoema
+PR
+79110
+Paranavaí
+PR
+4631
+Pato Bragado
+PR
+66680
+Pato Branco
+PR
+5457
+Paula Freitas
+PR
+7032
+Paulo Frontin
+PR
+13029
+Peabiru
+PR
+5055
+Perobal
+PR
+9334
+Pérola
+PR
+7046
+Pérola d'Oeste
+PR
+11083
+Piên
+PR
+112038
+Pinhais
+PR
+2524
+Pinhal de São Bento
+PR
+5893
+Pinhalão
+PR
+29113
+Pinhão
+PR
+23170
+Piraí do Sul
+PR
+82006
+Piraquara
+PR
+34310
+Pitanga
+PR
+2664
+Pitangueiras
+PR
+3791
+Planaltina do Paraná
+PR
+13649
+Planalto
+PR
+306351
+Ponta Grossa 
+PR
+16625
+Pontal do Paraná
+PR
+14174
+Porecatu
+PR
+4212
+Porto Amazonas
+PR
+3761
+Porto Barreiro
+PR
+2462
+Porto Rico
+PR
+3779
+Porto Vitória
+PR
+3344
+Prado Ferreira
+PR
+5811
+Pranchita
+PR
+4674
+Presidente Castelo Branco
+PR
+10753
+Primeiro de Maio
+PR
+48708
+Prudentópolis
+PR
+4848
+Quarto Centenário
+PR
+6877
+Quatiguá
+PR
+18125
+Quatro Barras
+PR
+3669
+Quatro Pontes
+PR
+30181
+Quedas do Iguaçu
+PR
+11804
+Querência do Norte
+PR
+5173
+Quinta do Sol
+PR
+15897
+Quitandinha
+PR
+4147
+Ramilândia
+PR
+4001
+Rancho Alegre
+PR
+2928
+Rancho Alegre D'Oeste
+PR
+15809
+Realeza
+PR
+14053
+Rebouças
+PR
+6762
+Renascença
+PR
+24249
+Reserva
+PR
+7094
+Reserva do Iguaçu
+PR
+10882
+Ribeirão Claro
+PR
+13389
+Ribeirão do Pinhal
+PR
+13248
+Rio Azul
+PR
+3260
+Rio Bom
+PR
+14450
+Rio Bonito do Iguaçu
+PR
+3850
+Rio Branco do Ivaí
+PR
+31486
+Rio Branco do Sul
+PR
+29862
+Rio Negro
+PR
+53437
+Rolândia
+PR
+12265
+Roncador
+PR
+9023
+Rondon
+PR
+5823
+Rosário do Ivaí
+PR
+5447
+Sabáudia
+PR
+4666
+Salgado Filho
+PR
+5087
+Salto do Itararé
+PR
+12480
+Salto do Lontra
+PR
+4062
+Santa Amélia
+PR
+3676
+Santa Cecília do Pavão
+PR
+7924
+Santa Cruz de Monte Castelo
+PR
+9774
+Santa Fé
+PR
+22794
+Santa Helena
+PR
+1878
+Santa Inês
+PR
+8509
+Santa Isabel do Ivaí
+PR
+11434
+Santa Izabel do Oeste
+PR
+3725
+Santa Lúcia
+PR
+11548
+Santa Maria do Oeste
+PR
+11992
+Santa Mariana
+PR
+3453
+Santa Mônica
+PR
+9378
+Santa Tereza do Oeste
+PR
+19552
+Santa Terezinha de Itaipu
+PR
+5537
+Santana do Itararé
+PR
+40480
+Santo Antônio da Platina
+PR
+2692
+Santo Antônio do Caiuá
+PR
+2354
+Santo Antônio do Paraíso
+PR
+18565
+Santo Antônio do Sudoeste
+PR
+4876
+Santo Inácio
+PR
+5817
+São Carlos do Ivaí
+PR
+11563
+São Jerônimo da Serra
+PR
+10900
+São João
+PR
+5979
+São João do Caiuá
+PR
+11854
+São João do Ivaí
+PR
+13611
+São João do Triunfo
+PR
+5286
+São Jorge do Ivaí
+PR
+6031
+São Jorge do Patrocínio
+PR
+8979
+São Jorge d'Oeste
+PR
+6293
+São José da Boa Vista
+PR
+3873
+São José das Palmeiras
+PR
+263622
+São José dos Pinhais 
+PR
+2093
+São Manoel do Paraná
+PR
+39152
+São Mateus do Sul
+PR
+25341
+São Miguel do Iguaçu
+PR
+6540
+São Pedro do Iguaçu
+PR
+9569
+São Pedro do Ivaí
+PR
+2532
+São Pedro do Paraná
+PR
+8681
+São Sebastião da Amoreira
+PR
+5279
+São Tomé
+PR
+6638
+Sapopema
+PR
+79686
+Sarandi
+PR
+4931
+Saudade do Iguaçu
+PR
+19356
+Sengés
+PR
+4327
+Serranópolis do Iguaçu
+PR
+5894
+Sertaneja
+PR
+15485
+Sertanópolis
+PR
+16663
+Siqueira Campos
+PR
+3445
+Sulina
+PR
+10887
+Tamarana
+PR
+4564
+Tamboara
+PR
+14498
+Tapejara
+PR
+5829
+Tapira
+PR
+9781
+Teixeira Soares
+PR
+65797
+Telêmaco Borba
+PR
+14588
+Terra Boa
+PR
+14405
+Terra Rica
+PR
+16208
+Terra Roxa
+PR
+18710
+Tibagi
+PR
+13091
+Tijucas do Sul
+PR
+109857
+Toledo
+PR
+8814
+Tomazina
+PR
+11718
+Três Barras do Paraná
+PR
+5921
+Tunas do Paraná
+PR
+8598
+Tuneiras do Oeste
+PR
+7755
+Tupãssi
+PR
+14025
+Turvo
+PR
+21214
+Ubiratã
+PR
+95153
+Umuarama
+PR
+51043
+União da Vitória
+PR
+2402
+Uniflor
+PR
+11489
+Uraí
+PR
+10275
+Ventania
+PR
+9099
+Vera Cruz do Oeste
+PR
+8002
+Verê
+PR
+4024
+Virmond
+PR
+6310
+Vitorino
+PR
+18691
+Wenceslau Braz
+PR
+5818
+Xambrê
+SC
+2726
+Abdon Batista
+SC
+16374
+Abelardo Luz
+SC
+9080
+Agrolândia
+SC
+4677
+Agronômica
+SC
+6756
+Água Doce
+SC
+6086
+Águas de Chapecó
+SC
+2551
+Águas Frias
+SC
+4410
+Águas Mornas
+SC
+9754
+Alfredo Wagner
+SC
+2021
+Alto Bela Vista
+SC
+6587
+Anchieta
+SC
+5322
+Angelina
+SC
+9141
+Anita Garibaldi
+SC
+3175
+Anitápolis
+SC
+7087
+Antônio Carlos
+SC
+10270
+Apiúna
+SC
+3962
+Arabutã
+SC
+21278
+Araquari
+SC
+57119
+Araranguá
+SC
+7312
+Armazém
+SC
+3516
+Arroio Trinta
+SC
+2193
+Arvoredo
+SC
+6761
+Ascurra
+SC
+3317
+Atalanta
+SC
+5399
+Aurora
+SC
+8089
+Balneário Arroio do Silva
+SC
+7278
+Balneário Barra do Sul
+SC
+94344
+Balneário Camboriú
+SC
+7307
+Balneário Gaivota
+SC
+13760
+Balneário Piçarras
+SC
+3028
+Bandeirante
+SC
+2064
+Barra Bonita
+SC
+18575
+Barra Velha
+SC
+5909
+Bela Vista do Toldo
+SC
+2681
+Belmonte
+SC
+9841
+Benedito Novo
+SC
+53444
+Biguaçu
+SC
+292972
+Blumenau 
+SC
+3047
+Bocaina do Sul
+SC
+4214
+Bom Jardim da Serra
+SC
+2296
+Bom Jesus
+SC
+2026
+Bom Jesus do Oeste
+SC
+8258
+Bom Retiro
+SC
+12456
+Bombinhas
+SC
+4127
+Botuverá
+SC
+27730
+Braço do Norte
+SC
+3288
+Braço do Trombudo
+SC
+2934
+Brunópolis
+SC
+94962
+Brusque
+SC
+67556
+Caçador
+SC
+6217
+Caibi
+SC
+4012
+Calmon
+SC
+53388
+Camboriú
+SC
+11391
+Campo Alegre
+SC
+7968
+Campo Belo do Sul
+SC
+9590
+Campo Erê
+SC
+28447
+Campos Novos
+SC
+9696
+Canelinha
+SC
+52677
+Canoinhas
+SC
+3210
+Capão Alto
+SC
+18465
+Capinzal
+SC
+20064
+Capivari de Baixo
+SC
+8733
+Catanduvas
+SC
+4885
+Caxambu do Sul
+SC
+2671
+Celso Ramos
+SC
+3948
+Cerro Negro
+SC
+2749
+Chapadão do Lageado
+SC
+164803
+Chapecó
+SC
+14563
+Cocal do Sul
+SC
+67249
+Concórdia
+SC
+3361
+Cordilheira Alta
+SC
+10246
+Coronel Freitas
+SC
+2481
+Coronel Martins
+SC
+14838
+Correia Pinto
+SC
+12758
+Corupá
+SC
+185506
+Criciúma 
+SC
+10638
+Cunha Porã
+SC
+1874
+Cunhataí
+SC
+37493
+Curitibanos
+SC
+8705
+Descanso
+SC
+14792
+Dionísio Cerqueira
+SC
+3441
+Dona Emma
+SC
+3294
+Doutor Pedrinho
+SC
+2979
+Entre Rios
+SC
+1843
+Ermo
+SC
+4098
+Erval Velho
+SC
+10339
+Faxinal dos Guedes
+SC
+1640
+Flor do Sertão
+SC
+396723
+Florianópolis 
+SC
+2620
+Formosa do Sul
+SC
+20719
+Forquilhinha
+SC
+34889
+Fraiburgo
+SC
+2655
+Frei Rogério
+SC
+3493
+Galvão
+SC
+16399
+Garopaba
+SC
+13393
+Garuva
+SC
+52428
+Gaspar
+SC
+12175
+Governador Celso Ramos
+SC
+6051
+Grão Pará
+SC
+10510
+Gravatal
+SC
+16095
+Guabiruba
+SC
+10604
+Guaraciaba
+SC
+29932
+Guaramirim
+SC
+4722
+Guarujá do Sul
+SC
+4505
+Guatambú
+SC
+18942
+Herval d'Oeste
+SC
+1987
+Ibiam
+SC
+3390
+Ibicaré
+SC
+16716
+Ibirama
+SC
+54107
+Içara
+SC
+11552
+Ilhota
+SC
+11675
+Imaruí
+SC
+36231
+Imbituba
+SC
+5501
+Imbuia
+SC
+47686
+Indaial
+SC
+2558
+Iomerê
+SC
+4705
+Ipira
+SC
+8091
+Iporã do Oeste
+SC
+6566
+Ipuaçu
+SC
+7118
+Ipumirim
+SC
+4261
+Iraceminha
+SC
+9313
+Irani
+SC
+2025
+Irati
+SC
+10287
+Irineópolis
+SC
+6417
+Itá
+SC
+19752
+Itaiópolis
+SC
+163218
+Itajaí
+SC
+33766
+Itapema
+SC
+15238
+Itapiranga
+SC
+10719
+Itapoá
+SC
+20577
+Ituporanga
+SC
+4032
+Jaborá
+SC
+10738
+Jacinto Machado
+SC
+15668
+Jaguaruna
+SC
+129973
+Jaraguá do Sul
+SC
+1851
+Jardinópolis
+SC
+24435
+Joaçaba
+SC
+487003
+Joinville 
+SC
+4840
+José Boiteux
+SC
+2134
+Jupiá
+SC
+2190
+Lacerdópolis
+SC
+161583
+Lages
+SC
+50179
+Laguna
+SC
+1461
+Lajeado Grande
+SC
+5483
+Laurentino
+SC
+13700
+Lauro Muller
+SC
+11735
+Lebon Régis
+SC
+3589
+Leoberto Leal
+SC
+4560
+Lindóia do Sul
+SC
+9180
+Lontras
+SC
+8986
+Luiz Alves
+SC
+5391
+Luzerna
+SC
+1760
+Macieira
+SC
+51014
+Mafra
+SC
+2842
+Major Gercino
+SC
+7337
+Major Vieira
+SC
+5909
+Maracajá
+SC
+21684
+Maravilha
+SC
+2282
+Marema
+SC
+13777
+Massaranduba
+SC
+2818
+Matos Costa
+SC
+6880
+Meleiro
+SC
+2545
+Mirim Doce
+SC
+3772
+Modelo
+SC
+9126
+Mondaí
+SC
+8854
+Monte Carlo
+SC
+8113
+Monte Castelo
+SC
+15426
+Morro da Fumaça
+SC
+2727
+Morro Grande
+SC
+52638
+Navegantes
+SC
+4118
+Nova Erechim
+SC
+4117
+Nova Itaberaba
+SC
+11325
+Nova Trento
+SC
+12536
+Nova Veneza
+SC
+2902
+Novo Horizonte
+SC
+20859
+Orleans
+SC
+15693
+Otacílio Costa
+SC
+7095
+Ouro
+SC
+2152
+Ouro Verde
+SC
+1821
+Paial
+SC
+2297
+Painel
+SC
+122471
+Palhoça
+SC
+7942
+Palma Sola
+SC
+2334
+Palmeira
+SC
+16061
+Palmitos
+SC
+17056
+Papanduva
+SC
+4195
+Paraíso
+SC
+5313
+Passo de Torres
+SC
+4472
+Passos Maia
+SC
+6830
+Paulo Lopes
+SC
+4817
+Pedras Grandes
+SC
+20868
+Penha
+SC
+2944
+Peritiba
+SC
+6064
+Petrolândia
+SC
+14691
+Pinhalzinho
+SC
+2912
+Pinheiro Preto
+SC
+4570
+Piratuba
+SC
+2639
+Planalto Alegre
+SC
+25261
+Pomerode
+SC
+5080
+Ponte Alta
+SC
+3500
+Ponte Alta do Norte
+SC
+11210
+Ponte Serrada
+SC
+13301
+Porto Belo
+SC
+32256
+Porto União
+SC
+13722
+Pouso Redondo
+SC
+7120
+Praia Grande
+SC
+1757
+Presidente Castello Branco
+SC
+13651
+Presidente Getúlio
+SC
+2259
+Presidente Nereu
+SC
+2604
+Princesa
+SC
+10871
+Quilombo
+SC
+2772
+Rancho Queimado
+SC
+6054
+Rio das Antas
+SC
+6043
+Rio do Campo
+SC
+6795
+Rio do Oeste
+SC
+56919
+Rio do Sul
+SC
+9685
+Rio dos Cedros
+SC
+4468
+Rio Fortuna
+SC
+42237
+Rio Negrinho
+SC
+2433
+Rio Rufino
+SC
+4998
+Riqueza
+SC
+10773
+Rodeio
+SC
+5738
+Romelândia
+SC
+7432
+Salete
+SC
+4072
+Saltinho
+SC
+4172
+Salto Veloso
+SC
+10300
+Sangão
+SC
+15311
+Santa Cecília
+SC
+2437
+Santa Helena
+SC
+2031
+Santa Rosa de Lima
+SC
+7949
+Santa Rosa do Sul
+SC
+9025
+Santa Terezinha
+SC
+3044
+Santa Terezinha do Progresso
+SC
+1450
+Santiago do Sul
+SC
+17602
+Santo Amaro da Imperatriz
+SC
+72548
+São Bento do Sul
+SC
+2653
+São Bernardino
+SC
+3178
+São Bonifácio
+SC
+10372
+São Carlos
+SC
+4850
+São Cristovão do Sul
+SC
+9346
+São Domingos
+SC
+37613
+São Francisco do Sul
+SC
+22089
+São João Batista
+SC
+3289
+São João do Itaperiú
+SC
+6020
+São João do Oeste
+SC
+6916
+São João do Sul
+SC
+24058
+São Joaquim
+SC
+196887
+São José 
+SC
+13699
+São José do Cedro
+SC
+10304
+São José do Cerrito
+SC
+21799
+São Lourenço do Oeste
+SC
+10246
+São Ludgero
+SC
+3194
+São Martinho
+SC
+1972
+São Miguel da Boa Vista
+SC
+33806
+São Miguel do Oeste
+SC
+4765
+São Pedro de Alcântara
+SC
+8587
+Saudades
+SC
+12776
+Schroeder
+SC
+17121
+Seara
+SC
+3200
+Serra Alta
+SC
+12470
+Siderópolis
+SC
+24424
+Sombrio
+SC
+3061
+Sul Brasil
+SC
+16838
+Taió
+SC
+8410
+Tangará
+SC
+1741
+Tigrinhos
+SC
+27944
+Tijucas
+SC
+5133
+Timbé do Sul
+SC
+33326
+Timbó
+SC
+6979
+Timbó Grande
+SC
+17937
+Três Barras
+SC
+3498
+Treviso
+SC
+6599
+Treze de Maio
+SC
+5641
+Treze Tílias
+SC
+6221
+Trombudo Central
+SC
+92569
+Tubarão
+SC
+4650
+Tunápolis
+SC
+11031
+Turvo
+SC
+3058
+União do Oeste
+SC
+10439
+Urubici
+SC
+2501
+Urupema
+SC
+18588
+Urussanga
+SC
+3560
+Vargeão
+SC
+3110
+Vargem
+SC
+4321
+Vargem Bonita
+SC
+5981
+Vidal Ramos
+SC
+44479
+Videira
+SC
+5563
+Vitor Meireles
+SC
+3431
+Witmarsum
+SC
+40228
+Xanxerê
+SC
+4218
+Xavantina
+SC
+24318
+Xaxim
+SC
+2868
+Zortéa
+RS
+4138
+Aceguá
+RS
+3565
+Água Santa
+RS
+16714
+Agudo
+RS
+7261
+Ajuricaba
+RS
+7357
+Alecrim
+RS
+78188
+Alegrete
+RS
+4789
+Alegria
+RS
+2158
+Almirante Tamandaré do Sul
+RS
+8972
+Alpestre
+RS
+1940
+Alto Alegre
+RS
+2934
+Alto Feliz
+RS
+207142
+Alvorada 
+RS
+6232
+Amaral Ferrador
+RS
+8058
+Ametista do Sul
+RS
+1206
+André da Rocha
+RS
+6163
+Anta Gorda
+RS
+13591
+Antônio Prado
+RS
+3825
+Arambaré
+RS
+4781
+Araricá
+RS
+6616
+Aratiba
+RS
+18079
+Arroio do Meio
+RS
+2734
+Arroio do Padre
+RS
+6635
+Arroio do Sal
+RS
+12638
+Arroio do Tigre
+RS
+13619
+Arroio dos Ratos
+RS
+18358
+Arroio Grande
+RS
+10210
+Arvorezinha
+RS
+7273
+Augusto Pestana
+RS
+3715
+Áurea
+RS
+112550
+Bagé
+RS
+10517
+Balneário Pinhal
+RS
+5293
+Barão
+RS
+6519
+Barão de Cotegipe
+RS
+6924
+Barão do Triunfo
+RS
+2969
+Barra do Guarita
+RS
+3776
+Barra do Quaraí
+RS
+11478
+Barra do Ribeiro
+RS
+2035
+Barra do Rio Azul
+RS
+2338
+Barra Funda
+RS
+5306
+Barracão
+RS
+11450
+Barros Cassal
+RS
+2256
+Benjamin Constant do Sul
+RS
+100643
+Bento Gonçalves
+RS
+2066
+Boa Vista das Missões
+RS
+6468
+Boa Vista do Buricá
+RS
+2447
+Boa Vista do Cadeado
+RS
+2447
+Boa Vista do Incra
+RS
+2663
+Boa Vista do Sul
+RS
+11843
+Bom Jesus
+RS
+10910
+Bom Princípio
+RS
+2441
+Bom Progresso
+RS
+11130
+Bom Retiro do Sul
+RS
+7825
+Boqueirão do Leão
+RS
+7652
+Bossoroca
+RS
+2296
+Bozano
+RS
+3826
+Braga
+RS
+4701
+Brochier
+RS
+19717
+Butiá
+RS
+32574
+Caçapava do Sul
+RS
+13629
+Cacequi
+RS
+84629
+Cachoeira do Sul
+RS
+112603
+Cachoeirinha
+RS
+4824
+Cacique Doble
+RS
+5080
+Caibaté
+RS
+5184
+Caiçara
+RS
+60563
+Camaquã
+RS
+2471
+Camargo
+RS
+6959
+Cambará do Sul
+RS
+3205
+Campestre da Serra
+RS
+6342
+Campina das Missões
+RS
+5588
+Campinas do Sul
+RS
+56595
+Campo Bom
+RS
+5581
+Campo Novo
+RS
+3564
+Campos Borges
+RS
+29444
+Candelária
+RS
+6634
+Cândido Godói
+RS
+8236
+Candiota
+RS
+38315
+Canela
+RS
+53547
+Canguçu
+RS
+326458
+Canoas 
+RS
+1941
+Canudos do Vale
+RS
+1837
+Capão Bonito do Sul
+RS
+37405
+Capão da Canoa
+RS
+3180
+Capão do Cipó
+RS
+23655
+Capão do Leão
+RS
+10950
+Capela de Santana
+RS
+2595
+Capitão
+RS
+3339
+Capivari do Sul
+RS
+7131
+Caraá
+RS
+58196
+Carazinho
+RS
+23960
+Carlos Barbosa
+RS
+1719
+Carlos Gomes
+RS
+8381
+Casca
+RS
+2989
+Caseiros
+RS
+9499
+Catuípe
+RS
+399038
+Caxias do Sul 
+RS
+3031
+Centenário
+RS
+6629
+Cerrito
+RS
+4465
+Cerro Branco
+RS
+2577
+Cerro Grande
+RS
+9233
+Cerro Grande do Sul
+RS
+12484
+Cerro Largo
+RS
+9440
+Chapada
+RS
+33708
+Charqueadas
+RS
+3581
+Charrua
+RS
+4078
+Chiapetta
+RS
+5278
+Chuí
+RS
+4874
+Chuvisca
+RS
+10883
+Cidreira
+RS
+4945
+Ciríaco
+RS
+2404
+Colinas
+RS
+3744
+Colorado
+RS
+6607
+Condor
+RS
+9842
+Constantina
+RS
+1566
+Coqueiro Baixo
+RS
+3106
+Coqueiros do Sul
+RS
+2441
+Coronel Barros
+RS
+7873
+Coronel Bicaco
+RS
+1658
+Coronel Pilar
+RS
+4577
+Cotiporã
+RS
+2916
+Coxilha
+RS
+14726
+Crissiumal
+RS
+7026
+Cristal
+RS
+2967
+Cristal do Sul
+RS
+63450
+Cruz Alta
+RS
+2273
+Cruzaltense
+RS
+12171
+Cruzeiro do Sul
+RS
+4704
+David Canabarro
+RS
+3378
+Derrubadas
+RS
+2968
+Dezesseis de Novembro
+RS
+3129
+Dilermando de Aguiar
+RS
+24815
+Dois Irmãos
+RS
+2362
+Dois Irmãos das Missões
+RS
+3334
+Dois Lajeados
+RS
+14504
+Dom Feliciano
+RS
+38148
+Dom Pedrito
+RS
+2728
+Dom Pedro de Alcântara
+RS
+3572
+Dona Francisca
+RS
+5494
+Doutor Maurício Cardoso
+RS
+2053
+Doutor Ricardo
+RS
+31316
+Eldorado do Sul
+RS
+19536
+Encantado
+RS
+24152
+Encruzilhada do Sul
+RS
+1584
+Engenho Velho
+RS
+3101
+Entre Rios do Sul
+RS
+9126
+Entre-Ijuís
+RS
+2881
+Erebango
+RS
+92945
+Erechim
+RS
+3010
+Ernestina
+RS
+5294
+Erval Grande
+RS
+8212
+Erval Seco
+RS
+3234
+Esmeralda
+RS
+3445
+Esperança do Sul
+RS
+14991
+Espumoso
+RS
+6086
+Estação
+RS
+40740
+Estância Velha
+RS
+78816
+Esteio
+RS
+29071
+Estrela
+RS
+3659
+Estrela Velha
+RS
+3057
+Eugênio de Castro
+RS
+2508
+Fagundes Varela
+RS
+59871
+Farroupilha
+RS
+6343
+Faxinal do Soturno
+RS
+2613
+Faxinalzinho
+RS
+3068
+Fazenda Vilanova
+RS
+11679
+Feliz
+RS
+25307
+Flores da Cunha
+RS
+2148
+Floriano Peixoto
+RS
+11074
+Fontoura Xavier
+RS
+7116
+Formigueiro
+RS
+2548
+Forquetinha
+RS
+4597
+Fortaleza dos Valos
+RS
+27308
+Frederico Westphalen
+RS
+28791
+Garibaldi
+RS
+3457
+Garruchos
+RS
+6108
+Gaurama
+RS
+8782
+General Câmara
+RS
+1579
+Gentil
+RS
+15961
+Getúlio Vargas
+RS
+17070
+Giruá
+RS
+6908
+Glorinha
+RS
+31655
+Gramado
+RS
+2370
+Gramado dos Loureiros
+RS
+3911
+Gramado Xavier
+RS
+261150
+Gravataí 
+RS
+1669
+Guabiju
+RS
+93578
+Guaíba
+RS
+21421
+Guaporé
+RS
+8331
+Guarani das Missões
+RS
+3658
+Harmonia
+RS
+6873
+Herval
+RS
+2825
+Herveiras
+RS
+18305
+Horizontina
+RS
+6030
+Hulha Negra
+RS
+4923
+Humaitá
+RS
+4331
+Ibarama
+RS
+4681
+Ibiaçá
+RS
+7094
+Ibiraiaras
+RS
+4182
+Ibirapuitã
+RS
+18690
+Ibirubá
+RS
+31113
+Igrejinha
+RS
+76739
+Ijuí
+RS
+4202
+Ilópolis
+RS
+14940
+Imbé
+RS
+3013
+Imigrante
+RS
+6679
+Independência
+RS
+2290
+Inhacorá
+RS
+5875
+Ipê
+RS
+1983
+Ipiranga do Sul
+RS
+8468
+Iraí
+RS
+4633
+Itaara
+RS
+3568
+Itacurubi
+RS
+2454
+Itapuca
+RS
+36361
+Itaqui
+RS
+2677
+Itati
+RS
+4574
+Itatiba do Sul
+RS
+2378
+Ivorá
+RS
+18517
+Ivoti
+RS
+4173
+Jaboticaba
+RS
+2619
+Jacuizinho
+RS
+3567
+Jacutinga
+RS
+27944
+Jaguarão
+RS
+11626
+Jaguari
+RS
+4404
+Jaquirana
+RS
+3692
+Jari
+RS
+8279
+Jóia
+RS
+19541
+Júlio de Castilhos
+RS
+2617
+Lagoa Bonita do Sul
+RS
+1590
+Lagoa dos Três Cantos
+RS
+27434
+Lagoa Vermelha
+RS
+6389
+Lagoão
+RS
+67476
+Lajeado
+RS
+2536
+Lajeado do Bugre
+RS
+8115
+Lavras do Sul
+RS
+6102
+Liberato Salzano
+RS
+5279
+Lindolfo Collor
+RS
+1488
+Linha Nova
+RS
+4415
+Maçambara
+RS
+5503
+Machadinho
+RS
+2926
+Mampituba
+RS
+6784
+Manoel Viana
+RS
+7374
+Maquiné
+RS
+2444
+Maratá
+RS
+33778
+Marau
+RS
+5372
+Marcelino Ramos
+RS
+3964
+Mariana Pimentel
+RS
+2284
+Mariano Moro
+RS
+4043
+Marques de Souza
+RS
+5291
+Mata
+RS
+2608
+Mato Castelhano
+RS
+3585
+Mato Leitão
+RS
+1865
+Mato Queimado
+RS
+5059
+Maximiliano de Almeida
+RS
+7728
+Minas do Leão
+RS
+4869
+Miraguaí
+RS
+1583
+Montauri
+RS
+3122
+Monte Alegre dos Campos
+RS
+2766
+Monte Belo do Sul
+RS
+56790
+Montenegro
+RS
+2578
+Mormaço
+RS
+3241
+Morrinhos do Sul
+RS
+6199
+Morro Redondo
+RS
+5599
+Morro Reuter
+RS
+11903
+Mostardas
+RS
+4574
+Muçum
+RS
+2969
+Muitos Capões
+RS
+1800
+Muliterno
+RS
+15228
+Não-Me-Toque
+RS
+1759
+Nicolau Vergueiro
+RS
+12327
+Nonoai
+RS
+3058
+Nova Alvorada
+RS
+3775
+Nova Araçá
+RS
+8683
+Nova Bassano
+RS
+2083
+Nova Boa Vista
+RS
+3162
+Nova Bréscia
+RS
+2739
+Nova Candelária
+RS
+4775
+Nova Esperança do Sul
+RS
+16688
+Nova Hartz
+RS
+2484
+Nova Pádua
+RS
+6432
+Nova Palma
+RS
+17747
+Nova Petrópolis
+RS
+22257
+Nova Prata
+RS
+2461
+Nova Ramada
+RS
+3490
+Nova Roma do Sul
+RS
+20591
+Nova Santa Rita
+RS
+3858
+Novo Barreiro
+RS
+3766
+Novo Cabrais
+RS
+253067
+Novo Hamburgo 
+RS
+4246
+Novo Machado
+RS
+2331
+Novo Tiradentes
+RS
+1858
+Novo Xingu
+RS
+39290
+Osório
+RS
+4480
+Paim Filho
+RS
+11423
+Palmares do Sul
+RS
+33846
+Palmeira das Missões
+RS
+6905
+Palmitinho
+RS
+36360
+Panambi
+RS
+9816
+Pantano Grande
+RS
+6577
+Paraí
+RS
+7348
+Paraíso do Sul
+RS
+3151
+Pareci Novo
+RS
+48713
+Parobé
+RS
+4996
+Passa Sete
+RS
+5967
+Passo do Sobrado
+RS
+183300
+Passo Fundo 
+RS
+2090
+Paulo Bento
+RS
+7616
+Paverama
+RS
+2546
+Pedras Altas
+RS
+8039
+Pedro Osório
+RS
+3900
+Pejuçara
+RS
+339934
+Pelotas 
+RS
+4824
+Picada Café
+RS
+2362
+Pinhal
+RS
+2058
+Pinhal da Serra
+RS
+4496
+Pinhal Grande
+RS
+4411
+Pinheirinho do Vale
+RS
+12939
+Pinheiro Machado
+RS
+2988
+Pirapó
+RS
+20225
+Piratini
+RS
+10589
+Planalto
+RS
+1976
+Poço das Antas
+RS
+3904
+Pontão
+RS
+1840
+Ponte Preta
+RS
+28583
+Portão
+RS
+1420667
+Porto Alegre 
+RS
+5631
+Porto Lucena
+RS
+2565
+Porto Mauá
+RS
+2084
+Porto Vera Cruz
+RS
+10857
+Porto Xavier
+RS
+2017
+Pouso Novo
+RS
+2355
+Presidente Lucena
+RS
+6210
+Progresso
+RS
+2114
+Protásio Alves
+RS
+4192
+Putinga
+RS
+22552
+Quaraí
+RS
+1735
+Quatro Irmãos
+RS
+2732
+Quevedos
+RS
+3561
+Quinze de Novembro
+RS
+9600
+Redentora
+RS
+2196
+Relvado
+RS
+15595
+Restinga Seca
+RS
+4202
+Rio dos Índios
+RS
+194351
+Rio Grande 
+RS
+37704
+Rio Pardo
+RS
+4406
+Riozinho
+RS
+9922
+Roca Sales
+RS
+5698
+Rodeio Bonito
+RS
+2795
+Rolador
+RS
+19213
+Rolante
+RS
+9654
+Ronda Alta
+RS
+5674
+Rondinha
+RS
+7297
+Roque Gonzales
+RS
+40510
+Rosário do Sul
+RS
+2595
+Sagrada Família
+RS
+2982
+Saldanha Marinho
+RS
+12154
+Salto do Jacuí
+RS
+2601
+Salvador das Missões
+RS
+6644
+Salvador do Sul
+RS
+14714
+Sananduva
+RS
+9122
+Santa Bárbara do Sul
+RS
+1716
+Santa Cecília do Sul
+RS
+5471
+Santa Clara do Sul
+RS
+115857
+Santa Cruz do Sul
+RS
+2163
+Santa Margarida do Sul
+RS
+263403
+Santa Maria 
+RS
+6173
+Santa Maria do Herval
+RS
+64113
+Santa Rosa
+RS
+1815
+Santa Tereza
+RS
+31183
+Santa Vitória do Palmar
+RS
+8599
+Santana da Boa Vista
+RS
+83478
+Santana do Livramento
+RS
+49558
+Santiago
+RS
+73800
+Santo Ângelo
+RS
+37910
+Santo Antônio da Patrulha
+RS
+11863
+Santo Antônio das Missões
+RS
+2216
+Santo Antônio do Palma
+RS
+2029
+Santo Antônio do Planalto
+RS
+13622
+Santo Augusto
+RS
+14280
+Santo Cristo
+RS
+2614
+Santo Expedito do Sul
+RS
+61834
+São Borja
+RS
+2854
+São Domingos do Sul
+RS
+19523
+São Francisco de Assis
+RS
+21278
+São Francisco de Paula
+RS
+57978
+São Gabriel
+RS
+20506
+São Jerônimo
+RS
+4946
+São João da Urtiga
+RS
+2702
+São João do Polêsine
+RS
+2764
+São Jorge
+RS
+2952
+São José das Missões
+RS
+2479
+São José do Herval
+RS
+3883
+São José do Hortêncio
+RS
+2132
+São José do Inhacorá
+RS
+24905
+São José do Norte
+RS
+6973
+São José do Ouro
+RS
+1899
+São José do Sul
+RS
+3180
+São José dos Ausentes
+RS
+207721
+São Leopoldo 
+RS
+42339
+São Lourenço do Sul
+RS
+34487
+São Luiz Gonzaga
+RS
+19641
+São Marcos
+RS
+5853
+São Martinho
+RS
+3409
+São Martinho da Serra
+RS
+7382
+São Miguel das Missões
+RS
+5909
+São Nicolau
+RS
+6690
+São Paulo das Missões
+RS
+3117
+São Pedro da Serra
+RS
+1939
+São Pedro das Missões
+RS
+2744
+São Pedro do Butiá
+RS
+16613
+São Pedro do Sul
+RS
+20359
+São Sebastião do Caí
+RS
+23787
+São Sepé
+RS
+3919
+São Valentim
+RS
+2233
+São Valentim do Sul
+RS
+2635
+São Valério do Sul
+RS
+1794
+São Vendelino
+RS
+8361
+São Vicente do Sul
+RS
+73979
+Sapiranga
+RS
+122231
+Sapucaia do Sul
+RS
+20415
+Sarandi
+RS
+10870
+Seberi
+RS
+2968
+Sede Nova
+RS
+7022
+Segredo
+RS
+4773
+Selbach
+RS
+2861
+Senador Salgado Filho
+RS
+5290
+Sentinela do Sul
+RS
+13463
+Serafina Corrêa
+RS
+2399
+Sério
+RS
+6663
+Sertão
+RS
+5791
+Sertão Santana
+RS
+2131
+Sete de Setembro
+RS
+3907
+Severiano de Almeida
+RS
+2479
+Silveira Martins
+RS
+10315
+Sinimbu
+RS
+14162
+Sobradinho
+RS
+29926
+Soledade
+RS
+4046
+Tabaí
+RS
+17500
+Tapejara
+RS
+10457
+Tapera
+RS
+16557
+Tapes
+RS
+53428
+Taquara
+RS
+25768
+Taquari
+RS
+2849
+Taquaruçu do Sul
+RS
+5160
+Tavares
+RS
+13906
+Tenente Portela
+RS
+9709
+Terra de Areia
+RS
+25105
+Teutônia
+RS
+2593
+Tio Hugo
+RS
+6928
+Tiradentes do Sul
+RS
+3070
+Toropi
+RS
+32358
+Torres
+RS
+39891
+Tramandaí
+RS
+2379
+Travesseiro
+RS
+3015
+Três Arroios
+RS
+10390
+Três Cachoeiras
+RS
+22905
+Três Coroas
+RS
+23333
+Três de Maio
+RS
+3073
+Três Forquilhas
+RS
+4388
+Três Palmeiras
+RS
+23467
+Três Passos
+RS
+5905
+Trindade do Sul
+RS
+23976
+Triunfo
+RS
+5907
+Tucunduva
+RS
+4378
+Tunas
+RS
+1723
+Tupanci do Sul
+RS
+22556
+Tupanciretã
+RS
+3604
+Tupandi
+RS
+8793
+Tuparendi
+RS
+3829
+Turuçu
+RS
+2440
+Ubiretama
+RS
+1666
+União da Serra
+RS
+2392
+Unistalda
+RS
+123743
+Uruguaiana
+RS
+59938
+Vacaria
+RS
+10817
+Vale do Sol
+RS
+4741
+Vale Real
+RS
+3227
+Vale Verde
+RS
+1956
+Vanini
+RS
+64442
+Venâncio Aires
+RS
+22702
+Vera Cruz
+RS
+23904
+Veranópolis
+RS
+1973
+Vespasiano Correa
+RS
+5663
+Viadutos
+RS
+253264
+Viamão 
+RS
+5569
+Vicente Dutra
+RS
+3080
+Victor Graeff
+RS
+3169
+Vila Flores
+RS
+2230
+Vila Lângaro
+RS
+4159
+Vila Maria
+RS
+4255
+Vila Nova do Sul
+RS
+2871
+Vista Alegre
+RS
+1492
+Vista Alegre do Prata
+RS
+2713
+Vista Gaúcha
+RS
+3652
+Vitória das Missões
+RS
+2716
+Westfalia
+RS
+10602
+Xangri-lá
+MS
+13183
+Água Clara
+MS
+4299
+Alcinópolis
+MS
+33426
+Amambaí
+MS
+22364
+Anastácio
+MS
+8380
+Anaurilândia
+MS
+7253
+Angélica
+MS
+8350
+Antônio João
+MS
+19819
+Aparecida do Taboado
+MS
+44920
+Aquidauana
+MS
+9236
+Aral Moreira
+MS
+5888
+Bandeirantes
+MS
+18687
+Bataguassu
+MS
+10564
+Batayporã
+MS
+22868
+Bela Vista
+MS
+8168
+Bodoquena
+MS
+17275
+Bonito
+MS
+12136
+Brasilândia
+MS
+22723
+Caarapó
+MS
+13192
+Camapuã
+MS
+724524
+Campo Grande
+MS
+5095
+Caracol
+MS
+20916
+Cassilândia
+MS
+16193
+Chapadão do Sul
+MS
+4165
+Corguinho
+MS
+13979
+Coronel Sapucaia
+MS
+96373
+Corumbá
+MS
+18277
+Costa Rica
+MS
+31816
+Coxim
+MS
+11261
+Deodápolis
+MS
+9350
+Dois Irmãos do Buriti
+MS
+4900
+Douradina
+MS
+181869
+Dourados
+MS
+11934
+Eldorado
+MS
+18789
+Fátima do Sul
+MS
+3280
+Figueirão
+MS
+9644
+Glória de Dourados
+MS
+10208
+Guia Lopes da Laguna
+MS
+14632
+Iguatemi
+MS
+7342
+Inocência
+MS
+18605
+Itaporã
+MS
+16924
+Itaquiraí
+MS
+20567
+Ivinhema
+MS
+7362
+Japorã
+MS
+5577
+Jaraguari
+MS
+23341
+Jardim
+MS
+3808
+Jateí
+MS
+5353
+Juti
+MS
+17906
+Ladário
+MS
+5813
+Laguna Carapã
+MS
+30912
+Maracaju
+MS
+23965
+Miranda
+MS
+15968
+Mundo Novo
+MS
+43391
+Naviraí
+MS
+15203
+Nioaque
+MS
+12026
+Nova Alvorada do Sul
+MS
+43495
+Nova Andradina
+MS
+4967
+Novo Horizonte do Sul
+MS
+38969
+Paranaíba
+MS
+11092
+Paranhos
+MS
+8307
+Pedro Gomes
+MS
+72207
+Ponta Porã
+MS
+14861
+Porto Murtinho
+MS
+19159
+Ribas do Rio Pardo
+MS
+26560
+Rio Brilhante
+MS
+4961
+Rio Negro
+MS
+18579
+Rio Verde de Mato Grosso
+MS
+4346
+Rochedo
+MS
+7162
+Santa Rita do Pardo
+MS
+21063
+São Gabriel do Oeste
+MS
+6413
+Selvíria
+MS
+10659
+Sete Quedas
+MS
+38147
+Sidrolândia
+MS
+12548
+Sonora
+MS
+9203
+Tacuru
+MS
+3117
+Taquarussu
+MS
+14458
+Terenos
+MS
+85914
+Três Lagoas
+MS
+5627
+Vicentina
+MT
+5530
+Acorizal
+MT
+18991
+Água Boa
+MT
+49140
+Alta Floresta
+MT
+13790
+Alto Araguaia
+MT
+5025
+Alto Boa Vista
+MT
+9132
+Alto Garças
+MT
+8144
+Alto Paraguai
+MT
+6058
+Alto Taquari
+MT
+7926
+Apiacás
+MT
+2974
+Araguaiana
+MT
+1117
+Araguainha
+MT
+15335
+Araputanga
+MT
+9869
+Arenápolis
+MT
+19100
+Aripuanã
+MT
+7619
+Barão de Melgaço
+MT
+32490
+Barra do Bugres
+MT
+53243
+Barra do Garças
+MT
+4520
+Bom Jesus do Araguaia
+MT
+13975
+Brasnorte
+MT
+84175
+Cáceres
+MT
+13666
+Campinápolis
+MT
+22322
+Campo Novo do Parecis
+MT
+25924
+Campo Verde
+MT
+4770
+Campos de Júlio
+MT
+5337
+Canabrava do Norte
+MT
+17183
+Canarana
+MT
+12108
+Carlinda
+MT
+7808
+Castanheira
+MT
+17377
+Chapada dos Guimarães
+MT
+10670
+Cláudia
+MT
+5841
+Cocalinho
+MT
+30695
+Colíder
+MT
+27882
+Colniza
+MT
+17939
+Comodoro
+MT
+21361
+Confresa
+MT
+3106
+Conquista D'Oeste
+MT
+13740
+Cotriguaçu
+MT
+526831
+Cuiabá
+MT
+4835
+Curvelândia
+MT
+10349
+Denise
+MT
+18428
+Diamantino
+MT
+8261
+Dom Aquino
+MT
+10279
+Feliz Natal
+MT
+3648
+Figueirópolis D'Oeste
+MT
+5816
+Gaúcha do Norte
+MT
+4803
+General Carneiro
+MT
+3124
+Glória D'Oeste
+MT
+30754
+Guarantã do Norte
+MT
+13883
+Guiratinga
+MT
+2524
+Indiavaí
+MT
+4129
+Ipiranga do Norte
+MT
+4703
+Itanhangá
+MT
+4625
+Itaúba
+MT
+12159
+Itiquira
+MT
+24945
+Jaciara
+MT
+8058
+Jangada
+MT
+10774
+Jauru
+MT
+32023
+Juara
+MT
+38422
+Juína
+MT
+8731
+Juruena
+MT
+11830
+Juscimeira
+MT
+4870
+Lambari D'Oeste
+MT
+30741
+Lucas do Rio Verde
+MT
+2405
+Luciára
+MT
+14084
+Marcelândia
+MT
+14243
+Matupá
+MT
+24538
+Mirassol d'Oeste
+MT
+14862
+Nobres
+MT
+6237
+Nortelândia
+MT
+12386
+Nossa Senhora do Livramento
+MT
+12742
+Nova Bandeirantes
+MT
+4891
+Nova Brasilândia
+MT
+12652
+Nova Canaã do Norte
+MT
+4877
+Nova Guarita
+MT
+4949
+Nova Lacerda
+MT
+2315
+Nova Marilândia
+MT
+5554
+Nova Maringá
+MT
+8133
+Nova Monte Verde
+MT
+24368
+Nova Mutum
+MT
+2745
+Nova Nazaré
+MT
+19474
+Nova Olímpia
+MT
+3347
+Nova Santa Helena
+MT
+7782
+Nova Ubiratã
+MT
+18670
+Nova Xavantina
+MT
+3802
+Novo Horizonte do Norte
+MT
+6725
+Novo Mundo
+MT
+2110
+Novo Santo Antônio
+MT
+6880
+Novo São Joaquim
+MT
+11540
+Paranaíta
+MT
+20033
+Paranatinga
+MT
+15638
+Pedra Preta
+MT
+28987
+Peixoto de Azevedo
+MT
+2734
+Planalto da Serra
+MT
+31118
+Poconé
+MT
+4966
+Pontal do Araguaia
+MT
+1794
+Ponte Branca
+MT
+37910
+Pontes e Lacerda
+MT
+9639
+Porto Alegre do Norte
+MT
+6116
+Porto dos Gaúchos
+MT
+9606
+Porto Esperidião
+MT
+4011
+Porto Estrela
+MT
+17592
+Poxoréo
+MT
+44729
+Primavera do Leste
+MT
+10682
+Querência
+MT
+2505
+Reserva do Cabaçal
+MT
+8677
+Ribeirão Cascalheira
+MT
+2107
+Ribeirãozinho
+MT
+5053
+Rio Branco
+MT
+3348
+Rondolândia
+MT
+172783
+Rondonópolis
+MT
+18031
+Rosário Oeste
+MT
+3650
+Salto do Céu
+MT
+4319
+Santa Carmem
+MT
+2116
+Santa Cruz do Xingu
+MT
+2478
+Santa Rita do Trivelato
+MT
+7293
+Santa Terezinha
+MT
+2855
+Santo Afonso
+MT
+3249
+Santo Antônio do Leste
+MT
+19197
+Santo Antônio do Leverger
+MT
+10713
+São Félix do Araguaia
+MT
+3305
+São José do Povo
+MT
+17345
+São José do Rio Claro
+MT
+4198
+São José do Xingu
+MT
+19001
+São José dos Quatro Marcos
+MT
+4028
+São Pedro da Cipa
+MT
+14254
+Sapezal
+MT
+1349
+Serra Nova Dourada
+MT
+105762
+Sinop
+MT
+55134
+Sorriso
+MT
+10484
+Tabaporã
+MT
+76657
+Tangará da Serra
+MT
+10478
+Tapurah
+MT
+14584
+Terra Nova do Norte
+MT
+3109
+Tesouro
+MT
+4101
+Torixoréu
+MT
+3998
+União do Sul
+MT
+2873
+Vale de São Domingos
+MT
+230307
+Várzea Grande
+MT
+9188
+Vera
+MT
+13886
+Vila Bela da Santíssima Trindade
+MT
+18934
+Vila Rica
+GO
+5868
+Abadia de Goiás
+GO
+12640
+Abadiânia
+GO
+18553
+Acreúna
+GO
+2510
+Adelândia
+GO
+5008
+Água Fria de Goiás
+GO
+2074
+Água Limpa
+GO
+131884
+Águas Lindas de Goiás
+GO
+20033
+Alexânia
+GO
+2065
+Aloândia
+GO
+3136
+Alto Horizonte
+GO
+6638
+Alto Paraíso de Goiás
+GO
+8217
+Alvorada do Norte
+GO
+3492
+Amaralina
+GO
+4698
+Americano do Brasil
+GO
+3527
+Amorinópolis
+GO
+325544
+Anápolis 
+GO
+966
+Anhanguera
+GO
+17705
+Anicuns
+GO
+475303
+Aparecida de Goiânia 
+GO
+2702
+Aparecida do Rio Doce
+GO
+3554
+Aporé
+GO
+3880
+Araçu
+GO
+17156
+Aragarças
+GO
+7243
+Aragoiânia
+GO
+7482
+Araguapaz
+GO
+3495
+Arenópolis
+GO
+6476
+Aruanã
+GO
+3719
+Aurilândia
+GO
+2375
+Avelinópolis
+GO
+3299
+Baliza
+GO
+6446
+Barro Alto
+GO
+20615
+Bela Vista de Goiás
+GO
+8372
+Bom Jardim de Goiás
+GO
+19574
+Bom Jesus de Goiás
+GO
+6744
+Bonfinópolis
+GO
+3160
+Bonópolis
+GO
+3142
+Brazabrantes
+GO
+5073
+Britânia
+GO
+8287
+Buriti Alegre
+GO
+2238
+Buriti de Goiás
+GO
+3442
+Buritinópolis
+GO
+6610
+Cabeceiras
+GO
+8103
+Cachoeira Alta
+GO
+1410
+Cachoeira de Goiás
+GO
+7567
+Cachoeira Dourada
+GO
+10892
+Caçu
+GO
+15747
+Caiapônia
+GO
+62204
+Caldas Novas
+GO
+3157
+Caldazinha
+GO
+3411
+Campestre de Goiás
+GO
+3765
+Campinaçu
+GO
+9697
+Campinorte
+GO
+5767
+Campo Alegre de Goiás
+GO
+5596
+Campo Limpo de Goiás
+GO
+18238
+Campos Belos
+GO
+6331
+Campos Verdes
+GO
+8897
+Carmo do Rio Verde
+GO
+3530
+Castelândia
+GO
+75623
+Catalão
+GO
+4477
+Caturaí
+GO
+9875
+Cavalcante
+GO
+18637
+Ceres
+GO
+7361
+Cezarina
+GO
+5289
+Chapadão do Céu
+GO
+48589
+Cidade Ocidental
+GO
+14762
+Cocalzinho de Goiás
+GO
+3856
+Colinas do Sul
+GO
+2633
+Córrego do Ouro
+GO
+9190
+Corumbá de Goiás
+GO
+8001
+Corumbaíba
+GO
+36614
+Cristalina
+GO
+3041
+Cristianópolis
+GO
+14547
+Crixás
+GO
+3618
+Cromínia
+GO
+3055
+Cumari
+GO
+3507
+Damianópolis
+GO
+2688
+Damolândia
+GO
+2013
+Davinópolis
+GO
+2236
+Diorama
+GO
+5344
+Divinópolis de Goiás
+GO
+8344
+Doverlândia
+GO
+3718
+Edealina
+GO
+10251
+Edéia
+GO
+3174
+Estrela do Norte
+GO
+6918
+Faina
+GO
+6373
+Fazenda Nova
+GO
+10286
+Firminópolis
+GO
+10382
+Flores de Goiás
+GO
+90212
+Formosa
+GO
+5241
+Formoso
+GO
+3289
+Gameleira de Goiás
+GO
+11159
+Goianápolis
+GO
+4925
+Goiandira
+GO
+53806
+Goianésia
+GO
+1244645
+Goiânia 
+GO
+24110
+Goianira
+GO
+24472
+Goiás
+GO
+31225
+Goiatuba
+GO
+4507
+Gouvelândia
+GO
+13586
+Guapó
+GO
+2394
+Guaraíta
+GO
+4105
+Guarani de Goiás
+GO
+2411
+Guarinos
+GO
+3556
+Heitoraí
+GO
+14004
+Hidrolândia
+GO
+4157
+Hidrolina
+GO
+12674
+Iaciara
+GO
+5650
+Inaciolândia
+GO
+12703
+Indiara
+GO
+44983
+Inhumas
+GO
+23114
+Ipameri
+GO
+2813
+Ipiranga de Goiás
+GO
+31060
+Iporá
+GO
+2827
+Israelândia
+GO
+30609
+Itaberaí
+GO
+4254
+Itaguari
+GO
+5467
+Itaguaru
+GO
+5409
+Itajá
+GO
+16003
+Itapaci
+GO
+8208
+Itapirapuã
+GO
+24832
+Itapuranga
+GO
+5338
+Itarumã
+GO
+8710
+Itauçu
+GO
+88109
+Itumbiara
+GO
+2718
+Ivolândia
+GO
+6373
+Jandaia
+GO
+38968
+Jaraguá
+GO
+81972
+Jataí
+GO
+2998
+Jaupaci
+GO
+2201
+Jesúpolis
+GO
+6731
+Joviânia
+GO
+18814
+Jussara
+GO
+1225
+Lagoa Santa
+GO
+8916
+Leopoldo de Bulhões
+GO
+196046
+Luziânia 
+GO
+2655
+Mairipotaba
+GO
+6454
+Mambaí
+GO
+10409
+Mara Rosa
+GO
+2053
+Marzagão
+GO
+4325
+Matrinchã
+GO
+10769
+Maurilândia
+GO
+2836
+Mimoso de Goiás
+GO
+31041
+Minaçu
+GO
+45189
+Mineiros
+GO
+1848
+Moiporá
+GO
+7155
+Monte Alegre de Goiás
+GO
+7844
+Montes Claros de Goiás
+GO
+9255
+Montividiu
+GO
+4395
+Montividiu do Norte
+GO
+38997
+Morrinhos
+GO
+2339
+Morro Agudo de Goiás
+GO
+4954
+Mossâmedes
+GO
+13123
+Mozarlândia
+GO
+6877
+Mundo Novo
+GO
+3954
+Mutunópolis
+GO
+7223
+Nazário
+GO
+19392
+Nerópolis
+GO
+38517
+Niquelândia
+GO
+2200
+Nova América
+GO
+2094
+Nova Aurora
+GO
+12603
+Nova Crixás
+GO
+8470
+Nova Glória
+GO
+2622
+Nova Iguaçu de Goiás
+GO
+3555
+Nova Roma
+GO
+6884
+Nova Veneza
+GO
+3451
+Novo Brasil
+GO
+83599
+Novo Gama
+GO
+3986
+Novo Planalto
+GO
+14374
+Orizona
+GO
+4430
+Ouro Verde de Goiás
+GO
+4736
+Ouvidor
+GO
+25969
+Padre Bernardo
+GO
+3229
+Palestina de Goiás
+GO
+21199
+Palmeiras de Goiás
+GO
+2260
+Palmelo
+GO
+3622
+Palminópolis
+GO
+2618
+Panamá
+GO
+7724
+Paranaiguara
+GO
+10926
+Paraúna
+GO
+2748
+Perolândia
+GO
+9864
+Petrolina de Goiás
+GO
+2852
+Pilar de Goiás
+GO
+23310
+Piracanjuba
+GO
+11139
+Piranhas
+GO
+20460
+Pirenópolis
+GO
+26857
+Pires do Rio
+GO
+76376
+Planaltina
+GO
+16226
+Pontalina
+GO
+39238
+Porangatu
+GO
+3008
+Porteirão
+GO
+3310
+Portelândia
+GO
+28850
+Posse
+GO
+3298
+Professor Jamil
+GO
+38064
+Quirinópolis
+GO
+10485
+Rialma
+GO
+4167
+Rianápolis
+GO
+2959
+Rio Quente
+GO
+149382
+Rio Verde
+GO
+18025
+Rubiataba
+GO
+7647
+Sanclerlândia
+GO
+5658
+Santa Bárbara de Goiás
+GO
+3542
+Santa Cruz de Goiás
+GO
+4594
+Santa Fé de Goiás
+GO
+35027
+Santa Helena de Goiás
+GO
+3485
+Santa Isabel
+GO
+5873
+Santa Rita do Araguaia
+GO
+3372
+Santa Rita do Novo Destino
+GO
+2851
+Santa Rosa de Goiás
+GO
+4145
+Santa Tereza de Goiás
+GO
+11558
+Santa Terezinha de Goiás
+GO
+4134
+Santo Antônio da Barra
+GO
+3893
+Santo Antônio de Goiás
+GO
+55621
+Santo Antônio do Descoberto
+GO
+9786
+São Domingos
+GO
+5713
+São Francisco de Goiás
+GO
+1699
+São João da Paraúna
+GO
+8177
+São João d'Aliança
+GO
+26784
+São Luís de Montes Belos
+GO
+4266
+São Luíz do Norte
+GO
+22468
+São Miguel do Araguaia
+GO
+3680
+São Miguel do Passa Quatro
+GO
+2051
+São Patrício
+GO
+13832
+São Simão
+GO
+70559
+Senador Canedo
+GO
+7333
+Serranópolis
+GO
+18370
+Silvânia
+GO
+6915
+Simolândia
+GO
+3251
+Sítio d'Abadia
+GO
+3404
+Taquaral de Goiás
+GO
+2773
+Teresina de Goiás
+GO
+5620
+Terezópolis de Goiás
+GO
+2862
+Três Ranchos
+GO
+97491
+Trindade
+GO
+3537
+Trombas
+GO
+4962
+Turvânia
+GO
+3852
+Turvelândia
+GO
+3021
+Uirapuru
+GO
+33382
+Uruaçu
+GO
+13712
+Uruana
+GO
+2727
+Urutaí
+GO
+114450
+Valparaíso de Goiás
+GO
+3649
+Varjão
+GO
+12187
+Vianópolis
+GO
+5919
+Vicentinópolis
+GO
+4198
+Vila Boa
+GO
+5044
+Vila Propício
+DF
+2455903
+Brasília 

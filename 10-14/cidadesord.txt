@@ -1,0 +1,16692 @@
+SP
+10886518
+São Paulo 
+RJ
+6093472
+Rio de Janeiro 
+BA
+2892625
+Salvador 
+DF
+2455903
+Brasília 
+CE
+2431415
+Fortaleza 
+MG
+2412937
+Belo Horizonte 
+PR
+1797408
+Curitiba 
+AM
+1646602
+Manaus
+PE
+1533580
+Recife 
+RS
+1420667
+Porto Alegre 
+PA
+1408847
+Belém 
+GO
+1244645
+Goiânia 
+SP
+1236192
+Guarulhos 
+SP
+1039297
+Campinas 
+RJ
+960631
+São Gonçalo 
+MA
+957515
+São Luís
+AL
+896965
+Maceió
+RJ
+842686
+Duque de Caxias 
+RJ
+830672
+Nova Iguaçu 
+SP
+781390
+São Bernardo do Campo 
+PI
+779939
+Teresina
+RN
+774230
+Natal
+MS
+724524
+Campo Grande
+SP
+701012
+Osasco 
+PB
+674762
+João Pessoa
+SP
+667891
+Santo André 
+PE
+665387
+Jaboatão dos Guararapes 
+MG
+608650
+Contagem 
+MG
+608369
+Uberlândia 
+SP
+594948
+São José dos Campos 
+BA
+571997
+Feira de Santana 
+SP
+559157
+Sorocaba 
+SP
+547417
+Ribeirão Preto 
+MT
+526831
+Cuiabá
+SE
+520303
+Aracaju
+MG
+513348
+Juiz de Fora 
+PR
+497833
+Londrina 
+SC
+487003
+Joinville 
+PA
+484278
+Ananindeua 
+RJ
+480555
+Belford Roxo 
+GO
+475303
+Aparecida de Goiânia 
+RJ
+474002
+Niterói 
+RJ
+464282
+São João de Meriti 
+RJ
+426154
+Campos dos Goytacazes 
+SP
+418288
+Santos 
+MG
+415098
+Betim 
+SP
+402770
+São José do Rio Preto 
+SP
+402643
+Mauá 
+RS
+399038
+Caxias do Sul 
+ES
+398068
+Vila Velha 
+SC
+396723
+Florianópolis 
+PE
+391433
+Olinda 
+SP
+386779
+Diadema 
+ES
+385370
+Serra 
+SP
+379566
+Carapicuíba 
+PB
+371060
+Campina Grande
+RO
+369345
+Porto Velho
+SP
+362991
+Mogi das Cruzes 
+SP
+358108
+Piracicaba 
+ES
+356536
+Cariacica 
+MG
+352384
+Montes Claros 
+SP
+347601
+Bauru 
+AP
+344153
+Macapá
+SP
+342983
+Jundiaí 
+RS
+339934
+Pelotas 
+SP
+334914
+Itaquaquecetuba 
+MG
+329112
+Ribeirão das Neves 
+RS
+326458
+Canoas 
+PR
+325968
+Maringá 
+GO
+325544
+Anápolis 
+SP
+323599
+São Vicente 
+SP
+319094
+Franca 
+CE
+316906
+Caucaia 
+ES
+314042
+Vitória 
+PR
+311336
+Foz do Iguaçu 
+BA
+308204
+Vitória da Conquista 
+PE
+307284
+Paulista 
+RJ
+306645
+Petrópolis 
+PR
+306351
+Ponta Grossa 
+SP
+296150
+Guarujá 
+SC
+292972
+Blumenau 
+AC
+290639
+Rio Branco
+PE
+289086
+Caruaru 
+MG
+287760
+Uberaba 
+PR
+285784
+Cascavel 
+PA
+274285
+Santarém 
+SP
+272734
+Limeira 
+SP
+268777
+Suzano 
+PE
+268339
+Petrolina 
+SP
+265514
+Taubaté 
+PR
+263622
+São José dos Pinhais 
+RS
+263403
+Santa Maria 
+RS
+261150
+Gravataí 
+MG
+260396
+Governador Valadares 
+RJ
+255653
+Volta Redonda 
+RS
+253264
+Viamão 
+RS
+253067
+Novo Hamburgo 
+SP
+252748
+Barueri 
+RR
+249853
+Boa Vista
+CE
+242139
+Juazeiro do Norte 
+MG
+238397
+Ipatinga 
+SP
+237318
+Embu 
+RN
+234390
+Mossoró
+PR
+233916
+Colombo 
+SP
+233806
+Praia Grande 
+RJ
+232171
+Magé 
+BA
+230538
+Juazeiro 
+MT
+230307
+Várzea Grande
+MA
+229671
+Imperatriz
+SP
+228696
+Sumaré 
+MG
+222507
+Santa Luzia 
+BA
+220495
+Camaçari 
+BA
+220144
+Ilhéus 
+SP
+219200
+Taboão da Serra 
+SP
+218113
+Marília 
+MG
+217506
+Sete Lagoas 
+RJ
+215792
+Itaboraí 
+SP
+212956
+São Carlos 
+BA
+210604
+Itabuna 
+MG
+209921
+Divinópolis 
+RS
+207721
+São Leopoldo 
+RS
+207142
+Alvorada 
+SP
+207028
+Jacareí 
+SP
+202789
+Presidente Prudente 
+AL
+202398
+Arapiraca
+SP
+199094
+Americana 
+CE
+197301
+Maracanaú 
+SC
+196887
+São José 
+PA
+196468
+Marabá 
+GO
+196046
+Luziânia 
+SP
+195815
+Araraquara 
+ES
+195288
+Cachoeiro de Itapemirim 
+RS
+194351
+Rio Grande 
+SP
+193686
+Itapevi 
+SP
+190781
+Hortolândia 
+SC
+185506
+Criciúma 
+SP
+185421
+Rio Claro 
+SP
+184318
+Santa Bárbara d'Oeste 
+RS
+183300
+Passo Fundo 
+RJ
+182495
+Mesquita 
+MS
+181869
+Dourados
+SP
+178839
+Araçatuba 
+TO
+178386
+Palmas
+RJ
+177376
+Nova Friburgo 
+CE
+176895
+Sobral 
+RJ
+175315
+Barra Mansa 
+SP
+173508
+Indaiatuba 
+SP
+172823
+Cotia 
+MT
+172783
+Rondonópolis
+RN
+172751
+Parnamirim
+RJ
+169513
+Macaé
+SP
+168897
+Ferraz de Vasconcelos 
+SC
+164803
+Chapecó
+PR
+164567
+Guarapuava
+SC
+163218
+Itajaí
+PE
+163139
+Cabo de Santo Agostinho
+RJ
+162229
+Cabo Frio
+SC
+161583
+Lages
+RJ
+153581
+Nilópolis
+PA
+152126
+Castanhal
+RJ
+150268
+Teresópolis
+GO
+149382
+Rio Verde
+SP
+148728
+Itapecerica da Serra
+SE
+148546
+Nossa Senhora do Socorro
+MG
+148535
+Ibirité
+RJ
+148476
+Angra dos Reis
+SP
+147251
+Itu
+SP
+146634
+Francisco Morato
+BA
+145964
+Jequié
+SP
+144857
+São Caetano do Sul
+BA
+144492
+Lauro de Freitas
+MG
+144386
+Poços de Caldas
+MA
+144333
+Timon
+MA
+143197
+Caxias
+PI
+140839
+Parnaíba
+SP
+138450
+Itapetininga
+PE
+136381
+Camaragibe
+SP
+136286
+Bragança Paulista
+SP
+135682
+Pindamonhangaba
+PR
+133559
+Paranaguá
+PA
+133298
+Parauapebas
+MG
+133054
+Patos de Minas
+BA
+132725
+Alagoinhas
+PA
+132222
+Abaetetuba
+GO
+131884
+Águas Lindas de Goiás
+SP
+131870
+Mogi Guaçu
+MA
+131379
+São José de Ribamar
+RJ
+130275
+Queimados
+SC
+129973
+Jaraguá do Sul
+BA
+129501
+Barreiras
+MG
+126895
+Teófilo Otoni
+SP
+125469
+Jaú
+PE
+124996
+Garanhuns
+ES
+124564
+Linhares
+RS
+123743
+Uruguaiana
+SC
+122471
+Palhoça
+PB
+122454
+Santa Rita
+MG
+122377
+Barbacena
+RS
+122231
+Sapucaia do Sul
+SP
+121451
+Franco da Rocha
+PE
+121233
+Vitória de Santo Antão
+SP
+120800
+Botucatu
+MG
+120770
+Sabará
+MG
+120467
+Pouso Alegre
+SP
+120271
+Cubatão
+SP
+119166
+Atibaia
+BA
+118702
+Teixeira de Freitas
+RJ
+118547
+Resende
+PA
+118194
+Itaituba
+MG
+116093
+Varginha
+RS
+115857
+Santa Cruz do Sul
+TO
+115759
+Araguaína
+PR
+115323
+Apucarana
+BA
+114459
+Porto Seguro
+GO
+114450
+Valparaíso de Goiás
+RS
+112603
+Cachoeirinha
+RS
+112550
+Bagé
+PR
+112038
+Pinhais
+CE
+111198
+Crato
+MA
+110574
+Codó
+PA
+110323
+Cametá
+PR
+109943
+Araucária
+PR
+109857
+Toledo
+SP
+109362
+Catanduva
+MG
+109280
+Conselheiro Lafaiete
+BA
+109269
+Simões Filho
+SP
+108689
+Araras
+SP
+107988
+Barretos
+SP
+107895
+Guaratinguetá
+RO
+107679
+Ji-Paraná
+CE
+107281
+Itapipoca
+SP
+107046
+Ribeirão Pires
+ES
+106637
+Colatina
+MG
+106403
+Araguari
+MT
+105762
+Sinop
+PR
+105492
+Campo Largo
+RJ
+105294
+Maricá
+MG
+105159
+Itabira
+SP
+104904
+Poá
+SP
+103578
+Jandira
+SP
+103558
+Sertãozinho
+SP
+103394
+Birigui
+CE
+102982
+Maranguape
+MG
+102765
+Passos
+SP
+102311
+Salto
+AM
+102044
+Parintins
+BA
+101952
+Paulo Afonso
+SP
+101838
+Tatuí
+PA
+101728
+Bragança
+MG
+100805
+Coronel Fabriciano
+RS
+100643
+Bento Gonçalves
+SP
+100406
+Várzea Paulista
+SP
+100189
+Santana de Parnaíba
+SP
+99901
+Votorantim
+SP
+98868
+Ourinhos
+RJ
+98268
+Araruama
+MA
+98175
+Paço do Lumiar
+ES
+98073
+Guarapari
+SP
+97814
+Valinhos
+GO
+97491
+Trindade
+PB
+97276
+Patos
+MA
+97034
+Açailândia
+PR
+96669
+Arapongas
+ES
+96390
+São Mateus
+MS
+96373
+Corumbá
+RJ
+96282
+Barra do Piraí
+MG
+95548
+Muriaé
+RJ
+95356
+Itaguaí
+PE
+95304
+São Lourenço da Mata
+PR
+95153
+Umuarama
+MA
+95124
+Bacabal
+SC
+94962
+Brusque
+PA
+94458
+Breves
+SC
+94344
+Balneário Camboriú
+MG
+94228
+Ubá
+MG
+94191
+Vespasiano
+BA
+93984
+Eunápolis
+PE
+93748
+Igarassu
+RS
+93578
+Guaíba
+PA
+93416
+Marituba
+RJ
+93197
+Japeri
+PR
+93055
+Almirante Tamandaré
+SP
+92965
+Assis
+RS
+92945
+Erechim
+PB
+92891
+Bayeux
+PR
+92888
+Cambé
+RJ
+92852
+Itaperuna
+MG
+92727
+Ituiutaba
+SC
+92569
+Tubarão
+CE
+92260
+Iguatu
+PE
+92217
+Abreu e Lima
+PA
+92105
+Altamira
+AP
+92098
+Santana
+SP
+91479
+Itatiba
+PA
+90819
+Paragominas
+GO
+90212
+Formosa
+PA
+89264
+Tucuruí
+SE
+88980
+Lagarto
+SP
+88815
+Caraguatatuba
+GO
+88109
+Itumbiara
+MG
+87764
+Araxá
+MG
+87421
+Lavras
+MG
+86673
+Itajubá
+MS
+85914
+Três Lagoas
+SP
+85537
+Itapeva
+BA
+84931
+Valença
+AM
+84676
+Itacoatiara
+RS
+84629
+Cachoeira do Sul
+PA
+84560
+Barcarena
+SP
+84406
+Leme
+BA
+84256
+Santo Antônio de Jesus
+SP
+84176
+Moji Mirim
+MT
+84175
+Cáceres
+GO
+83599
+Novo Gama
+RS
+83478
+Santana do Livramento
+SE
+83161
+Itabaiana
+PR
+82530
+Campo Mourão
+RO
+82388
+Ariquemes
+AM
+82309
+Manacapuru
+MA
+82026
+Santa Inês
+PR
+82006
+Piraquara
+GO
+81972
+Jataí
+MG
+81918
+São João del Rei
+MG
+81833
+Itaúna
+MG
+81731
+Caratinga
+MG
+81589
+Patrocínio
+SP
+81163
+Caieiras
+SP
+80778
+Itanhaém
+SP
+80458
+Caçapava
+SP
+80026
+Avaré
+SP
+79935
+São João da Boa Vista
+MG
+79852
+Pará de Minas
+MG
+79739
+Paracatu
+PR
+79686
+Sarandi
+SP
+79317
+Lorena
+PR
+79110
+Paranavaí
+MA
+78845
+Balsas
+RS
+78816
+Esteio
+MA
+78718
+Barra do Corda
+BA
+78618
+Candeias
+RS
+78188
+Alegrete
+SP
+77622
+Votuporanga
+RN
+77363
+São Gonçalo do Amarante
+RS
+76739
+Ijuí
+MT
+76657
+Tangará da Serra
+BA
+76463
+Jacobina
+GO
+76376
+Planaltina
+BA
+76230
+Guanambi
+PE
+76198
+Serra Talhada
+RO
+76155
+Cacoal
+CE
+76105
+Quixadá
+SP
+76098
+Cruzeiro
+MG
+76092
+Timóteo
+PE
+75878
+Araripina
+RJ
+75869
+São Pedro da Aldeia
+GO
+75623
+Catalão
+SP
+75008
+Ubatuba
+PR
+75006
+Fazenda Rio Grande
+SP
+74865
+Bebedouro
+RJ
+74750
+Rio das Ostras
+MG
+74495
+Unaí
+SP
+74407
+Matão
+MG
+74297
+Manhuaçu
+MA
+74123
+Pinheiro
+RS
+73979
+Sapiranga
+AC
+73948
+Cruzeiro do Sul
+CE
+73878
+Canindé
+RS
+73800
+Santo Ângelo
+PE
+73680
+Santa Cruz do Capibaribe
+ES
+73358
+Aracruz
+SP
+73014
+Paulínia
+RJ
+72848
+Três Rios
+SP
+72713
+Arujá
+SC
+72548
+São Bento do Sul
+BA
+72511
+Senhor do Bonfim
+RJ
+72466
+Seropédica
+PR
+72409
+Francisco Beltrão
+CE
+72386
+Crateús
+MG
+72207
+Nova Lima
+MS
+72207
+Ponta Porã
+SE
+71931
+São Cristóvão
+PE
+71796
+Goiana
+SP
+71754
+Mairiporã
+MG
+71737
+Três Corações
+MG
+71658
+João Monlevade
+MG
+71628
+Alfenas
+MG
+71611
+Curvelo
+PE
+71570
+Gravatá
+TO
+71413
+Gurupi
+BA
+71383
+Serrinha
+PE
+70963
+Belo Jardim
+RJ
+70850
+Valença
+GO
+70559
+Senador Canedo
+PI
+70450
+Picos
+MG
+70404
+Viçosa
+AL
+70151
+Palmeira dos Índios
+PE
+70070
+Ipojuca
+SP
+69810
+Campo Limpo Paulista
+SP
+69624
+Jaboticabal
+MA
+69306
+Santa Luzia
+SP
+69279
+Lins
+CE
+68966
+Quixeramobim
+SP
+68187
+Itapira
+SP
+67787
+Pirassununga
+MA
+67649
+Chapadinha
+SC
+67556
+Caçador
+RS
+67476
+Lajeado
+MG
+67384
+Cataguases
+SP
+67348
+São Sebastião
+CE
+67265
+Aquiraz
+SC
+67249
+Concórdia
+MG
+67048
+Ouro Preto
+RO
+66746
+Vilhena
+PR
+66680
+Pato Branco
+SP
+66086
+Mococa
+CE
+66049
+Aracati
+PR
+65797
+Telêmaco Borba
+CE
+65772
+Pacatuba
+SP
+65693
+São Roque
+RN
+65450
+Ceará-Mirim
+AL
+65432
+Rio Largo
+PE
+65390
+Carpina
+MG
+65387
+Janaúba
+PR
+65363
+Castro
+BA
+65327
+Itamaraju
+AM
+65222
+Coari
+BA
+65137
+Campo Formoso
+MG
+64985
+Januária
+PE
+64863
+Arcoverde
+SP
+64832
+Ibiúna
+CE
+64612
+Tianguá
+MG
+64585
+Formiga
+PA
+64583
+Redenção
+PR
+64498
+Cianorte
+RS
+64442
+Venâncio Aires
+PA
+64281
+Tailândia
+RS
+64113
+Santa Rosa
+CE
+63975
+Russas
+CE
+63932
+Cascavel
+PA
+63821
+Moju
+PB
+63783
+Sousa
+RS
+63450
+Cruz Alta
+RN
+63337
+Macaíba
+CE
+63262
+Icó
+BA
+63243
+Itapetinga
+PE
+63042
+Ouricuri
+AM
+62920
+Tefé
+BA
+62862
+Casa Nova
+SP
+62692
+Amparo
+BA
+62676
+Irecê
+BA
+62381
+Brumado
+SP
+62256
+Tupã
+GO
+62204
+Caldas Novas
+BA
+62199
+Bom Jesus da Lapa
+RJ
+62174
+Saquarema
+MG
+61838
+São Sebastião do Paraíso
+RS
+61834
+São Borja
+CE
+61751
+Morada Nova
+MA
+61480
+Buriticupu
+SP
+61392
+Fernandópolis
+SE
+61368
+Estância
+PA
+61350
+Capanema
+PA
+61350
+Monte Alegre
+PE
+61337
+Pesqueira
+BA
+60835
+Conceição do Coité
+RN
+60656
+Caicó
+AL
+60619
+União dos Palmares
+MA
+60589
+Coroatá
+RS
+60563
+Camaquã
+PI
+60249
+Piripiri
+MG
+60195
+Nova Serrana
+BA
+60043
+Ipirá
+RS
+59938
+Vacaria
+PA
+59881
+Uruará (por decisão judicial)
+RS
+59871
+Farroupilha
+PE
+59850
+Escada
+BA
+59393
+Itaberaba
+SP
+59366
+Lençóis Paulista
+PA
+59238
+São Félix do Xingu
+SP
+59083
+Embu-Guaçu
+AL
+59020
+Penedo
+CE
+58470
+Camocim
+SP
+58436
+Cajamar
+RS
+58196
+Carazinho
+BA
+58028
+Santo Amaro
+RS
+57978
+São Gabriel
+ES
+57539
+Viana
+SP
+57435
+Vinhedo
+SC
+57119
+Araranguá
+SC
+56919
+Rio do Sul
+RS
+56790
+Montenegro
+SP
+56681
+Penápolis
+PE
+56643
+Palmares
+PE
+56629
+Bezerros
+BA
+56625
+Euclides da Cunha
+RS
+56595
+Campo Bom
+MG
+56518
+Pedro Leopoldo
+PI
+56090
+Floriano
+PB
+56051
+Cajazeiras
+MG
+55687
+Ponte Nova
+GO
+55621
+Santo Antônio do Descoberto
+PE
+55560
+Limoeiro
+MG
+55436
+Esmeraldas
+PA
+55175
+Oriximiná
+MT
+55134
+Sorriso
+CE
+54881
+Pacajus
+BA
+54827
+Cruz das Almas
+SP
+54753
+Andradina
+PA
+54673
+Igarapé-Miri
+MA
+54573
+Itapecuru Mirim
+SP
+54457
+Peruíbe
+CE
+54273
+Tauá
+PB
+54200
+Guarabira
+PR
+54151
+Irati
+MA
+54135
+Grajaú
+SC
+54107
+Içara
+PE
+53934
+Surubim
+BA
+53821
+Dias d'Ávila
+GO
+53806
+Goianésia
+SP
+53561
+Cosmópolis
+RS
+53547
+Canguçu
+CE
+53538
+Boa Viagem
+SP
+53525
+Batatais
+SC
+53444
+Biguaçu
+PR
+53437
+Rolândia
+RS
+53428
+Taquara
+SC
+53388
+Camboriú
+SP
+53369
+Registro
+CE
+53289
+Limoeiro do Norte
+MT
+53243
+Barra do Garças
+SP
+53232
+Taquaritinga
+PA
+53217
+Viseu
+PE
+53167
+Salgueiro
+RJ
+53037
+Cachoeiras de Macacu
+MG
+52985
+São Francisco
+CE
+52855
+Viçosa do Ceará
+PE
+52830
+Moreno
+SC
+52677
+Canoinhas
+PA
+52661
+Alenquer
+SC
+52638
+Navegantes
+RO
+52453
+Jaru
+SC
+52428
+Gaspar
+BA
+52252
+Monte Santo
+CE
+52123
+Acaraú
+MG
+52121
+Três Pontas
+RJ
+51942
+Rio Bonito
+BA
+51912
+Araci
+MG
+51766
+Frutal
+PA
+51763
+Santa Isabel do Pará
+MG
+51693
+Mariana
+SP
+51660
+Mirassol
+PA
+51645
+Novo Repartimento
+MG
+51636
+Pirapora
+PE
+51529
+Timbaúba
+PA
+51511
+Jacundá
+AL
+51473
+São Miguel dos Campos
+CE
+51410
+Granja
+MG
+51375
+Campo Belo
+RN
+51262
+Açu
+PR
+51043
+União da Vitória
+AL
+51027
+Coruripe
+SP
+51023
+São José do Rio Pardo
+SC
+51014
+Mafra
+PA
+50839
+Capitão Poço
+CE
+50386
+Barbalha
+AL
+50323
+Atalaia
+SC
+50179
+Laguna
+SP
+49951
+Ibitinga
+PE
+49937
+Buíque
+MG
+49915
+Leopoldina
+PB
+49728
+Cabedelo
+RS
+49558
+Santiago
+MT
+49140
+Alta Floresta
+PA
+49053
+Santana do Araguaia
+RO
+48894
+Rolim de Moura
+SP
+48760
+Porto Ferreira
+BA
+48740
+Tucano
+SP
+48732
+Itararé
+RS
+48713
+Parobé
+PR
+48708
+Prudentópolis
+CE
+48703
+Acopiara
+BA
+48697
+Catu
+CE
+48660
+Horizonte
+CE
+48620
+Trairi
+GO
+48589
+Cidade Ocidental
+SP
+48430
+Piedade
+SP
+48020
+Olímpia
+PA
+47923
+Acará
+MG
+47894
+Guaxupé
+MA
+47850
+Barreirinhas
+BA
+47755
+Barra
+SC
+47686
+Indaial
+SP
+47649
+Jales
+MA
+47466
+Viana
+BA
+47400
+Ribeira do Pombal
+SE
+47265
+Tobias Barreto
+PE
+47230
+São Bento do Una
+PA
+47081
+Tomé-Açu
+PA
+47069
+Breu Branco
+AM
+47020
+Maués
+PR
+46931
+Cornélio Procópio
+PA
+46793
+Óbidos
+BA
+46641
+Jaguaquara
+AL
+46599
+Delmiro Gouveia
+PB
+46363
+Sapé
+MA
+46280
+Tutóia
+BA
+46192
+Caetité
+CE
+46155
+Beberibe
+SP
+46054
+Porto Feliz
+MG
+45984
+Congonhas
+BA
+45958
+Macaúbas
+MG
+45922
+Santos Dumont
+PE
+45777
+Paudalho
+BA
+45700
+Xique-Xique
+SP
+45625
+Nova Odessa
+PA
+45586
+Portel
+CE
+45426
+Itapagé
+AL
+45307
+Campo Alegre
+AM
+45293
+Tabatinga
+TO
+45289
+Porto Nacional
+SP
+45275
+Capão Bonito
+PA
+45267
+Conceição do Araguaia
+GO
+45189
+Mineiros
+PR
+45158
+Ibiporã
+AL
+45141
+Marechal Deodoro
+PA
+45016
+Rondon do Pará
+MA
+45008
+Zé Doca
+GO
+44983
+Inhumas
+MG
+44922
+Lagoa Santa
+MS
+44920
+Aquidauana
+SP
+44817
+Santa Isabel
+BA
+44759
+Poções
+MG
+44746
+Diamantina
+MT
+44729
+Primavera do Leste
+RJ
+44692
+Guapimirim
+SP
+44688
+Campos do Jordão
+MG
+44657
+Bocaiúva
+PR
+44562
+Marechal Cândido Rondon
+RJ
+44549
+São Francisco de Itabapoana
+PI
+44548
+Campo Maior
+BA
+44532
+Santo Estêvão
+SC
+44479
+Videira
+ES
+44380
+Nova Venécia
+MG
+44367
+Monte Carmelo
+CE
+44364
+Mombaça
+AM
+44327
+Manicoré
+BA
+44265
+Luís Eduardo Magalhães
+MG
+44159
+Lagoa da Prata
+SP
+44085
+Monte Alto
+MA
+44031
+Coelho Neto
+PA
+43847
+Vigia
+SP
+43779
+Capivari
+SP
+43703
+São Joaquim da Barra
+MS
+43495
+Nova Andradina
+PE
+43397
+Bom Conselho
+MS
+43391
+Naviraí
+CE
+43344
+Santa Quitéria
+PI
+43328
+Barras
+PA
+43282
+Benevides
+MG
+43229
+João Pinheiro
+MA
+43228
+Vargem Grande
+CE
+43077
+São Benedito
+PA
+42987
+São Miguel do Guamá
+SP
+42824
+Monte Mor
+MA
+42666
+Lago da Pedra
+BA
+42561
+Ipiaú
+RJ
+42423
+Paracambi
+RS
+42339
+São Lourenço do Sul
+AL
+42296
+Santana do Ipanema
+MG
+42260
+Bom Despacho
+SC
+42237
+Rio Negrinho
+SP
+42218
+Garça
+BA
+42146
+Livramento de Nossa Senhora
+SP
+42117
+Paraguaçu Paulista
+SP
+42107
+Dracena
+BA
+42079
+Maragogipe
+RN
+42066
+Currais Novos
+PA
+42002
+Itupiranga
+PE
+41748
+Barreiros
+PR
+41679
+Lapa
+CE
+41679
+Mauriti
+PI
+41661
+União
+SP
+41655
+Santa Cruz do Rio Pardo
+MG
+41522
+Itabirito
+SP
+41508
+Mairinque
+SP
+40783
+Boituva
+CE
+40762
+Pedra Branca
+RS
+40740
+Estância Velha
+SP
+40684
+Espírito Santo do Pinhal
+BA
+40571
+Santa Maria da Vitória
+BA
+40543
+Seabra
+RS
+40510
+Rosário do Sul
+PR
+40485
+Palmas
+PR
+40480
+Santo Antônio da Platina
+MG
+40441
+São Lourenço
+SP
+40423
+Mongaguá
+BA
+40321
+São Sebastião do Passé
+CE
+40312
+São Gonçalo do Amarante
+MG
+40307
+Nanuque
+AL
+40291
+Teotônio Vilela
+TO
+40290
+Paraíso do Tocantins
+PB
+40283
+Mamanguape
+SP
+40270
+Pederneiras
+PE
+40265
+Brejo da Madre de Deus
+SC
+40228
+Xanxerê
+SP
+40200
+Vargem Grande Paulista
+RJ
+40145
+Santo Antônio de Pádua
+MA
+40004
+Presidente Dutra
+RS
+39891
+Tramandaí
+ES
+39627
+Barra de São Francisco
+PE
+39626
+Santa Maria da Boa Vista
+CE
+39613
+Brejo Santo
+PA
+39563
+Ipixuna do Pará
+SP
+39457
+Artur Nogueira
+RO
+39451
+Guajará-Mirim
+CE
+39438
+Ipu
+SP
+39403
+Presidente Epitácio
+PR
+39327
+Jacarezinho
+RS
+39290
+Osório
+SP
+39270
+Rio Grande da Serra
+RJ
+39257
+Paraíba do Sul
+GO
+39238
+Porangatu
+PR
+39152
+São Mateus do Sul
+AM
+39130
+São Gabriel da Cachoeira
+PE
+39111
+Bonito
+SP
+39091
+Bertioga
+MG
+39039
+Caeté
+PE
+39023
+Bom Jardim
+GO
+38997
+Morrinhos
+MS
+38969
+Paranaíba
+GO
+38968
+Jaraguá
+SP
+38898
+Cabreúva
+BA
+38886
+Entre Rios
+PB
+38883
+Queimadas
+PE
+38755
+Ribeirão
+SP
+38633
+Itápolis
+AM
+38559
+Humaitá
+SP
+38539
+Ituverava
+GO
+38517
+Niquelândia
+PA
+38457
+Xinguara
+MT
+38422
+Juína
+PR
+38397
+Medianeira
+PA
+38365
+Pacajá
+PI
+38328
+Altos
+SP
+38321
+Tremembé
+RS
+38315
+Canela
+CE
+38189
+Eusébio
+SP
+38152
+Pedreira
+PA
+38150
+Dom Eliseu
+RS
+38148
+Dom Pedrito
+MS
+38147
+Sidrolândia
+GO
+38064
+Quirinópolis
+MA
+38045
+São Mateus do Maranhão
+CE
+38044
+Ipueiras
+BA
+38004
+Remanso
+PE
+37992
+Águas Belas
+MA
+37984
+Pedreiras
+MA
+37920
+Rosário
+MT
+37910
+Pontes e Lacerda
+RS
+37910
+Santo Antônio da Patrulha
+MA
+37894
+Tuntum
+MG
+37805
+Oliveira
+MG
+37801
+Boa Esperança
+SP
+37797
+São Manuel
+CE
+37740
+Várzea Alegre
+RS
+37704
+Rio Pardo
+MA
+37659
+Bom Jardim
+MA
+37655
+Araioses
+SC
+37613
+São Francisco do Sul
+MG
+37567
+Machado
+CE
+37513
+Amontada
+SC
+37493
+Curitibanos
+AP
+37491
+Laranjal do Jari
+RJ
+37477
+São Fidélis
+MA
+37449
+São Bento
+SE
+37431
+Itabaianinha
+BA
+37431
+Jeremoabo
+RS
+37405
+Capão da Canoa
+MG
+37370
+Salinas
+SP
+37357
+Vargem Grande do Sul
+SP
+37324
+Salto de Pirapora
+BA
+37201
+Mata de São João
+SP
+37155
+Presidente Venceslau
+SE
+37145
+Simão Dias
+PA
+37086
+Augusto Corrêa
+PA
+37073
+Jacareacanga
+PA
+37066
+Salinópolis
+RN
+36990
+São José de Mipibu
+AM
+36909
+Lábrea
+MG
+36907
+Almenara
+MG
+36864
+Porteirinha
+SP
+36804
+Jaguariúna
+SP
+36766
+Itupeva
+CE
+36705
+Guaraciaba do Norte
+PI
+36675
+Pedro II
+GO
+36614
+Cristalina
+SP
+36596
+Serrana
+SP
+36544
+Guaíra
+BA
+36517
+Sento Sé
+PE
+36414
+Sirinhaém
+RS
+36361
+Itaqui
+RS
+36360
+Panambi
+SC
+36231
+Imbituba
+PI
+36190
+Esperantina
+BA
+36169
+Rio Real
+SP
+36149
+Orlândia
+MG
+36083
+Araçuaí
+RO
+36040
+Ouro Preto do Oeste
+SP
+35903
+Aparecida
+BA
+35749
+Itiúba
+BA
+35743
+Canavieiras
+MA
+35727
+Amarante do Maranhão
+MA
+35692
+Colinas
+SP
+35560
+Pontal
+PR
+35396
+Campina Grande do Sul
+MG
+35346
+Visconde do Rio Branco
+RN
+35280
+Nova Cruz
+CE
+35237
+Jaguaribe
+PI
+35164
+José de Freitas
+AL
+35162
+Girau do Ponciano
+SP
+35090
+Barra Bonita
+PI
+35075
+Oeiras
+BA
+35060
+Vera Cruz
+GO
+35027
+Santa Helena de Goiás
+MG
+34956
+Andradas
+PE
+34944
+Itambé
+MA
+34912
+Parnarama
+SC
+34889
+Fraiburgo
+SP
+34786
+Promissão
+SP
+34769
+Cerquilho
+PE
+34769
+São Caitano
+MG
+34763
+Arcos
+PE
+34740
+Aliança
+PR
+34640
+Paiçandu
+RN
+34632
+Apodi
+BA
+34623
+Nova Viçosa
+SP
+34611
+Jardinópolis
+RS
+34487
+São Luiz Gonzaga
+MG
+34448
+Várzea da Palma
+BA
+34388
+Inhambupe
+PR
+34310
+Pitanga
+CE
+34296
+Itarema
+SP
+34264
+Novo Horizonte
+MG
+34246
+Santa Rita do Sapucaí
+AC
+34230
+Sena Madureira
+SP
+34221
+Agudos
+BA
+34221
+Maracás
+PE
+34069
+Sertânia
+PE
+34047
+Afogados da Ingazeira
+MA
+34022
+Santa Helena
+MA
+34018
+Cururupu
+SP
+34018
+Tietê
+BA
+34012
+Morro do Chapéu
+PR
+34001
+Dois Vizinhos
+RJ
+33888
+Bom Jesus do Itabapoana
+RS
+33846
+Palmeira das Missões
+SC
+33806
+São Miguel do Oeste
+PA
+33778
+Igarapé-Açu
+RS
+33778
+Marau
+PA
+33775
+Juruti
+PA
+33768
+Curuçá
+SC
+33766
+Itapema
+RN
+33736
+Santa Cruz
+CE
+33717
+Pentecoste
+RS
+33708
+Charqueadas
+CE
+33690
+Missão Velha
+BA
+33687
+Itambé
+BA
+33633
+Santaluz
+BA
+33554
+Amargosa
+MG
+33548
+Ouro Branco
+MG
+33495
+Além Paraíba
+PE
+33479
+Catende
+MA
+33473
+Penalva
+MS
+33426
+Amambaí
+GO
+33382
+Uruaçu
+PE
+33381
+Bodocó
+PE
+33348
+Lajedo
+SP
+33329
+Pitangueiras
+SC
+33326
+Timbó
+MG
+33317
+Matozinhos
+SP
+33289
+Adamantina
+CE
+33256
+Massapê
+BA
+33143
+Mucuri
+SP
+33080
+Socorro
+RO
+33072
+Buritis
+MG
+33061
+Capelinha
+PA
+32950
+Rurópolis
+RO
+32893
+Pimenta Bueno
+AM
+32869
+Iranduba
+BA
+32844
+Pilão Arcado
+RJ
+32838
+Parati
+BA
+32789
+Cansanção
+PE
+32704
+São José do Belmonte
+SP
+32664
+Guariba
+RS
+32574
+Caçapava do Sul
+MA
+32557
+São Domingos do Maranhão
+BA
+32522
+Riachão do Jacuípe
+RJ
+32495
+Vassouras
+MA
+32491
+Turiaçu
+MT
+32490
+Barra do Bugres
+BA
+32489
+Barra do Choça
+BA
+32449
+Curaçá
+RS
+32358
+Torres
+PR
+32290
+Bandeirantes
+SC
+32256
+Porto União
+BA
+32252
+Cachoeira
+ES
+32250
+Castelo
+PR
+32226
+Assis Chateaubriand
+PI
+32178
+Miguel Alves
+BA
+32172
+Camamu
+AC
+32171
+Tarauacá
+PE
+32157
+Custódia
+MG
+32068
+Carangola
+MT
+32023
+Juara
+MA
+31992
+Alto Alegre do Pindaré
+MG
+31965
+Brumadinho
+PR
+31890
+Mandaguari
+MG
+31883
+Itamarandiba
+PA
+31881
+Ulianópolis
+PR
+31865
+Jaguariaíva
+ES
+31845
+Santa Maria de Jetibá
+MS
+31816
+Coxim
+SP
+31674
+Cachoeira Paulista
+CE
+31669
+Baturité
+BA
+31658
+Correntina
+RS
+31655
+Gramado
+AL
+31647
+São Luís do Quitunde
+AL
+31627
+Pilar
+PB
+31524
+Pombal
+MG
+31495
+Iturama
+PR
+31486
+Rio Branco do Sul
+RO
+31475
+Machadinho D'Oeste
+PR
+31344
+Ivaiporã
+MG
+31322
+Espinosa
+RS
+31316
+Eldorado do Sul
+AC
+31288
+Feijó
+PR
+31234
+Palmeira
+GO
+31225
+Goiatuba
+ES
+31221
+Marataízes
+RJ
+31185
+Itatiaia
+PA
+31183
+Afuá
+RS
+31183
+Santa Vitória do Palmar
+ES
+31175
+Domingos Martins
+MG
+31165
+Brasília de Minas
+MG
+31154
+Ouro Fino
+MG
+31135
+Igarapé
+BA
+31130
+Serra do Ramalho
+BA
+31118
+Esplanada
+MT
+31118
+Poconé
+RS
+31113
+Igrejinha
+CE
+31107
+Itaitinga
+AM
+31098
+Borba
+AM
+31070
+Careiro
+GO
+31060
+Iporá
+MA
+31049
+Brejo
+GO
+31041
+Minaçu
+SP
+31005
+Américo Brasiliense
+AL
+31002
+São Sebastião
+SP
+30995
+Bariri
+MG
+30984
+Piumhi
+CE
+30965
+Jaguaruana
+MA
+30935
+Vitória do Mearim
+MA
+30927
+Pindaré-Mirim
+MS
+30912
+Maracaju
+PA
+30903
+Almeirim
+MA
+30882
+Santa Rita
+PI
+30852
+São Raimundo Nonato
+ES
+30833
+Itapemirim
+BA
+30827
+Cícero Dantas
+PR
+30793
+Guaratuba
+ES
+30773
+Afonso Cláudio
+MG
+30757
+São Gotardo
+MT
+30754
+Guarantã do Norte
+MT
+30741
+Lucas do Rio Verde
+AM
+30727
+São Paulo de Olivença
+MG
+30712
+Carmo do Paranaíba
+BA
+30703
+Itapicuru
+MT
+30695
+Colíder
+CE
+30665
+Paracuru
+SP
+30639
+José Bonifácio
+CE
+30615
+Nova Russas
+GO
+30609
+Itaberaí
+PE
+30597
+Petrolândia
+CE
+30596
+Parambu
+MG
+30578
+Minas Novas
+PE
+30567
+Exu
+PR
+30481
+Laranjeiras do Sul
+ES
+30473
+Alegre
+PE
+30469
+São José do Egito
+SP
+30458
+Santa Cruz das Palmeiras
+RN
+30423
+João Câmara
+MG
+30386
+Jaíba
+SP
+30384
+São Miguel Arcanjo
+MG
+30331
+Novo Cruzeiro
+BA
+30289
+Camacan
+MA
+30235
+Vitorino Freire
+BA
+30221
+Pojuca
+SP
+30181
+Aguaí
+PR
+30181
+Quedas do Iguaçu
+SP
+30150
+Osvaldo Cruz
+AL
+30129
+São José da Tapera
+BA
+30091
+Gandu
+PR
+30017
+Marialva
+PB
+29980
+Monteiro
+SC
+29932
+Guaramirim
+RS
+29926
+Soledade
+AM
+29907
+Autazes
+PE
+29900
+Toritama
+CE
+29872
+Lavras da Mangabeira
+PR
+29862
+Rio Negro
+BA
+29829
+São Francisco do Conde
+AM
+29818
+Boca do Acre
+PB
+29801
+Esperança
+SP
+29760
+Louveira
+PA
+29746
+Irituia
+SP
+29733
+São Pedro
+MG
+29732
+Taiobeiras
+SP
+29572
+Cândido Mota
+CE
+29569
+Ubajara
+CE
+29566
+Bela Cruz
+SE
+29546
+Nossa Senhora da Glória
+SP
+29533
+Descalvado
+PE
+29508
+Água Preta
+RS
+29444
+Candelária
+RN
+29436
+Touros
+BA
+29425
+Riacho de Santana
+AM
+29411
+Eirunepé
+SP
+29377
+Cravinhos
+BA
+29358
+Ruy Barbosa
+RN
+29334
+Canguaretama
+TO
+29298
+Colinas do Tocantins
+MG
+29286
+Guanhães
+AM
+29268
+Benjamin Constant
+RJ
+29253
+Mangaratiba
+AM
+29249
+Santo Antônio do Içá
+BA
+29205
+São Gonçalo dos Campos
+PE
+29202
+Nazaré da Mata
+PB
+29196
+São Bento
+AM
+29184
+Nova Olinda do Norte
+PR
+29113
+Pinhão
+BA
+29097
+Jaguarari
+RS
+29071
+Estrela
+MT
+28987
+Peixoto de Azevedo
+SP
+28977
+Iguape
+SE
+28969
+Poço Redondo
+PR
+28941
+Goioerê
+RJ
+28889
+São João da Barra
+BA
+28879
+Carinhanha
+ES
+28878
+São Gabriel da Palha
+PE
+28851
+Cabrobó
+GO
+28850
+Posse
+PA
+28796
+Muaná
+RS
+28791
+Garibaldi
+CE
+28741
+Santana do Acaraú
+PR
+28683
+Guaíra
+BA
+28671
+Paratinga
+SP
+28662
+Guararapes
+PA
+28658
+Água Azul do Norte
+ES
+28637
+Baixo Guandu
+MG
+28633
+Rio Pardo de Minas
+RS
+28583
+Portão
+PA
+28554
+Eldorado dos Carajás
+PE
+28488
+João Alfredo
+SC
+28447
+Campos Novos
+MG
+28393
+Pompéu
+BA
+28347
+Paripiranga
+MA
+28341
+Santa Quitéria do Maranhão
+RJ
+28322
+Tanguá
+SP
+28303
+Rancharia
+PA
+28296
+Maracanã
+CE
+28291
+Tabuleiro do Norte
+SP
+28285
+Cajati
+MA
+28278
+Matões
+SP
+28228
+Piraju
+CE
+28192
+Paraipaba
+SE
+28131
+Itaporanga d'Ajuda
+PR
+28050
+Ibaiti
+SP
+28040
+Ibaté
+RS
+27944
+Jaguarão
+SC
+27944
+Tijucas
+SE
+27913
+Capela
+PE
+27910
+Passira
+MT
+27882
+Colniza
+RO
+27867
+Espigão D'Oeste
+BA
+27849
+Iguaí
+BA
+27835
+Iaçu
+SP
+27777
+Juquitiba
+MA
+27753
+Arari
+SC
+27730
+Braço do Norte
+SP
+27693
+Santa Fé do Sul
+SE
+27629
+Propriá
+PA
+27614
+Mãe do Rio
+MA
+27558
+Monção
+PB
+27548
+Catolé do Rocha
+PR
+27545
+Palotina
+BA
+27522
+Conceição do Jacuípe
+SP
+27483
+Biritiba-Mirim
+PB
+27448
+Alagoa Grande
+RS
+27434
+Lagoa Vermelha
+CE
+27418
+Novo Oriente
+PE
+27397
+Glória do Goitá
+MG
+27392
+Coromandel
+PE
+27360
+Vicência
+CE
+27355
+Milagres
+PB
+27346
+Solânea
+RS
+27308
+Frederico Westphalen
+PE
+27261
+Ibimirim
+MA
+27229
+Arame
+BA
+27213
+Miguel Calmon
+BA
+27212
+Muritiba
+BA
+27186
+Queimadas
+PA
+27166
+Goianésia do Pará
+RN
+27132
+Macau
+PA
+27094
+São Domingos do Capim
+RJ
+27086
+Casimiro de Abreu
+SP
+27081
+Casa Branca
+BA
+27068
+Quijingue
+PR
+27044
+Imbituva
+MG
+26954
+Campos Gerais
+BA
+26935
+Campo Alegre de Lourdes
+SP
+26862
+Igarapava
+GO
+26857
+Pires do Rio
+GO
+26784
+São Luís de Montes Belos
+PE
+26735
+Itaíba
+RN
+26728
+Pau dos Ferros
+BA
+26727
+Cândido Sales
+MG
+26721
+Mantena
+PA
+26651
+Marapanim
+PE
+26648
+Floresta
+AM
+26645
+Barreirinha
+MS
+26560
+Rio Brilhante
+SE
+26520
+Porto da Folha
+PA
+26513
+Tucumã
+BA
+26506
+Nazaré
+MA
+26490
+Estreito
+PA
+26489
+Porto de Moz
+SP
+26457
+Pilar do Sul
+SP
+26456
+Santa Rita do Passa Quatro
+PA
+26436
+Prainha
+MG
+26431
+Três Marias
+MG
+26421
+Barão de Cocais
+SP
+26344
+Rio das Pedras
+MG
+26331
+Mutum
+CE
+26325
+Caririaçu
+PE
+26281
+Gameleira
+PB
+26279
+Pedras de Fogo
+RJ
+26231
+Miracema
+ES
+26230
+Conceição da Barra
+ES
+26208
+Mimoso do Sul
+PI
+26201
+Cocal
+PA
+26190
+Baião
+MG
+26185
+Santa Bárbara
+PI
+26147
+Luís Correia
+BA
+26135
+Santa Rita de Cássia
+MG
+26133
+Buritizeiro
+MA
+26132
+Timbiras
+MG
+26131
+Coração de Jesus
+PA
+26129
+Tracuateua
+MG
+26091
+São João da Ponte
+AL
+26050
+Viçosa
+TO
+25973
+Araguatins
+GO
+25969
+Padre Bernardo
+AL
+25964
+Murici
+BA
+25947
+Santana
+MT
+25924
+Campo Verde
+SP
+25849
+Mirandópolis
+PE
+25836
+Tabira
+BA
+25823
+Capim Grosso
+BA
+25821
+Itabela
+CE
+25810
+Jardim
+RS
+25768
+Taquari
+ES
+25761
+Guaçuí
+AL
+25726
+Maragogi
+PI
+25724
+Batalha
+PR
+25719
+Nova Esperança
+PE
+25718
+Ipubi
+BA
+25716
+Anagé
+SP
+25715
+Barrinha
+CE
+25702
+Redenção
+BA
+25697
+Nova Soure
+PR
+25645
+Arapoti
+MG
+25627
+Mateus Leme
+PI
+25625
+Piracuruca
+BA
+25557
+Lapão
+CE
+25553
+Campos Sales
+ES
+25533
+Iúna
+MG
+25511
+Prata
+AL
+25484
+Limoeiro de Anadia
+MA
+25480
+São Bernardo
+SP
+25463
+Apiaí
+CE
+25459
+Tamboril
+BA
+25429
+Prado
+PA
+25420
+Oeiras do Pará
+CE
+25413
+Independência
+SP
+25390
+Morro Agudo
+PA
+25388
+Curralinho
+PR
+25341
+São Miguel do Iguaçu
+RS
+25307
+Flores da Cunha
+BA
+25292
+Ibotirama
+CE
+25290
+Senador Pompeu
+BA
+25277
+Una
+MA
+25274
+Buriti
+SC
+25261
+Pomerode
+RJ
+25248
+Arraial do Cabo
+PE
+25219
+Caetés
+BA
+25158
+São Desidério
+AL
+25145
+Boca da Mata
+AL
+25140
+Igaci
+RJ
+25132
+Paty do Alferes
+AL
+25129
+Porto Calvo
+AM
+25110
+Carauari
+BA
+25110
+Santa Cruz Cabrália
+RS
+25105
+Teutônia
+MA
+25100
+Itinga do Maranhão
+BA
+25012
+Irará
+MG
+25011
+São João Nepomuceno
+MG
+25010
+Cambuí
+PB
+24992
+Areia
+MT
+24945
+Jaciara
+PA
+24942
+Anajás
+PB
+24937
+Lagoa Seca
+PE
+24918
+Panelas
+AL
+24911
+Traipu
+RS
+24905
+São José do Norte
+MG
+24886
+Extrema
+PA
+24872
+São Geraldo do Araguaia
+AM
+24858
+Rio Preto da Eva
+SP
+24854
+Guararema
+MG
+24851
+Pedra Azul
+MG
+24838
+Francisco Sá
+GO
+24832
+Itapuranga
+RS
+24815
+Dois Irmãos
+PA
+24814
+Santo Antônio do Tauá
+BA
+24791
+Ubatã
+BA
+24752
+Ibicaraí
+PB
+24752
+Itabaiana
+MG
+24746
+Santo Antônio do Monte
+BA
+24720
+Itacaré
+SP
+24671
+Serra Negra
+BA
+24662
+Uauá
+AL
+24656
+Matriz de Camaragibe
+PE
+24642
+Trindade
+RJ
+24626
+Bom Jardim
+PA
+24619
+Garrafão do Norte
+MG
+24618
+Pitangui
+CE
+24607
+Cedro
+AL
+24599
+Mata Grande
+MG
+24590
+Cláudio
+RJ
+24585
+Miguel Pereira
+AM
+24567
+Barcelos
+RJ
+24560
+Armação dos Búzios
+MT
+24538
+Mirassol d'Oeste
+PI
+24518
+Corrente
+CE
+24480
+Aurora
+SE
+24472
+Boquim
+GO
+24472
+Goiás
+RR
+24466
+Rorainópolis
+AL
+24460
+Junqueiro
+SP
+24454
+Laranjal Paulista
+MA
+24442
+Carolina
+BA
+24437
+Castro Alves
+BA
+24436
+Canarana
+SC
+24435
+Joaçaba
+MA
+24432
+Icatu
+MG
+24430
+Nepomuceno
+SC
+24424
+Sombrio
+CE
+24423
+Aracoiaba
+RN
+24398
+Areia Branca
+PR
+24397
+Ortigueira
+SP
+24384
+Dois Córregos
+PA
+24384
+Gurupá
+MT
+24368
+Nova Mutum
+AM
+24360
+Presidente Figueiredo
+PI
+24323
+Luzilândia
+SC
+24318
+Xaxim
+MG
+24289
+Inhapim
+PA
+24276
+Ponta de Pedras
+MA
+24275
+Humberto de Campos
+PR
+24249
+Reserva
+SP
+24239
+Iperó
+MG
+24232
+Aimorés
+SP
+24220
+Pereira Barreto
+PE
+24218
+Canhotinho
+MA
+24201
+Raposa
+PE
+24197
+Quipapá
+PR
+24191
+Astorga
+BA
+24189
+Piritiba
+SP
+24181
+Ilha Solteira
+RJ
+24170
+Piraí
+MG
+24161
+Elói Mendes
+RS
+24152
+Encruzilhada do Sul
+GO
+24110
+Goianira
+SC
+24058
+São Joaquim
+SP
+24022
+Araçoiaba da Serra
+MA
+24012
+Governador Nunes Freire
+BA
+23985
+Wenceslau Guimarães
+SP
+23983
+Martinópolis
+MG
+23982
+Jequitinhonha
+RS
+23976
+Triunfo
+MS
+23965
+Miranda
+RS
+23960
+Carlos Barbosa
+PR
+23956
+Cambará
+MA
+23941
+Anajatuba
+BA
+23940
+Ibirataia
+SE
+23923
+Laranjeiras
+AL
+23910
+Piranhas
+RS
+23904
+Veranópolis
+MG
+23901
+Raul Soares
+SP
+23886
+Ilhabela
+RO
+23857
+Alta Floresta D'Oeste
+AL
+23855
+Pão de Açúcar
+MA
+23827
+Bom Jesus das Selvas
+BA
+23822
+Mundo Novo
+SE
+23800
+Nossa Senhora das Dores
+BA
+23791
+Olindina
+RS
+23787
+São Sepé
+PA
+23757
+Canaã dos Carajás
+SP
+23709
+Pirapozinho
+RS
+23655
+Capão do Leão
+MA
+23576
+São João dos Patos
+BA
+23530
+Ituberá
+RS
+23467
+Três Passos
+SP
+23400
+Tanabi
+CE
+23359
+Ocara
+PR
+23357
+Matinhos
+SP
+23352
+Conchal
+MS
+23341
+Jardim
+RS
+23333
+Três de Maio
+GO
+23310
+Piracanjuba
+ES
+23296
+Ecoporanga
+PA
+23284
+Limoeiro do Ajuru
+MG
+23282
+Sarzedo
+PA
+23258
+Mocajuba
+PE
+23211
+Condado
+ES
+23204
+Pedro Canário
+BA
+23197
+Ibirapitanga
+PR
+23170
+Piraí do Sul
+BA
+23161
+Coração de Maria
+GO
+23114
+Ipameri
+CE
+23107
+Marco
+BA
+23107
+Rafael Jambeiro
+RN
+23098
+Baraúna
+CE
+23088
+Ibiapina
+SP
+23085
+Igaraçu do Tietê
+PE
+23078
+Macaparana
+MG
+23076
+Tupaciguara
+AM
+23023
+Careiro da Várzea
+PB
+23023
+Rio Tinto
+SP
+22951
+Cunha
+AL
+22925
+Igreja Nova
+RN
+22906
+Nísia Floresta
+RS
+22905
+Três Coroas
+CE
+22890
+Jucás
+MS
+22868
+Bela Vista
+SP
+22859
+Álvares Machado
+PE
+22852
+Itapissuma
+SP
+22796
+Miracatu
+PR
+22794
+Santa Helena
+MG
+22765
+Santana do Paraíso
+BA
+22764
+Coaraci
+MG
+22756
+São Gonçalo do Sapucaí
+MG
+22741
+Corinto
+MS
+22723
+Caarapó
+RS
+22702
+Vera Cruz
+SP
+22699
+Santa Rosa de Viterbo
+SP
+22695
+Cajuru
+BA
+22684
+Presidente Tancredo Neves
+ES
+22663
+Pinheiros
+MG
+22635
+Itambacuri
+PA
+22624
+Medicilândia
+RO
+22622
+São Miguel do Guaporé
+BA
+22621
+Guaratinga
+SP
+22617
+Itaí
+BA
+22609
+Oliveira dos Brejinhos
+BA
+22607
+Iraquara
+RN
+22579
+São Miguel
+RS
+22556
+Tupanciretã
+RS
+22552
+Quaraí
+PA
+22535
+Bujaru
+BA
+22528
+Riachão das Neves
+BA
+22525
+Encruzilhada
+MG
+22474
+Abaeté
+GO
+22468
+São Miguel do Araguaia
+PA
+22447
+Nova Esperança do Piriá
+MG
+22437
+Monte Azul
+PB
+22425
+Itaporanga
+AL
+22411
+Craíbas
+CE
+22405
+Guaiúba
+MS
+22364
+Anastácio
+SP
+22335
+Piracaia
+PR
+22325
+Campo Magro
+MT
+22322
+Campo Novo do Parecis
+AL
+22282
+São José da Laje
+MA
+22279
+Buriti Bravo
+RS
+22257
+Nova Prata
+MG
+22240
+Carandaí
+MG
+22214
+São Joaquim de Bicas
+MG
+22204
+Paraopeba
+RO
+22197
+Presidente Médici
+SP
+22170
+Taquarituba
+MG
+22159
+Sacramento
+PA
+22147
+Santa Maria do Pará
+CE
+22144
+Cruz
+PE
+22106
+Cupira
+BA
+22096
+Amélia Rodrigues
+SC
+22089
+São João Batista
+BA
+22070
+Uruçuca
+MG
+22069
+Ibiá
+RJ
+22069
+Itaocara
+BA
+22034
+Conde
+PR
+22021
+Itaperuçu
+MA
+22002
+Alto Alegre do Maranhão
+PE
+21962
+Flores
+ES
+21949
+Jaguaré
+CE
+21921
+Irauçuba
+SP
+21913
+Tambaú
+ES
+21867
+Sooretama
+BA
+21866
+Medeiros Neto
+BA
+21863
+Boquira
+MG
+21850
+Bambuí
+BA
+21847
+Caculé
+MG
+21839
+São João do Paraíso
+MA
+21821
+Pio XII
+PE
+21810
+Pombos
+SE
+21806
+Canindé de São Francisco
+SC
+21799
+São Lourenço do Oeste
+MG
+21793
+Conselheiro Pena
+RN
+21792
+Extremoz
+PE
+21782
+Altinho
+MA
+21747
+Urbano Santos
+AL
+21735
+Joaquim Gomes
+MA
+21714
+Pedro do Rosário
+SC
+21684
+Maravilha
+PB
+21670
+Bananeiras
+TO
+21669
+Guaraí
+MA
+21645
+Aldeias Altas
+PE
+21632
+Orobó
+CE
+21616
+Assaré
+PA
+21598
+Novo Progresso
+PR
+21571
+Coronel Vivida
+MG
+21530
+Caraí
+SP
+21523
+Angatuba
+BA
+21512
+Valente
+BA
+21486
+Planalto
+BA
+21479
+Belmonte
+MA
+21479
+Dom Pedro
+MG
+21472
+Buritis
+PE
+21456
+Agrestina
+PE
+21447
+Taquaritinga do Norte
+PA
+21422
+Concórdia do Pará
+RS
+21421
+Guaporé
+PA
+21395
+Soure
+MG
+21369
+Belo Oriente
+RJ
+21362
+Silva Jardim
+MT
+21361
+Confresa
+MA
+21349
+Alcântara
+TO
+21334
+Tocantinópolis
+PR
+21330
+Andirá
+BA
+21315
+Sobradinho
+SP
+21298
+Palmital
+SC
+21278
+Araquari
+RS
+21278
+São Francisco de Paula
+CE
+21268
+Orós
+RN
+21263
+Santo Antônio
+PA
+21239
+Aurora do Pará
+CE
+21214
+Araripe
+PR
+21214
+Ubiratã
+GO
+21199
+Palmeiras de Goiás
+BA
+21181
+Mutuípe
+AL
+21180
+Feira Grande
+CE
+21171
+Coreaú
+RO
+21162
+Nova Mamoré
+BA
+21150
+Caravelas
+PE
+21125
+Lagoa Grande
+CE
+21111
+Morrinhos
+BA
+21107
+Palmas de Monte Alto
+BA
+21104
+Laje
+PA
+21094
+São Domingos do Araguaia
+SE
+21083
+Poço Verde
+MS
+21063
+São Gabriel do Oeste
+PR
+21049
+Colorado
+SP
+21035
+Pirajuí
+PE
+21024
+Rio Formoso
+MA
+21016
+Riachão
+PE
+21011
+São João
+MG
+21009
+Caxambu
+SP
+20996
+Brotas
+MG
+20986
+Itaobim
+BA
+20980
+Baixa Grande
+MS
+20916
+Cassilândia
+MG
+20903
+Manga
+RJ
+20885
+Pinheiral
+PE
+20869
+São Joaquim do Monte
+SC
+20868
+Penha
+MG
+20862
+Serro
+SC
+20859
+Orleans
+BA
+20845
+Formosa do Rio Preto
+MG
+20835
+Espera Feliz
+BA
+20834
+João Dourado
+SP
+20827
+Valparaíso
+MG
+20812
+Carlos Chagas
+MA
+20793
+Senador La Rocque
+BA
+20750
+Barra da Estiva
+MA
+20735
+Bequimão
+SC
+20719
+Forquilhinha
+BA
+20708
+Ubaíra
+BA
+20702
+Teofilândia
+CE
+20673
+Barro
+PI
+20673
+Canto do Buriti
+MG
+20667
+Medina
+MG
+20653
+Itapecerica
+BA
+20636
+Itanhém
+GO
+20615
+Bela Vista de Goiás
+SP
+20613
+Bastos
+SP
+20611
+Jarinu
+RS
+20591
+Nova Santa Rita
+RN
+20590
+Monte Alegre
+SC
+20577
+Ituporanga
+MS
+20567
+Ivinhema
+SE
+20562
+Umbaúba
+PE
+20552
+Tacaratu
+SP
+20550
+Santo Anastácio
+PE
+20545
+Belém de São Francisco
+PB
+20526
+Mari
+RS
+20506
+São Jerônimo
+PA
+20500
+São Sebastião da Boa Vista
+BA
+20478
+Ubaitaba
+GO
+20460
+Pirenópolis
+MG
+20426
+Conceição das Alagoas
+MA
+20422
+Matinha
+PA
+20415
+Ourilândia do Norte
+RS
+20415
+Sarandi
+PR
+20408
+Mandirituba
+MG
+20389
+Jacutinga
+RS
+20359
+São Sebastião do Caí
+RN
+20347
+Goianinha
+BA
+20343
+Itajuípe
+SP
+20325
+Teodoro Sampaio
+BA
+20312
+Pindobaçu
+MA
+20285
+Carutapera
+BA
+20265
+São Felipe
+MG
+20251
+Campestre
+RS
+20225
+Piratini
+MG
+20209
+Manhumirim
+PB
+20197
+Cuité
+PR
+20182
+Cruzeiro do Oeste
+CE
+20181
+Forquilha
+ES
+20179
+Santa Teresa
+BA
+20165
+Itororó
+PE
+20149
+Amaraji
+MG
+20133
+Monte Santo de Minas
+PE
+20132
+Pedra
+MA
+20119
+Turilândia
+CE
+20079
+Quiterianópolis
+AL
+20076
+Cajueiro
+SC
+20064
+Capivari de Baixo
+SP
+20056
+Guapiara
+BA
+20055
+Paramirim
+GO
+20033
+Alexânia
+MT
+20033
+Paranatinga
+PE
+19987
+Lagoa do Itaenga
+SP
+19972
+Miguelópolis
+RN
+19972
+Parelhas
+BA
+19956
+Buerarema
+SP
+19943
+Rosana
+MA
+19928
+João Lisboa
+PB
+19925
+Conde
+MG
+19925
+Muzambinho
+PR
+19904
+Altônia
+BA
+19897
+Itaparica
+AL
+19885
+Olho d'Água das Flores
+BA
+19840
+Alcobaça
+BA
+19828
+Governador Mangabeira
+SP
+19824
+Santo Antônio de Posse
+MS
+19819
+Aparecida do Taboado
+RJ
+19799
+Cantagalo
+SC
+19752
+Itaiópolis
+SP
+19745
+Monte Aprazível
+RN
+19739
+Caraúbas
+AM
+19726
+Fonte Boa
+RS
+19717
+Butiá
+RJ
+19716
+Iguaba Grande
+PI
+19716
+Valença do Piauí
+MG
+19708
+Camanducaia
+MA
+19692
+São Vicente Ferrer
+TO
+19683
+Miracema do Tocantins
+MA
+19655
+São Luís Gonzaga do Maranhão
+ES
+19649
+Ibatiba
+RS
+19641
+São Marcos
+MA
+19633
+Santa Luzia do Paruá
+MG
+19603
+Paraguaçu
+BA
+19591
+Tanhaçu
+GO
+19574
+Bom Jesus de Goiás
+PR
+19552
+Santa Terezinha de Itaipu
+RS
+19541
+Júlio de Castilhos
+RS
+19536
+Encantado
+PR
+19534
+Jandaia do Sul
+PI
+19532
+Bom Jesus
+MG
+19528
+Juatuba
+RS
+19523
+São Francisco de Assis
+BA
+19510
+Crisópolis
+MG
+19480
+Carmo do Rio Claro
+RJ
+19479
+Conceição de Macabu
+MT
+19474
+Nova Olímpia
+PR
+19464
+Loanda
+ES
+19459
+Anchieta
+MA
+19453
+Paraibano
+AM
+19453
+Tapauá
+MA
+19445
+Mirador
+BA
+19440
+Santa Bárbara
+RJ
+19439
+São José do Vale do Rio Preto
+MG
+19407
+Perdões
+GO
+19392
+Nerópolis
+PB
+19388
+Caaporã
+PA
+19368
+Chaves
+AL
+19363
+Colônia Leopoldina
+PR
+19356
+Sengés
+MG
+19352
+Barroso
+SP
+19352
+Juquiá
+PE
+19337
+Capoeiras
+PB
+19330
+Princesa Isabel
+AL
+19316
+Água Branca
+CE
+19310
+Reriutaba
+SP
+19309
+Cordeirópolis
+MG
+19300
+Vazante
+PE
+19276
+Feira Nova
+BA
+19259
+Mairi
+MG
+19245
+Divino
+CE
+19244
+Farias Brito
+BA
+19229
+Utinga
+MG
+19228
+Monte Sião
+PR
+19224
+Chopinzinho
+SE
+19218
+Barra dos Coqueiros
+CE
+19218
+Uruburetama
+PE
+19214
+Parnamirim
+RS
+19213
+Rolante
+SP
+19212
+Lucélia
+PI
+19201
+São Miguel do Tapuio
+MT
+19197
+Santo Antônio do Leverger
+PB
+19191
+Araruna
+SP
+19187
+Monte Azul Paulista
+SE
+19185
+Aquidabã
+AP
+19181
+Oiapoque
+PB
+19174
+Aroeiras
+AM
+19164
+Manaquiri
+PB
+19163
+Alagoa Nova
+MS
+19159
+Ribas do Rio Pardo
+CE
+19154
+Alto Santo
+PI
+19150
+Buriti dos Lopes
+MG
+19137
+Varzelândia
+MT
+19100
+Aripuanã
+BA
+19091
+Conceição da Feira
+SP
+19091
+Pompéia
+AM
+19090
+Tonantins
+AC
+19065
+Brasiléia
+SP
+19044
+Santa Gertrudes
+SE
+19019
+Riachão do Dantas
+SP
+19018
+Brodowski
+MA
+19017
+Peritoró
+PI
+19017
+Uruçuí
+MT
+19001
+São José dos Quatro Marcos
+PA
+18995
+Cachoeira do Arari
+MT
+18991
+Água Boa
+RJ
+18984
+Cordeiro
+SE
+18965
+Carira
+MG
+18943
+Carmo do Cajuru
+SC
+18942
+Herval d'Oeste
+MT
+18934
+Vila Rica
+PA
+18919
+São João de Pirabas
+BA
+18918
+Fátima
+PE
+18913
+Tupanatinga
+SE
+18909
+Neópolis
+PB
+18898
+São José de Piranhas
+SP
+18879
+Ribeirão Branco
+AC
+18863
+Senador Guiomard
+PA
+18830
+Aveiro
+BA
+18829
+Nova Canaã
+MA
+18827
+Cantanhede
+MA
+18820
+Cândido Mendes
+GO
+18814
+Jussara
+AL
+18811
+Major Isidoro
+MS
+18789
+Fátima do Sul
+PA
+18749
+Brasil Novo
+PB
+18716
+Picuí
+PR
+18710
+Tibagi
+MA
+18692
+Porto Franco
+PR
+18691
+Wenceslau Braz
+RS
+18690
+Ibirubá
+PI
+18689
+São João do Piauí
+MS
+18687
+Bataguassu
+MG
+18680
+Campina Verde
+MT
+18670
+Nova Xavantina
+BA
+18656
+Buritirama
+CE
+18652
+Quixeré
+CE
+18649
+Cariús
+GO
+18637
+Ceres
+SP
+18628
+Junqueirópolis
+BA
+18614
+Ibititá
+SP
+18611
+Guará
+ES
+18610
+Venda Nova do Imigrante
+MS
+18605
+Itaporã
+SC
+18588
+Urussanga
+TO
+18584
+Dianópolis
+PA
+18580
+Bagre
+MS
+18579
+Rio Verde de Mato Grosso
+SC
+18575
+Barra Velha
+MA
+18569
+Esperantinópolis
+PR
+18565
+Santo Antônio do Sudoeste
+SE
+18563
+Salgado
+GO
+18553
+Acreúna
+SP
+18552
+Caconde
+PI
+18550
+Castelo do Piauí
+MG
+18547
+Lambari
+CE
+18534
+Hidrolândia
+CE
+18527
+Cariré
+MG
+18518
+Águas Formosas
+RS
+18517
+Ivoti
+BA
+18483
+Tremedal
+BA
+18468
+São Gabriel
+SC
+18465
+Capinzal
+ES
+18465
+Pancas
+CE
+18453
+Barreira
+MT
+18428
+Diamantino
+GO
+18370
+Silvânia
+RS
+18358
+Arroio Grande
+MG
+18348
+Monte Alegre de Minas
+PE
+18345
+Carnaíba
+PR
+18329
+Cruz Machado
+AM
+18325
+Pauini
+RS
+18305
+Horizontina
+MA
+18300
+Trizidela do Vale
+MS
+18277
+Costa Rica
+PE
+18269
+Riacho das Almas
+CE
+18261
+Chorozinho
+PR
+18259
+Mandaguaçu
+MG
+18256
+Presidente Olegário
+GO
+18238
+Campos Belos
+PE
+18228
+Serrita
+TO
+18225
+Formoso do Araguaia
+BA
+18217
+Taperoá
+ES
+18196
+Muniz Freire
+AM
+18196
+Novo Aripuanã
+CE
+18195
+Umirim
+CE
+18186
+Icapuí
+PB
+18183
+Alhandra
+BA
+18168
+Coronel João Sá
+PB
+18168
+Ingá
+AL
+18157
+Taquarana
+MG
+18147
+Guaranésia
+SP
+18143
+Potim
+PE
+18137
+Tamandaré
+PR
+18125
+Quatro Barras
+PA
+18123
+Santa Luzia do Pará
+MG
+18120
+Padre Paraíso
+MA
+18108
+São João Batista
+MA
+18105
+Palmeirândia
+BA
+18104
+Sátiro Dias
+PR
+18103
+Capanema
+MG
+18088
+Paraisópolis
+BA
+18085
+Piatã
+RS
+18079
+Arroio do Meio
+SP
+18079
+Pariquera-Açu
+MG
+18070
+Conceição do Mato Dentro
+MT
+18031
+Rosário Oeste
+SP
+18026
+Iracemápolis
+GO
+18025
+Rubiataba
+AL
+18017
+Lagoa da Canoa
+MG
+18016
+Baependi
+BA
+18013
+Souto Soares
+MG
+18002
+Ervália
+ES
+17998
+Montanha
+RR
+17981
+Caracaraí
+CE
+17977
+Caridade
+AL
+17947
+Porto Real do Colégio
+MT
+17939
+Comodoro
+BA
+17939
+Ituaçu
+SC
+17937
+Três Barras
+MG
+17932
+Nova Era
+MG
+17917
+Malacacheta
+MS
+17906
+Ladário
+MG
+17900
+São José da Lapa
+PA
+17898
+Placas
+BA
+17870
+Aporá
+ES
+17862
+Vargem Alta
+CE
+17851
+Jaguaretama
+PA
+17845
+Melgaço
+BA
+17841
+Boa Vista do Tupim
+MG
+17821
+Alpinópolis
+AL
+17793
+Canapi
+PA
+17787
+Anapu
+PR
+17775
+Cândido de Abreu
+PB
+17773
+São João do Rio do Peixe
+PA
+17769
+Curionópolis
+RS
+17747
+Nova Petrópolis
+MA
+17742
+Miranda do Norte
+SP
+17739
+Nova Granada
+PE
+17733
+Iati
+GO
+17705
+Anicuns
+PR
+17693
+Cerro Azul
+CE
+17689
+Itatira
+BA
+17684
+Conceição do Almeida
+PA
+17649
+Cachoeira do Piriá
+RO
+17644
+Colorado do Oeste
+AL
+17637
+Inhapi
+PI
+17633
+Regeneração
+PE
+17627
+Sanharó
+MG
+17626
+Itacarambi
+BA
+17615
+Itarantim
+CE
+17602
+Itapiúna
+SC
+17602
+Santo Amaro da Imperatriz
+PR
+17599
+Clevelândia
+MG
+17592
+Arinos
+MT
+17592
+Poxoréo
+PR
+17581
+Antonina
+MG
+17580
+Lajinha
+SP
+17576
+Itaberá
+CE
+17574
+Santana do Cariri
+PE
+17573
+Ilha de Itamaracá
+SP
+17570
+Itatinga
+PE
+17563
+Chã Grande
+AM
+17553
+Nhamundá
+SP
+17539
+Buri
+MA
+17537
+Maracaçumé
+AM
+17507
+Maraã
+MA
+17507
+Pastos Bons
+BA
+17502
+Cabaceiras do Paraguaçu
+RN
+17501
+Jucurutu
+RS
+17500
+Tapejara
+PB
+17496
+Conceição
+BA
+17474
+Mirangaba
+AL
+17466
+Piaçabuçu
+AM
+17451
+Apuí
+CE
+17448
+Banabuiú
+BA
+17422
+Serra Dourada
+PE
+17421
+Cachoeirinha
+BA
+17402
+Cafarnaum
+BA
+17394
+Cocos
+MT
+17377
+Chapada dos Guimarães
+PB
+17376
+Araçagi
+RJ
+17376
+Quissamã
+MA
+17361
+Olho d'Água das Cunhãs
+MG
+17349
+São Domingos do Prata
+MT
+17345
+São José do Rio Claro
+BA
+17342
+Abaré
+CE
+17340
+Solonópole
+BA
+17320
+Central
+CE
+17317
+Croatá
+PI
+17316
+Amarante
+MS
+17275
+Bonito
+AL
+17274
+Anadia
+AC
+17258
+Plácido de Castro
+MG
+17257
+Simonésia
+MG
+17255
+Santo Antônio do Amparo
+BA
+17254
+Tapiramutá
+PA
+17253
+Faro
+RJ
+17242
+Mendes
+MG
+17219
+Turmalina
+RJ
+17216
+Rio Claro
+MG
+17208
+Piranga
+MG
+17194
+Bom Sucesso
+MA
+17191
+São Benedito do Rio Preto
+AM
+17184
+Urucurituba
+MT
+17183
+Canarana
+RJ
+17178
+Porciúncula
+AM
+17177
+Ipixuna
+PB
+17173
+Belém
+MG
+17173
+Luz
+RO
+17170
+Nova Brasilândia D'Oeste
+MG
+17157
+Peçanha
+GO
+17156
+Aragarças
+CE
+17143
+Pindoretama
+AM
+17129
+Jutaí
+MG
+17128
+Ipanema
+SP
+17128
+Mirante do Paranapanema
+PI
+17123
+Pio IX
+MA
+17121
+Nova Olinda do Maranhão
+SC
+17121
+Seara
+PR
+17119
+Mangueirinha
+PB
+17108
+Cacimba de Dentro
+BA
+17092
+Pedro Alexandre
+PE
+17090
+São José da Coroa Grande
+SE
+17089
+Indiaroba
+CE
+17087
+Varjota
+MA
+17085
+Passagem Franca
+MA
+17077
+Morros
+PA
+17077
+Salvaterra
+RS
+17070
+Giruá
+SP
+17070
+Regente Feijó
+PR
+17067
+Ampére
+MG
+17067
+Cássia
+SC
+17056
+Papanduva
+CE
+17051
+Madalena
+SP
+17043
+Viradouro
+AL
+17034
+Capela
+BA
+17029
+Maraú
+CE
+17028
+Catarina
+MG
+17024
+Resplendor
+PE
+17021
+Vertentes
+BA
+17004
+Condeúba
+PA
+16993
+Rio Maria
+SP
+16989
+Colina
+PI
+16930
+Paulistana
+MS
+16924
+Itaquiraí
+AM
+16921
+Santa Isabel do Rio Negro
+MA
+16882
+Formosa da Serra Negra
+RJ
+16858
+Sapucaia
+BA
+16839
+Jitaúna
+SC
+16838
+Taió
+PI
+16826
+Jaicós
+BA
+16762
+Ibipeba
+RO
+16758
+Alto Paraíso
+PB
+16748
+Remígio
+RO
+16736
+Candeias do Jamari
+SC
+16716
+Ibirama
+MG
+16715
+Rio Pomba
+RS
+16714
+Agudo
+AL
+16694
+Estrela de Alagoas
+RJ
+16690
+Carmo
+RS
+16688
+Nova Hartz
+SP
+16667
+Paranapanema
+PR
+16663
+Siqueira Campos
+PR
+16625
+Pontal do Paraná
+RS
+16613
+São Pedro do Sul
+PE
+16598
+São Vicente Ferrer
+MA
+16592
+São João do Soter
+ES
+16587
+Rio Bananal
+MA
+16565
+Barão de Grajaú
+CE
+16557
+Monsenhor Tabosa
+RS
+16557
+Tapes
+PE
+16540
+Manari
+PR
+16521
+Carambeí
+MG
+16521
+Lagoa Formosa
+PE
+16520
+Araçoiaba
+BA
+16518
+Sapeaçu
+RO
+16485
+Alvorada D'Oeste
+MG
+16479
+Ladainha
+PE
+16471
+Afrânio
+SP
+16456
+Paraibuna
+PB
+16456
+Sumé
+BA
+16446
+Antas
+MA
+16444
+Gonçalves Dias
+AM
+16438
+Envira
+MG
+16435
+Água Boa
+MG
+16430
+Matipó
+CE
+16403
+Capistrano
+SC
+16399
+Garopaba
+SP
+16392
+Guapiaçu
+PE
+16388
+Cumaru
+SC
+16374
+Abelardo Luz
+PE
+16330
+Correntes
+BA
+16302
+Ourolândia
+RO
+16290
+Cerejeiras
+CE
+16282
+Saboeiro
+SP
+16276
+Cerqueira César
+BA
+16272
+Itagibá
+ES
+16249
+Piúma
+AL
+16247
+Batalha
+GO
+16226
+Pontalina
+SP
+16211
+Bom Jesus dos Perdões
+PR
+16208
+Terra Roxa
+BA
+16207
+Jaguaripe
+PR
+16198
+Morretes
+MS
+16193
+Chapadão do Sul
+BA
+16189
+América Dourada
+PA
+16179
+São Caetano de Odivelas
+SP
+16173
+Macatuba
+PR
+16142
+Bituruna
+PB
+16140
+Pitimbu
+MA
+16129
+Paulo Ramos
+SE
+16122
+Campo do Brito
+SP
+16121
+São Lourenço da Serra
+SP
+16112
+Jacupiranga
+PR
+16098
+Assaí
+PA
+16097
+Trairão
+SC
+16095
+Guabiruba
+BA
+16085
+Malhada
+BA
+16081
+Umburanas
+SP
+16073
+Cafelândia
+SE
+16072
+Areia Branca
+BA
+16061
+Mascote
+SC
+16061
+Palmitos
+BA
+16055
+Ipecaetá
+BA
+16046
+Macarani
+MA
+16026
+Bacuri
+AM
+16025
+Codajás
+PA
+16012
+Santa Maria das Barreiras
+BA
+16007
+Boa Nova
+GO
+16003
+Itapaci
+CE
+16001
+Carnaubal
+PR
+15983
+Campina da Lagoa
+BA
+15979
+Filadélfia
+MS
+15968
+Mundo Novo
+PE
+15967
+Lagoa dos Gatos
+PB
+15966
+Itapororoca
+MA
+15962
+São Raimundo das Mangabeiras
+RS
+15961
+Getúlio Vargas
+MG
+15961
+Montalvânia
+PR
+15959
+Guaraniaçu
+PB
+15956
+Pocinhos
+SP
+15950
+Capela do Alto
+PE
+15947
+Joaquim Nabuco
+MG
+15909
+Lima Duarte
+PB
+15899
+Juazeirinho
+PR
+15897
+Quitandinha
+MG
+15889
+Sabinópolis
+PI
+15887
+Água Branca
+PB
+15881
+Piancó
+PB
+15877
+Boqueirão
+SE
+15867
+Cristinápolis
+SP
+15867
+Águas de Lindóia
+MA
+15857
+Governador Eugênio Barros
+BA
+15856
+Ibicoara
+MA
+15853
+Poção de Pedras
+PE
+15831
+Camocim de São Félix
+BA
+15822
+Urandi
+PR
+15809
+Realeza
+BA
+15802
+Ibitiara
+CE
+15798
+Salitre
+BA
+15777
+Ibicuí
+BA
+15764
+Itiruçu
+GO
+15747
+Caiapônia
+BA
+15745
+Tanque Novo
+MG
+15743
+Carmópolis de Minas
+AM
+15716
+Urucará
+RO
+15710
+São Francisco do Guaporé
+CE
+15708
+Quixelô
+MG
+15704
+Tocantins
+SC
+15693
+Otacílio Costa
+MG
+15686
+São João Evangelista
+SP
+15678
+Alumínio
+SE
+15676
+Ribeirópolis
+SC
+15668
+Jaguaruna
+MT
+15638
+Pedra Preta
+MA
+15606
+Presidente Sarney
+PE
+15595
+Dormentes
+RS
+15595
+Restinga Seca
+CE
+15585
+Aiuaba
+MA
+15583
+Joselândia
+PE
+15576
+Venturosa
+MA
+15549
+Sítio Novo
+PR
+15527
+Faxinal
+MG
+15499
+Candeias
+MG
+15496
+Jaboticatubas
+MG
+15492
+Santa Vitória
+PR
+15485
+Sertanópolis
+BA
+15483
+Santa Brígida
+SP
+15473
+Conchas
+PR
+15454
+Palmital
+SE
+15450
+Japaratuba
+MG
+15449
+Chapada do Norte
+CE
+15442
+Jijoca de Jericoacoara
+BA
+15432
+Madre de Deus
+PR
+15428
+Corbélia
+SC
+15426
+Morro da Fumaça
+PR
+15412
+Candói
+SP
+15410
+Castilho
+PR
+15404
+Matelândia
+AL
+15359
+Ibateguara
+MG
+15350
+Poço Fundo
+MT
+15335
+Araputanga
+PA
+15316
+Terra Santa
+SC
+15311
+Santa Cecília
+BA
+15306
+Pindaí
+MG
+15302
+Capinópolis
+BA
+15302
+São Félix
+CE
+15297
+Graça
+CE
+15291
+Pereiro
+MG
+15285
+Passa Quatro
+PB
+15281
+Cruz do Espírito Santo
+BA
+15262
+Belo Campo
+MG
+15251
+Alvinópolis
+SC
+15238
+Itapiranga
+PB
+15236
+Coremas
+RS
+15228
+Não-Me-Toque
+PE
+15225
+Triunfo
+ES
+15209
+Fundão
+MS
+15203
+Nioaque
+MG
+15198
+Bom Jesus do Galho
+BA
+15184
+Santa Luzia
+MG
+15169
+Campanha
+SP
+15157
+Salesópolis
+SP
+15156
+Pedregulho
+PA
+15152
+Ourém
+SE
+15150
+Maruim
+BA
+15149
+Serra Preta
+SP
+15148
+Pradópolis
+SP
+15139
+Altinópolis
+BA
+15134
+Iramaia
+MA
+15127
+Centro Novo do Maranhão
+SP
+15115
+Itariri
+BA
+15096
+Rio do Antônio
+PR
+15086
+Iporã
+MG
+15078
+Ataléia
+AL
+15072
+Messias
+BA
+15063
+Cipó
+CE
+15062
+Tejuçuoca
+MA
+15043
+Pirapemas
+PE
+15027
+Saloá
+PR
+14996
+Bela Vista do Paraíso
+RS
+14991
+Espumoso
+PE
+14985
+Itaquitinga
+PI
+14973
+Inhuma
+PA
+14964
+Floresta do Araguaia
+RS
+14940
+Imbé
+RJ
+14930
+Natividade
+MG
+14892
+Borda da Mata
+MG
+14881
+Joaíma
+MG
+14874
+Raposos
+MT
+14862
+Nobres
+MS
+14861
+Porto Murtinho
+MG
+14856
+Rio Vermelho
+MG
+14853
+Botelhos
+MG
+14844
+Ipaba
+SC
+14838
+Correia Pinto
+BA
+14833
+Jussara
+BA
+14824
+Adustina
+BA
+14820
+Ponto Novo
+MA
+14815
+Jenipapo dos Vieiras
+BA
+14814
+Água Fria
+PE
+14813
+Jataúba
+CE
+14812
+Barroquinha
+BA
+14803
+Presidente Jânio Quadros
+TO
+14800
+Augustinópolis
+PR
+14800
+Contenda
+SC
+14792
+Dionísio Cerqueira
+CE
+14792
+Porteiras
+SP
+14788
+Presidente Bernardes
+GO
+14762
+Cocalzinho de Goiás
+PE
+14760
+Jurema
+MG
+14749
+Poté
+CE
+14736
+Piquet Carneiro
+SP
+14735
+Buritama
+RS
+14726
+Crissiumal
+PB
+14715
+Taperoá
+RS
+14714
+Sananduva
+SP
+14713
+Severínia
+BA
+14700
+Angical
+SC
+14691
+Pinhalzinho
+CE
+14658
+Acarape
+BA
+14656
+Canudos
+MG
+14656
+Cruzília
+MS
+14632
+Iguatemi
+AM
+14630
+Novo Airão
+BA
+14628
+Acajutiba
+SP
+14613
+Nazaré Paulista
+MA
+14611
+Bacabeira
+SP
+14601
+Fartura
+MG
+14594
+Grão Mogol
+PR
+14591
+General Carneiro
+PR
+14588
+Terra Boa
+MG
+14587
+Itinga
+MT
+14584
+Terra Nova do Norte
+MA
+14580
+Lago Verde
+BA
+14569
+Itatim
+SC
+14563
+Cocal do Sul
+RJ
+14562
+Sumidouro
+BA
+14555
+Coribe
+MG
+14551
+Itaú de Minas
+GO
+14547
+Crixás
+SP
+14521
+Elias Fausto
+RS
+14504
+Dom Feliciano
+RJ
+14503
+Porto Real
+BA
+14499
+Igaporã
+PR
+14498
+Tapejara
+MG
+14496
+Rio Casca
+MA
+14486
+Fortuna
+RN
+14483
+São Paulo do Potengi
+BA
+14479
+Várzea da Roça
+SP
+14475
+Piquete
+BA
+14458
+Aurelino Leal
+MS
+14458
+Terenos
+PB
+14454
+Uiraúna
+MG
+14452
+Brasópolis
+PR
+14450
+Rio Bonito do Iguaçu
+MG
+14427
+Santa Maria do Suaçuí
+MG
+14410
+Papagaios
+PR
+14405
+Terra Rica
+ES
+14403
+João Neiva
+MG
+14395
+Itanhandu
+RR
+14386
+Alto Alegre
+PE
+14380
+Lagoa do Carro
+GO
+14374
+Orizona
+SP
+14370
+Pirapora do Bom Jesus
+RJ
+14368
+Cambuci
+SP
+14356
+Charqueada
+BA
+14346
+Jacaraci
+SP
+14345
+Pindorama
+SP
+14344
+Ipuã
+PR
+14338
+Curiúva
+SP
+14327
+Potirendaba
+MG
+14319
+Rio Piracicaba
+PR
+14315
+Jardim Alegre
+AC
+14314
+Xapuri
+CE
+14313
+Iracema
+RN
+14312
+Santana do Matos
+PA
+14302
+Senador José Porfírio
+BA
+14297
+Ribeirão do Largo
+PB
+14292
+Santa Luzia
+SP
+14284
+Itaporanga
+RS
+14280
+Santo Cristo
+BA
+14262
+Manoel Vitorino
+MT
+14254
+Sapezal
+MA
+14249
+Axixá
+MG
+14249
+Maria da Fé
+MT
+14243
+Matupá
+MA
+14225
+Santo Antônio dos Lopes
+PE
+14224
+Xexéu
+MA
+14217
+Magalhães de Almeida
+MG
+14205
+Santa Margarida
+MA
+14194
+São Francisco do Maranhão
+MG
+14185
+Tarumirim
+SP
+14182
+Itajobi
+PI
+14174
+Elesbão Veloso
+PR
+14174
+Porecatu
+BA
+14168
+Aracatu
+RS
+14162
+Sobradinho
+BA
+14160
+Pé de Serra
+BA
+14154
+Itaeté
+AL
+14154
+Satuba
+BA
+14153
+Novo Triunfo
+MG
+14145
+Nova Resende
+BA
+14132
+Andorinha
+PR
+14132
+Mamborê
+BA
+14131
+Mucugê
+CE
+14111
+Milhã
+TO
+14110
+Taguatinga
+MG
+14106
+Capitão Enéas
+PE
+14103
+Casinhas
+MG
+14103
+Virgem da Lapa
+AM
+14102
+Guajará
+BA
+14101
+Ribeira do Amparo
+BA
+14088
+Andaraí
+MA
+14086
+Governador Edison Lobão
+PA
+14086
+Nova Ipixuna
+MT
+14084
+Marcelândia
+CE
+14072
+Fortim
+BA
+14069
+Sítio do Quinto
+PE
+14067
+Frei Miguelinho
+MA
+14063
+Conceição do Lago-Açu
+BA
+14054
+Barra do Mendes
+PR
+14053
+Rebouças
+SP
+14038
+Eldorado
+PE
+14036
+Inajá
+PR
+14025
+Turvo
+PB
+14021
+Tavares
+BA
+14020
+Heliópolis
+MG
+14019
+Itapagipe
+PE
+14016
+Alagoinha
+CE
+14007
+Mucambo
+SP
+14005
+Cesário Lange
+GO
+14004
+Hidrolândia
+MG
+13996
+Dores do Indaiá
+PR
+13993
+Ipiranga
+ES
+13983
+Alfredo Chaves
+MG
+13983
+Fronteira
+MS
+13979
+Coronel Sapucaia
+MT
+13975
+Brasnorte
+SP
+13965
+Tabatinga
+AP
+13962
+Porto Grande
+BA
+13961
+Biritinga
+BA
+13949
+Várzea Nova
+SP
+13944
+Panorama
+MG
+13924
+Perdizes
+RS
+13906
+Tenente Portela
+BA
+13905
+Mortugaba
+MG
+13901
+Caldas
+PE
+13900
+Barra de Guabiraba
+SP
+13889
+Itirapina
+MG
+13887
+Entre Rios de Minas
+MT
+13886
+Vila Bela da Santíssima Trindade
+MT
+13883
+Guiratinga
+BA
+13882
+Itagi
+ES
+13881
+Itaguaçu
+BA
+13879
+Glória
+PR
+13867
+Engenheiro Beltrão
+AL
+13865
+Maribondo
+AP
+13862
+Mazagão
+SP
+13861
+Santa Adélia
+RO
+13857
+Cujubim
+PE
+13849
+Itapetim
+BA
+13841
+Ibipitanga
+ES
+13841
+Muqui
+AM
+13834
+Anori
+GO
+13832
+São Simão
+AL
+13826
+Passo de Camaragibe
+BA
+13822
+Presidente Dutra
+MA
+13812
+Mata Roma
+AM
+13809
+Beruri
+PE
+13797
+Jatobá
+BA
+13795
+Lagoa Real
+MT
+13790
+Alto Araguaia
+MA
+13786
+Mirinzal
+AC
+13785
+Mâncio Lima
+SP
+13781
+São Simão
+PI
+13779
+Joaquim Pires
+SC
+13777
+Massaranduba
+SP
+13760
+Auriflama
+SC
+13760
+Balneário Piçarras
+PE
+13759
+Santa Filomena
+MG
+13756
+Itamonte
+BA
+13755
+Mulungu do Morro
+SP
+13752
+Borborema
+MT
+13740
+Cotriguaçu
+PI
+13734
+Simões
+AL
+13731
+Barra de Santo Antônio
+RN
+13729
+Alexandria
+SC
+13722
+Pouso Redondo
+PI
+13721
+Palmeirais
+BA
+13719
+Uibaí
+AC
+13716
+Porto Acre
+PA
+13714
+Santa Bárbara do Pará
+BA
+13712
+Cairu
+SP
+13712
+Tupi Paulista
+GO
+13712
+Uruana
+PE
+13709
+Sairé
+PB
+13708
+Jacaraú
+RN
+13704
+Jardim de Piranhas
+SC
+13700
+Lauro Muller
+SC
+13699
+São José do Cedro
+PB
+13685
+Teixeira
+AM
+13682
+Atalaia do Norte
+BA
+13678
+Bonito
+RN
+13673
+Pedro Velho
+MT
+13666
+Campinápolis
+RO
+13664
+Costa Marques
+BA
+13663
+Cotegipe
+MG
+13657
+Carmo de Minas
+PR
+13655
+Barbosa Ferraz
+SC
+13651
+Presidente Getúlio
+CE
+13649
+Apuiarés
+PR
+13649
+Planalto
+ES
+13646
+Vila Valério
+RJ
+13645
+Italva
+PE
+13644
+Santa Cruz
+MG
+13638
+Bicas
+RS
+13629
+Cacequi
+PE
+13628
+Jupi
+RS
+13622
+Santo Augusto
+RS
+13619
+Arroio dos Ratos
+MG
+13618
+Felixlândia
+PR
+13616
+Capitão Leônidas Marques
+MG
+13614
+Cabo Verde
+PI
+13612
+Alto Longá
+PR
+13611
+São João do Triunfo
+BA
+13595
+Cristópolis
+RS
+13591
+Antônio Prado
+GO
+13586
+Guapó
+SE
+13539
+Japoatã
+BA
+13515
+Piripá
+RS
+13463
+Serafina Corrêa
+BA
+13447
+Rio de Contas
+RN
+13444
+Ipanguaçu
+BA
+13437
+Baianópolis
+AC
+13434
+Epitaciolândia
+BA
+13403
+Barro Alto
+SC
+13393
+Garuva
+PR
+13389
+Ribeirão do Pinhal
+BA
+13386
+Jiquiriçá
+RO
+13381
+Urupá
+CE
+13350
+Tururu
+PE
+13304
+Mirandiba
+SC
+13301
+Porto Belo
+MG
+13286
+Alterosa
+SP
+13282
+Santa Branca
+PR
+13248
+Rio Azul
+BA
+13246
+Igrapiúna
+BA
+13227
+Boninal
+MA
+13216
+Apicum-Açu
+MG
+13214
+Berilo
+PB
+13209
+Gurinhém
+SP
+13208
+Boa Esperança do Sul
+MG
+13205
+Matias Barbosa
+SP
+13202
+Guareí
+SE
+13199
+Monte Alegre de Sergipe
+MA
+13197
+Itaipava do Grajaú
+MS
+13192
+Camapuã
+MG
+13184
+Campos Altos
+MS
+13183
+Água Clara
+BA
+13182
+Barrocas
+MG
+13181
+Areado
+PR
+13170
+Carlópolis
+RN
+13167
+Lagoa Nova
+PE
+13167
+Orocó
+SP
+13163
+Maracaí
+PR
+13156
+Marmeleiro
+MG
+13152
+Guapé
+PA
+13145
+Bom Jesus do Tocantins
+AM
+13138
+Boa Vista do Ramos
+PB
+13128
+Soledade
+GO
+13123
+Mozarlândia
+PR
+13091
+Tijucas do Sul
+BA
+13090
+Salinas da Margarida
+PI
+13083
+São Pedro do Piauí
+RN
+13081
+Tangará
+BA
+13072
+Caldeirão Grande
+SP
+13072
+Pacaembu
+PR
+13065
+Cafelândia
+AC
+13061
+Marechal Thaumaturgo
+SE
+13041
+Santa Luzia do Itanhy
+SP
+13039
+Bady Bassitt
+PR
+13029
+Peabiru
+PB
+13025
+Alagoinha
+AM
+13010
+Alvarães
+BA
+12982
+Wanderley
+SP
+12975
+Sete Barras
+CE
+12974
+Nova Olinda
+CE
+12973
+Uruoca
+MG
+12965
+Jequeri
+SP
+12964
+Ipaussu
+PE
+12962
+Buenos Aires
+MG
+12949
+Miraí
+RS
+12939
+Pinheiro Machado
+PR
+12936
+Alto Paraná
+PR
+12926
+Moreira Sales
+ES
+12912
+Boa Esperança
+PB
+12881
+Puxinanã
+SE
+12877
+Tomar do Geru
+MG
+12867
+Abre Campo
+PB
+12848
+Barra de Santa Rosa
+MA
+12842
+Cajari
+PR
+12840
+Ivaí
+CE
+12830
+Frecheirinha
+MA
+12825
+Bom Lugar
+MG
+12821
+Brasilândia de Minas
+BA
+12815
+São Félix do Coribe
+PI
+12806
+Demerval Lobão
+MA
+12799
+Paulino Neves
+CE
+12790
+Choró
+SC
+12776
+Schroeder
+MG
+12769
+Mirabela
+PR
+12762
+Manoel Ribas
+SC
+12758
+Corupá
+MT
+12742
+Nova Bandeirantes
+CE
+12735
+Ibaretama
+PE
+12734
+Tracunhaém
+SP
+12729
+Engenheiro Coelho
+RN
+12719
+Upanema
+MG
+12708
+Conceição do Rio Verde
+PA
+12707
+Belterra
+PA
+12707
+Piçarra
+GO
+12703
+Indiara
+ES
+12699
+Marechal Floriano
+BA
+12695
+Licínio de Almeida
+BA
+12677
+Brejões
+GO
+12674
+Iaciara
+MG
+12674
+Águas Vermelhas
+MG
+12664
+Mato Verde
+SP
+12660
+Flórida Paulista
+MG
+12657
+Alto Rio Doce
+MT
+12652
+Nova Canaã do Norte
+PR
+12650
+Araruna
+AL
+12641
+Senador Rui Palmeira
+GO
+12640
+Abadiânia
+RS
+12638
+Arroio do Tigre
+PA
+12620
+Quatipuru
+PR
+12619
+Nova Londrina
+GO
+12603
+Nova Crixás
+MA
+12596
+Buritirana
+SE
+12589
+Frei Paulo
+MA
+12580
+Anapurus
+MG
+12573
+Monte Belo
+BA
+12567
+Sítio do Mato
+BA
+12565
+Dário Meira
+MS
+12548
+Sonora
+RR
+12546
+Mucajaí
+BA
+12545
+Itaguaçu da Bahia
+RJ
+12544
+Engenheiro Paulo de Frontin
+SC
+12536
+Nova Veneza
+BA
+12531
+Nilo Peçanha
+PB
+12526
+Salgado de São Félix
+MG
+12520
+Cambuquira
+MG
+12510
+Astolfo Dutra
+SP
+12509
+São Sebastião da Grama
+RN
+12505
+Pendências
+PB
+12494
+Massaranduba
+RS
+12484
+Cerro Largo
+PR
+12480
+Salto do Lontra
+SC
+12470
+Siderópolis
+SC
+12456
+Bombinhas
+RO
+12455
+Campo Novo de Rondônia
+BA
+12429
+Teolândia
+AC
+12428
+Rodrigues Alves
+PB
+12424
+Brejo do Cruz
+MG
+12422
+Jacinto
+PR
+12418
+Cantagalo
+PR
+12414
+Mallet
+PB
+12413
+Serra Branca
+MA
+12407
+Cidelândia
+AP
+12395
+Tartarugalzinho
+RN
+12393
+Montanhas
+MA
+12387
+Guimarães
+MT
+12386
+Nossa Senhora do Livramento
+SP
+12381
+Duartina
+SE
+12377
+Pacatuba
+RN
+12374
+Governador Dix-Sept Rosado
+RO
+12357
+Monte Negro
+PB
+12356
+Arara
+BA
+12352
+Candiba
+PE
+12352
+Maraial
+ES
+12349
+Santa Leopoldina
+PE
+12348
+Santa Maria do Cambucá
+RS
+12327
+Nonoai
+BA
+12322
+Matina
+BA
+12311
+Capela do Alto Alegre
+BA
+12310
+Terra Nova
+PB
+12305
+Mogeiro
+SP
+12302
+Tarumã
+MG
+12292
+Itaguara
+SP
+12291
+Araçariguama
+RN
+12288
+Poço Branco
+MA
+12281
+São João do Carú
+BA
+12281
+Tabocas do Brejo Velho
+PR
+12265
+Roncador
+MA
+12246
+Campestre do Maranhão
+SP
+12246
+Tapiratiba
+RN
+12236
+Arês
+SP
+12226
+Chavantes
+MA
+12219
+Peri Mirim
+CE
+12215
+Chaval
+RJ
+12206
+Cardoso Moreira
+AL
+12205
+Poço das Trincheiras
+GO
+12187
+Vianópolis
+SP
+12183
+Patrocínio Paulista
+SC
+12175
+Governador Celso Ramos
+BA
+12172
+Nordestina
+RS
+12171
+Cruzeiro do Sul
+MG
+12165
+Martinho Campos
+MT
+12159
+Itiquira
+BA
+12155
+Pau Brasil
+RS
+12154
+Salto do Jacuí
+CE
+12148
+Meruoca
+MS
+12136
+Brasilândia
+BA
+12133
+Caetanos
+CE
+12131
+Miraíma
+CE
+12129
+Aratuba
+BA
+12120
+Serrolândia
+MT
+12108
+Carlinda
+PA
+12103
+Nova Timboteua
+PE
+12102
+Jaqueira
+PE
+12095
+Tacaimbó
+RO
+12086
+Mirante da Serra
+BA
+12074
+Antônio Cardoso
+MA
+12068
+Olinda Nova do Maranhão
+MG
+12060
+Ubaporanga
+CE
+12052
+São Luís do Curu
+SP
+12039
+Cananéia
+MG
+12035
+Andrelândia
+RJ
+12031
+Quatis
+MS
+12026
+Nova Alvorada do Sul
+RN
+12013
+Jardim do Seridó
+SP
+12007
+Morungaba
+MA
+11999
+Primeira Cruz
+PR
+11992
+Santa Mariana
+BA
+11988
+Lamarão
+SP
+11971
+Quatá
+BA
+11938
+Retirolândia
+MS
+11934
+Eldorado
+ES
+11934
+Água Doce do Norte
+PA
+11928
+Curuá
+AL
+11928
+Flexeiras
+SP
+11917
+Urupês
+PA
+11913
+São Francisco do Pará
+SE
+11911
+Carmópolis
+CE
+11905
+Poranga
+RS
+11903
+Mostardas
+AL
+11903
+Novo Lino
+MA
+11887
+Maranhãozinho
+PE
+11880
+Iguaraci
+MG
+11880
+Itanhomi
+BA
+11866
+Saúde
+RS
+11863
+Santo Antônio das Missões
+TO
+11858
+Miranorte
+PR
+11854
+São João do Ivaí
+PE
+11853
+Primavera
+RS
+11843
+Bom Jesus
+MG
+11834
+Ubaí
+PB
+11830
+Fagundes
+MT
+11830
+Juscimeira
+MA
+11829
+Água Doce do Maranhão
+SP
+11817
+Pinhalzinho
+PR
+11804
+Querência do Norte
+AL
+11796
+Branquinha
+MG
+11792
+Lagoa Dourada
+MA
+11786
+Davinópolis
+PR
+11782
+Jaguapitã
+BA
+11771
+Milagres
+RN
+11768
+Taipu
+SP
+11760
+Mineiros do Tietê
+RO
+11757
+Seringueiras
+PR
+11753
+Nova Aurora
+RN
+11744
+São José do Campestre
+RN
+11737
+Guamaré
+SC
+11735
+Lebon Régis
+SE
+11728
+Malhador
+PI
+11722
+Pimenteiras
+PR
+11718
+Três Barras do Paraná
+MA
+11705
+Presidente Juscelino
+MA
+11697
+Igarapé do Meio
+BA
+11694
+Mansidão
+PE
+11689
+Carnaubeira da Penha
+MG
+11686
+São Sebastião do Maranhão
+RS
+11679
+Feliz
+SC
+11675
+Imaruí
+PA
+11673
+São João do Araguaia
+PE
+11669
+Paranatama
+MG
+11665
+Teixeiras
+AL
+11663
+Santana do Mundaú
+BA
+11662
+Araças
+MG
+11656
+Carmo da Cachoeira
+PE
+11655
+Lagoa do Ouro
+SE
+11652
+Santo Amaro das Brotas
+RN
+11649
+Ielmo Marinho
+TO
+11639
+Goiatins
+PE
+11636
+Chã de Alegria
+SE
+11633
+Arauá
+RS
+11626
+Jaguari
+PB
+11619
+Paulista
+PE
+11616
+Cortês
+RO
+11615
+Alto Alegre dos Parecis
+PE
+11610
+Santa Cruz da Baixa Verde
+SE
+11606
+Gararu
+SP
+11605
+Itapuí
+CE
+11591
+Ipaumirim
+MG
+11586
+Nova Ponte
+MA
+11578
+Fortaleza dos Nogueiras
+CE
+11573
+Paramoti
+PR
+11571
+Florestópolis
+MG
+11569
+Gouveia
+PR
+11563
+São Jerônimo da Serra
+GO
+11558
+Santa Terezinha de Goiás
+SC
+11552
+Ilhota
+PE
+11548
+Betânia
+PR
+11548
+Santa Maria do Oeste
+MT
+11540
+Paranaíta
+AC
+11520
+Acrelândia
+BA
+11520
+Itapebi
+PI
+11507
+Avelino Lopes
+MG
+11497
+Itaipé
+ES
+11496
+Iconha
+PI
+11492
+Porto
+PR
+11489
+Uraí
+RS
+11478
+Barra do Ribeiro
+MG
+11476
+Campo do Meio
+PI
+11472
+Simplício Mendes
+BA
+11469
+Iuiú
+AM
+11463
+Canutama
+ES
+11463
+Mantenópolis
+PB
+11451
+Imaculada
+RS
+11450
+Barros Cassal
+RN
+11443
+Alto do Rodrigues
+PR
+11434
+Santa Izabel do Oeste
+RO
+11432
+Governador Jorge Teixeira
+AL
+11430
+Jequiá da Praia
+RS
+11423
+Palmares do Sul
+MG
+11421
+Mário Campos
+SC
+11391
+Campo Alegre
+MG
+11387
+Ferros
+BA
+11385
+Rio do Pires
+SP
+11383
+Ribeirão Bonito
+MG
+11376
+Urucuia
+MA
+11365
+Lima Campos
+CE
+11353
+Ipaporanga
+MA
+11346
+Governador Newton Bello
+PE
+11337
+Calçado
+ES
+11326
+Conceição do Castelo
+BA
+11326
+Gentio do Ouro
+SC
+11325
+Nova Trento
+SP
+11324
+Cardoso
+MG
+11313
+Canápolis
+RN
+11303
+Patu
+PR
+11302
+Nova Laranjeiras
+PB
+11301
+Pilar
+MG
+11294
+Santo Antônio do Jacinto
+AL
+11289
+Quebrangulo
+SP
+11287
+Piratininga
+PA
+11279
+Bonito
+MA
+11267
+São João do Paraíso
+MG
+11265
+Ilicínea
+MS
+11261
+Deodápolis
+SP
+11255
+Tabapuã
+PR
+11247
+Centenário do Sul
+SP
+11246
+Divinolândia
+PR
+11244
+Jataizinho
+RN
+11227
+Angicos
+SC
+11210
+Ponte Serrada
+BA
+11207
+Macajuba
+PR
+11191
+Imbaú
+MG
+11184
+Pedralva
+PR
+11174
+Iretama
+MG
+11172
+Antônio Carlos
+PR
+11169
+Paraíso do Norte
+GO
+11159
+Goianápolis
+MA
+11155
+Santo Amaro do Maranhão
+PE
+11152
+Machados
+MG
+11139
+Mar de Espanha
+GO
+11139
+Piranhas
+RN
+11135
+Brejinho
+PE
+11135
+Poção
+RS
+11130
+Bom Retiro do Sul
+MG
+11127
+Açucena
+BA
+11123
+Itapé
+RR
+11119
+Cantá
+RN
+11115
+São Tomé
+MA
+11113
+São Pedro da Água Branca
+ES
+11111
+Rio Novo do Sul
+CE
+11097
+Pacoti
+MS
+11092
+Paranhos
+BA
+11087
+Dom Basílio
+PI
+11084
+Itainópolis
+PR
+11083
+Piên
+RS
+11074
+Fontoura Xavier
+PI
+11054
+Fronteiras
+BA
+11051
+Saubara
+AL
+11049
+Ouro Branco
+PR
+11036
+Inácio Martins
+SC
+11031
+Turvo
+SP
+11029
+Parapuã
+BA
+11026
+Botuporã
+MG
+11023
+Ibiraci
+RJ
+11009
+Areal
+PE
+11002
+Ferreiros
+CE
+11000
+Ibicuitinga
+PB
+10986
+Manaíra
+PA
+10981
+Colares
+MG
+10976
+Pedras de Maria da Cruz
+MG
+10976
+Ponto dos Volantes
+CE
+10975
+Mulungu
+RN
+10959
+Tibau do Sul
+MG
+10955
+Cristina
+RS
+10950
+Capela de Santana
+ES
+10949
+Brejetuba
+PB
+10943
+Lucena
+MG
+10942
+Carmo da Mata
+GO
+10926
+Paraúna
+BA
+10922
+Brotas de Macaúbas
+MG
+10920
+Estiva
+AL
+10916
+Coité do Nóia
+PR
+10914
+Céu Azul
+RN
+10911
+Acari
+RS
+10910
+Bom Princípio
+SE
+10910
+Moita Bonita
+PB
+10908
+São Sebastião de Lagoa de Roça
+PR
+10900
+São João
+GO
+10892
+Caçu
+MG
+10891
+Virginópolis
+RN
+10890
+Cerro Corá
+PR
+10887
+Tamarana
+AL
+10885
+Dois Riachos
+RS
+10883
+Cidreira
+PR
+10882
+Ribeirão Claro
+SP
+10875
+Avanhandava
+SC
+10871
+Quilombo
+RS
+10870
+Seberi
+BA
+10865
+Banzaê
+MG
+10864
+Bueno Brandão
+RS
+10857
+Porto Xavier
+TO
+10856
+Xambioá
+MG
+10851
+Iapu
+MG
+10834
+Setubinha
+PB
+10832
+Dona Inês
+PI
+10830
+Capitão de Campos
+MG
+10828
+Itamogi
+MG
+10820
+Cachoeira de Minas
+RS
+10817
+Vale do Sol
+MG
+10809
+Rio Paranaíba
+ES
+10802
+Laranja da Terra
+MG
+10776
+Coroaci
+MT
+10774
+Jauru
+SC
+10773
+Rodeio
+GO
+10769
+Maurilândia
+MG
+10769
+São João das Missões
+AP
+10765
+Vitória do Jari
+PR
+10753
+Primeiro de Maio
+MG
+10751
+Jordânia
+SC
+10738
+Jacinto Machado
+SC
+10719
+Itapoá
+BA
+10717
+Arataca
+BA
+10716
+Marcionílio Souza
+MT
+10713
+São Félix do Araguaia
+BA
+10712
+Sebastião Laranjeiras
+ES
+10701
+Jerônimo Monteiro
+MG
+10686
+Piraúba
+MT
+10682
+Querência
+RJ
+10677
+Carapebus
+MA
+10676
+Igarapé Grande
+SP
+10671
+Joanópolis
+MT
+10670
+Cláudia
+MS
+10659
+Sete Quedas
+BA
+10653
+Antônio Gonçalves
+CE
+10649
+Ararendá
+RN
+10640
+Umarizal
+PR
+10639
+Balsa Nova
+SC
+10638
+Cunha Porã
+MG
+10631
+Cristais
+SP
+10630
+Areiópolis
+TO
+10626
+Arraias
+SP
+10626
+General Salgado
+BA
+10609
+Érico Cardoso
+SC
+10604
+Guaraciaba
+RS
+10602
+Xangri-lá
+BA
+10599
+Jucuruçu
+RS
+10589
+Planalto
+MG
+10582
+Santa Juliana
+BA
+10577
+Canápolis
+MA
+10576
+Matões do Norte
+MA
+10576
+Serrano do Maranhão
+BA
+10571
+Chorrochó
+ES
+10570
+São José do Calçado
+ES
+10569
+Itarana
+MS
+10564
+Batayporã
+BA
+10564
+Santa Inês
+PI
+10558
+Itaueira
+BA
+10551
+Pintadas
+AM
+10547
+Caapiranga
+BA
+10541
+Caraíbas
+PR
+10537
+Itapejara d'Oeste
+MG
+10537
+Resende Costa
+MA
+10537
+Santana do Maranhão
+AL
+10522
+Olivença
+TO
+10518
+Nova Olinda
+RS
+10517
+Balneário Pinhal
+SP
+10515
+Getulina
+SP
+10515
+São Bento do Sapucaí
+SC
+10510
+Gravatal
+CE
+10508
+Catunda
+SP
+10508
+Palmares Paulista
+PE
+10500
+Jucati
+SP
+10496
+São Luís do Paraitinga
+TO
+10491
+Paranã
+SP
+10487
+Bernardino de Campos
+GO
+10485
+Rialma
+MT
+10484
+Tabaporã
+MG
+10482
+Bom Repouso
+MT
+10478
+Tapurah
+BA
+10477
+São José do Jacuípe
+PR
+10468
+Cidade Gaúcha
+PI
+10465
+Matias Olímpio
+PA
+10463
+Primavera
+RN
+10462
+Campo Redondo
+PR
+10461
+Mariluz
+RS
+10457
+Tapera
+PA
+10452
+Cumaru do Norte
+MA
+10452
+Godofredo Viana
+MG
+10452
+Mercês
+PR
+10452
+Nova Prata do Iguaçu
+MG
+10445
+Santa Maria de Itabira
+ES
+10439
+São Roque do Canaã
+SC
+10439
+Urubici
+RJ
+10438
+Duas Barras
+MG
+10428
+Guaraciaba
+SP
+10428
+Palestina
+SP
+10425
+Rincão
+PE
+10424
+Moreilândia
+MG
+10414
+Ninheira
+RN
+10412
+Lajes
+PR
+10412
+Missal
+GO
+10409
+Mara Rosa
+RJ
+10409
+Santa Maria Madalena
+MG
+10404
+Porto Firme
+RS
+10390
+Três Cachoeiras
+MA
+10385
+Capinzal do Norte
+MA
+10384
+Duque Bacelar
+GO
+10382
+Flores de Goiás
+SP
+10379
+Ibirá
+BA
+10377
+Caém
+TO
+10372
+Babaçulândia
+RN
+10372
+Passa e Fica
+SC
+10372
+São Carlos
+ES
+10369
+Irupi
+BA
+10367
+Caatiba
+PI
+10360
+Curimatá
+SP
+10357
+Guaiçara
+CE
+10352
+Palmácia
+PI
+10351
+Gilbués
+BA
+10350
+Potiraguá
+MT
+10349
+Denise
+PI
+10343
+Caracol
+RO
+10343
+Ministro Andreazza
+MA
+10340
+Loreto
+RN
+10339
+Afonso Bezerra
+SC
+10339
+Faxinal dos Guedes
+MG
+10338
+Itabirinha
+PI
+10335
+Monte Alegre do Piauí
+SP
+10334
+Nhandeara
+BA
+10333
+Floresta Azul
+MG
+10331
+Icaraí de Minas
+PI
+10329
+Dom Inocêncio
+MG
+10327
+Novo Oriente de Minas
+SP
+10323
+Queluz
+PI
+10321
+Monsenhor Gil
+AL
+10321
+Porto de Pedras
+MG
+10317
+Engenheiro Caldas
+SP
+10315
+Pirangi
+RS
+10315
+Sinimbu
+PI
+10313
+Parnaguá
+RN
+10313
+Vera Cruz
+ES
+10312
+Ibiraçu
+MG
+10308
+São Gonçalo do Pará
+ES
+10307
+Presidente Kennedy
+MA
+10304
+Alto Parnaíba
+CE
+10304
+Martinópole
+BA
+10304
+Novo Horizonte
+SC
+10304
+São José do Cerrito
+SC
+10300
+Sangão
+SP
+10299
+Bocaina
+BA
+10295
+Bom Jesus da Serra
+TO
+10294
+Pedro Afonso
+MG
+10291
+Eugenópolis
+MG
+10289
+Planura
+MG
+10289
+São Tiago
+SC
+10287
+Irineópolis
+GO
+10286
+Firminópolis
+PE
+10283
+Cedro
+MT
+10279
+Feliz Natal
+PR
+10275
+Ventania
+SP
+10272
+Luís Antônio
+CE
+10270
+Alcântaras
+SC
+10270
+Apiúna
+MG
+10270
+Matias Cardoso
+BA
+10270
+São Miguel das Matas
+MG
+10269
+Francisco Badaró
+MG
+10266
+Chapada Gaúcha
+MG
+10261
+Fervedouro
+PB
+10253
+Bonito de Santa Fé
+GO
+10251
+Edéia
+PR
+10247
+Joaquim Távora
+SC
+10246
+Coronel Freitas
+SC
+10246
+São Ludgero
+PB
+10240
+Juripiranga
+MG
+10240
+Pirapetinga
+MA
+10235
+Sucupira do Norte
+MG
+10234
+Dionísio
+SP
+10233
+Bananal
+PI
+10232
+Baixa Grande do Ribeiro
+PB
+10232
+Pirpirituba
+RR
+10231
+Bonfim
+CE
+10227
+Abaiara
+ES
+10226
+Marilândia
+MA
+10225
+Lagoa do Mato
+MG
+10224
+Serra do Salitre
+PB
+10222
+Juru
+TO
+10221
+São Miguel do Tocantins
+MG
+10219
+Centralina
+PB
+10216
+Natuba
+MG
+10215
+Conceição da Aparecida
+PR
+10210
+Alto Piquiri
+RS
+10210
+Arvorezinha
+AL
+10209
+Pariconha
+MS
+10208
+Guia Lopes da Laguna
+MG
+10204
+Conceição dos Ouros
+AL
+10203
+Maravilha
+MG
+10203
+Urucânia
+MG
+10201
+Senhora dos Remédios
+MG
+10197
+Miradouro
+MG
+10194
+Recreio
+MG
+10145
+Carbonita
+RN
+10132
+Espírito Santo
+SE
+10128
+São Domingos
+BA
+10106
+Itapitanga
+BA
+10096
+Muquém de São Francisco
+PB
+10032
+Nova Floresta
+SP
+10020
+Vera Cruz
+MA
+10003
+Nina Rodrigues
+MA
+9982
+Cajapió
+MG
+9968
+Bela Vista de Minas
+RO
+9952
+Theobroma
+PE
+9934
+Santa Terezinha
+SP
+9923
+Euclides da Cunha Paulista
+RS
+9922
+Roca Sales
+MA
+9920
+Governador Archer
+MA
+9918
+Araguanã
+BA
+9914
+Santa Teresinha
+ES
+9890
+Governador Lindenberg
+GO
+9875
+Cavalcante
+MT
+9869
+Arenápolis
+GO
+9864
+Petrolina de Goiás
+PA
+9861
+Terra Alta
+AM
+9859
+Uarini
+AL
+9843
+Cacimbinhas
+RS
+9842
+Constantina
+SC
+9841
+Benedito Novo
+MA
+9841
+Cedral
+PB
+9841
+Itatuba
+PE
+9836
+Angelim
+RS
+9816
+Pantano Grande
+MA
+9798
+Presidente Vargas
+PE
+9790
+São Benedito do Sul
+GO
+9786
+São Domingos
+PR
+9781
+Teixeira Soares
+CE
+9780
+Jaguaribara
+PR
+9774
+Santa Fé
+RN
+9763
+Luís Gomes
+BA
+9758
+Jandaíra
+SC
+9754
+Alfredo Wagner
+RN
+9753
+Rio do Fogo
+PB
+9737
+Seridó
+AL
+9725
+Paripueira
+SP
+9713
+Riolândia
+RS
+9709
+Terra de Areia
+RJ
+9706
+Trajano de Morais
+GO
+9697
+Campinorte
+SC
+9696
+Canelinha
+PA
+9693
+Vitória do Xingu
+MG
+9692
+Congonhal
+SP
+9692
+Pedro de Toledo
+SC
+9685
+Rio dos Cedros
+CE
+9670
+Potengi
+RS
+9654
+Ronda Alta
+PE
+9649
+Belém de Maria
+RO
+9648
+Novo Horizonte do Oeste
+MS
+9644
+Glória de Dourados
+MT
+9639
+Porto Alegre do Norte
+SP
+9634
+Palmeira d'Oeste
+PB
+9624
+Triunfo
+BA
+9617
+Lençóis
+MA
+9616
+Lago do Junco
+SP
+9616
+Taguaí
+MT
+9606
+Porto Esperidião
+RS
+9600
+Redentora
+PA
+9592
+Inhangapi
+SC
+9590
+Campo Erê
+PI
+9587
+Guadalupe
+PR
+9578
+Catanduvas
+PR
+9569
+São Pedro do Ivaí
+PE
+9567
+Verdejante
+AL
+9563
+Campo Grande
+MG
+9561
+Rubim
+PI
+9560
+Beneditinos
+PB
+9549
+Campo de Santana
+PR
+9533
+Bocaiúva do Sul
+BA
+9527
+Aramari
+BA
+9523
+Anguera
+MG
+9522
+Buenópolis
+SP
+9519
+Cajobi
+PI
+9518
+Cristino Castro
+PR
+9513
+Paranacity
+BA
+9507
+Ibiassucê
+PI
+9506
+Sigefredo Pacheco
+RS
+9499
+Catuípe
+MG
+9490
+Caetanópolis
+MG
+9487
+Guarani
+CE
+9483
+Pires Ferreira
+RO
+9476
+Corumbiara
+MG
+9466
+Coqueiral
+CE
+9456
+Groaíras
+RN
+9441
+Grossos
+RS
+9440
+Chapada
+PI
+9438
+Cabeceiras do Piauí
+MG
+9435
+Antônio Dias
+SP
+9408
+Valentim Gentil
+MG
+9394
+São João do Manhuaçu
+SP
+9393
+Rinópolis
+MG
+9392
+Riacho dos Machados
+PR
+9378
+Santa Tereza do Oeste
+TO
+9358
+Ananás
+PI
+9354
+Ipiranga do Piauí
+MS
+9350
+Dois Irmãos do Buriti
+BA
+9348
+Quixabeira
+SP
+9348
+Uchoa
+SC
+9346
+São Domingos
+PE
+9341
+Brejão
+BA
+9337
+Brejolândia
+PR
+9334
+Pérola
+ES
+9318
+Bom Jesus do Norte
+PB
+9317
+Mulungu
+TO
+9317
+Wanderlândia
+SC
+9313
+Irani
+PI
+9312
+Betânia do Piauí
+RN
+9311
+Tenente Ananias
+TO
+9302
+Sítio Novo do Tocantins
+RN
+9284
+Carnaubais
+MG
+9281
+Coluna
+ES
+9281
+Águia Branca
+MG
+9276
+Dores de Campos
+RO
+9264
+Santa Luzia D'Oeste
+GO
+9255
+Montividiu
+MS
+9236
+Aral Moreira
+RS
+9233
+Cerro Grande do Sul
+MG
+9233
+São Gonçalo do Rio Abaixo
+PB
+9224
+Água Branca
+RN
+9216
+Serra do Mel
+PR
+9212
+Icaraíma
+MS
+9203
+Tacuru
+BA
+9199
+Santanópolis
+MG
+9194
+Tombos
+GO
+9190
+Corumbá de Goiás
+MT
+9188
+Vera
+SP
+9185
+Estiva Gerbi
+MG
+9183
+Ipuiúna
+SC
+9180
+Lontras
+BA
+9174
+Mirante
+PB
+9173
+Umbuzeiro
+MG
+9171
+São Geraldo
+PI
+9146
+Queimada Nova
+SC
+9141
+Anita Garibaldi
+AM
+9141
+Itapiranga
+MT
+9132
+Alto Garças
+RS
+9126
+Entre-Ijuís
+SC
+9126
+Mondaí
+RS
+9122
+Santa Bárbara do Sul
+MG
+9120
+Coronel Murta
+SP
+9111
+Holambra
+CE
+9108
+Deputado Irapuan Pinheiro
+SP
+9107
+Serra Azul
+PR
+9099
+Vera Cruz do Oeste
+TO
+9090
+Natividade
+MG
+9089
+Cachoeira de Pajeú
+SE
+9087
+Riachuelo
+MG
+9086
+Paula Cândido
+SC
+9080
+Agrolândia
+MG
+9080
+São Romão
+MG
+9078
+Santa Rita de Caldas
+SP
+9074
+Iacanga
+MA
+9071
+Senador Alexandre Costa
+PE
+9057
+Terra Nova
+BA
+9054
+Varzedo
+SP
+9047
+Nova Europa
+SP
+9045
+Guaraci
+MG
+9033
+Cordisburgo
+PR
+9027
+Barracão
+SC
+9025
+Santa Terezinha
+PR
+9023
+Rondon
+BA
+9019
+Candeal
+SP
+9016
+Roseira
+MA
+9015
+Lagoa Grande do Maranhão
+PR
+9014
+Alvorada do Sul
+ES
+8994
+Ibitirama
+TO
+8989
+Araguaçu
+SC
+8986
+Luiz Alves
+PR
+8979
+São Jorge d'Oeste
+RS
+8972
+Alpestre
+RN
+8969
+Maxaranguape
+MG
+8953
+Itatiaiuçu
+BA
+8943
+Nova Redenção
+SP
+8942
+Paulo de Faria
+RN
+8936
+Augusto Severo
+PR
+8932
+Marilândia do Sul
+BA
+8931
+Ipupiara
+BA
+8931
+Jaborandi
+SP
+8918
+Torrinha
+TO
+8917
+Axixá do Tocantins
+GO
+8916
+Leopoldo de Bulhões
+MG
+8914
+Rio Novo
+MG
+8906
+Guiricema
+GO
+8897
+Carmo do Rio Verde
+BA
+8897
+Piraí do Norte
+MG
+8880
+São Pedro dos Ferros
+ES
+8878
+Atilio Vivacqua
+SP
+8875
+Ilha Comprida
+MG
+8874
+Prudente de Morais
+MG
+8873
+Frei Inocêncio
+MG
+8868
+Pavão
+MG
+8859
+Carneirinho
+MG
+8855
+Caputira
+SC
+8854
+Monte Carlo
+MA
+8831
+Cachoeira Grande
+MA
+8828
+Montes Altos
+PR
+8825
+Jesuítas
+SP
+8825
+Neves Paulista
+RJ
+8820
+Aperibé
+BA
+8818
+São Domingos
+PR
+8814
+Tomazina
+RN
+8810
+São Miguel do Gostoso
+CE
+8797
+Palhano
+BA
+8793
+Maetinga
+RS
+8793
+Tuparendi
+MG
+8787
+Bonito de Minas
+RS
+8782
+General Câmara
+MA
+8776
+Central do Maranhão
+MG
+8769
+Pocrane
+MG
+8763
+Capim Branco
+TO
+8759
+Colméia
+SP
+8751
+Dourado
+RO
+8751
+Vale do Anari
+TO
+8750
+Peixe
+RO
+8742
+Vale do Paraíso
+CE
+8734
+Tarrafas
+SC
+8733
+Catanduvas
+MT
+8731
+Juruena
+AM
+8731
+São Sebastião do Uatumã
+SP
+8727
+Urânia
+MG
+8720
+Comercinho
+GO
+8710
+Itauçu
+SC
+8705
+Descanso
+ES
+8705
+Vila Pavão
+RS
+8683
+Nova Bassano
+PR
+8681
+São Sebastião da Amoreira
+MT
+8677
+Ribeirão Cascalheira
+MA
+8671
+Vila Nova dos Martírios
+MG
+8660
+Lagoa Grande
+AM
+8658
+Juruá
+AP
+8656
+Calçoene
+MG
+8653
+Pratápolis
+SP
+8651
+Manduri
+RR
+8640
+Pacaraima
+BA
+8638
+Abaíra
+PB
+8619
+Barra de Santana
+RJ
+8616
+São Sebastião do Alto
+BA
+8610
+Wagner
+MA
+8603
+Bela Vista do Maranhão
+RS
+8599
+Santana da Boa Vista
+SE
+8598
+Ilha das Flores
+PR
+8598
+Tuneiras do Oeste
+SP
+8592
+Salto Grande
+BA
+8591
+Lajedo do Tabocal
+SP
+8590
+Estrela d'Oeste
+SC
+8587
+Saudades
+BA
+8586
+Morpará
+PR
+8581
+Itaipulândia
+SP
+8573
+Herculândia
+BA
+8569
+Várzea do Poço
+SP
+8565
+Bofete
+PR
+8552
+Congonhinhas
+MG
+8549
+Santana de Pirapama
+BA
+8545
+Caturama
+SP
+8537
+Igaratá
+BA
+8518
+Cordeiros
+SE
+8518
+Rosário do Catete
+SE
+8517
+Nossa Senhora Aparecida
+PR
+8509
+Santa Isabel do Ivaí
+BA
+8507
+Aratuípe
+SP
+8505
+Guaraçaí
+MG
+8494
+Passa Tempo
+PE
+8487
+Palmeirina
+RN
+8478
+Bom Jesus
+MG
+8477
+Igaratinga
+SP
+8474
+Nova Campina
+BA
+8472
+Planaltino
+GO
+8470
+Nova Glória
+RS
+8468
+Iraí
+BA
+8468
+Itamari
+RN
+8466
+Baía Formosa
+BA
+8465
+Jussiape
+AC
+8446
+Capixaba
+MA
+8431
+São Francisco do Brejão
+PI
+8420
+Ilha Grande
+SC
+8410
+Tangará
+MA
+8399
+Satubinha
+SE
+8389
+Pedrinhas
+PB
+8388
+Cachoeira dos Índios
+AM
+8384
+Amaturá
+RS
+8381
+Casca
+MS
+8380
+Anaurilândia
+PR
+8380
+Figueira
+GO
+8372
+Bom Jardim de Goiás
+RS
+8361
+São Vicente do Sul
+MG
+8351
+Virgínia
+MS
+8350
+Antônio João
+MG
+8345
+Serra dos Aimorés
+GO
+8344
+Doverlândia
+RS
+8331
+Guarani das Missões
+BA
+8324
+Maiquinique
+RJ
+8322
+Comendador Levy Gasparian
+PR
+8317
+Nova Tebas
+RN
+8313
+Florânia
+CE
+8310
+São João do Jaguaribe
+RJ
+8309
+Varre-Sai
+MS
+8307
+Pedro Gomes
+BA
+8306
+Teodoro Sampaio
+MG
+8299
+Rubelita
+MG
+8297
+Morada Nova de Minas
+RN
+8294
+Januário Cicco
+PI
+8293
+Francisco Santos
+GO
+8287
+Buriti Alegre
+RN
+8283
+Presidente Juscelino
+BA
+8280
+Cardeal da Silva
+RS
+8279
+Jóia
+PR
+8275
+Borrazópolis
+MG
+8274
+Baldim
+PI
+8263
+Redenção do Gurguéia
+MT
+8261
+Dom Aquino
+MG
+8260
+Juruaia
+SC
+8258
+Bom Retiro
+MG
+8257
+Rio Acima
+PE
+8257
+Tuparetama
+SP
+8255
+Ariranha
+MA
+8255
+Jatobá
+PR
+8248
+Japurá
+RS
+8236
+Candiota
+PB
+8236
+Gado Bravo
+MG
+8232
+Japonvar
+SE
+8227
+Pirambu
+TO
+8220
+Lagoa da Confusão
+GO
+8217
+Alvorada do Norte
+RS
+8212
+Erval Seco
+AM
+8211
+Silves
+GO
+8208
+Itapirapuã
+PI
+8197
+Anísio de Abreu
+PR
+8192
+Agudos do Sul
+RJ
+8192
+Rio das Flores
+SP
+8187
+Sales Oliveira
+MG
+8185
+Santana do Manhuaçu
+GO
+8177
+São João d'Aliança
+SP
+8173
+São José da Bela Vista
+AC
+8170
+Porto Walter
+MS
+8168
+Bodoquena
+MG
+8168
+Prados
+TO
+8164
+Buriti do Tocantins
+MG
+8164
+Pimenta
+SP
+8158
+Sarapuí
+SP
+8155
+Terra Roxa
+AM
+8152
+Anamã
+SP
+8151
+Rafard
+MT
+8144
+Alto Paraguai
+AL
+8139
+Olho d'Água do Casado
+TO
+8134
+Esperantina
+MT
+8133
+Nova Monte Verde
+MG
+8131
+Claro dos Poções
+MG
+8130
+Angelândia
+MG
+8126
+Riachinho
+MG
+8122
+Pains
+TO
+8120
+Palmeirópolis
+RN
+8116
+São Rafael
+RS
+8115
+Lavras do Sul
+SC
+8113
+Monte Castelo
+RN
+8112
+Marcelino Vieira
+MA
+8105
+Fernando Falcão
+GO
+8103
+Cachoeira Alta
+SC
+8091
+Iporã do Oeste
+SC
+8089
+Balneário Arroio do Silva
+RN
+8089
+Martins
+AM
+8078
+Itamarati
+SP
+8069
+Porangaba
+RS
+8058
+Ametista do Sul
+MT
+8058
+Jangada
+PB
+8057
+Riacho dos Cavalos
+PR
+8054
+Nova Fátima
+AL
+8044
+Carneiros
+PI
+8044
+Nossa Senhora dos Remédios
+BA
+8040
+Palmeiras
+RS
+8039
+Pedro Osório
+RN
+8030
+Pureza
+MG
+8029
+Araponga
+MG
+8029
+Jequitaí
+MG
+8029
+Verdelândia
+PI
+8011
+Assunção do Piauí
+CE
+8005
+Moraújo
+PR
+8002
+Verê
+GO
+8001
+Corumbaíba
+MG
+7994
+Arceburgo
+PR
+7993
+Goioxim
+MG
+7988
+São João do Oriente
+SP
+7984
+Lavínia
+MG
+7979
+Lontra
+MG
+7976
+Alto Jequitibá
+TO
+7976
+Alvorada
+SC
+7968
+Campo Belo do Sul
+SP
+7953
+Tapiraí
+SC
+7949
+Santa Rosa do Sul
+SC
+7942
+Palma Sola
+PB
+7929
+Desterro
+MT
+7926
+Apiacás
+PR
+7924
+Santa Cruz de Monte Castelo
+PE
+7921
+Camutanga
+BA
+7907
+Elísio Medrado
+RO
+7905
+Itapuã do Oeste
+RS
+7873
+Coronel Bicaco
+PI
+7862
+Lagoa Alegre
+SP
+7862
+Santa Lúcia
+MG
+7852
+Divisópolis
+MG
+7849
+Piranguinho
+GO
+7844
+Montes Claros de Goiás
+ES
+7840
+São Domingos do Norte
+MG
+7834
+Delfim Moreira
+RS
+7825
+Boqueirão do Leão
+RN
+7825
+Cruzeta
+PB
+7825
+Jericó
+PI
+7820
+Buriti dos Montes
+PR
+7818
+Boa Vista da Aparecida
+PR
+7814
+Mauá da Serra
+PB
+7810
+São José da Lagoa Tapada
+MT
+7808
+Castanheira
+BA
+7802
+Ouriçangas
+PI
+7800
+Cristalândia do Piauí
+PR
+7795
+Nova Cantu
+PR
+7792
+Ivaté
+PR
+7791
+Abatiá
+PI
+7790
+Isaías Coelho
+RN
+7788
+Jaçanã
+TO
+7787
+Filadélfia
+MT
+7782
+Nova Ubiratã
+PB
+7782
+São Mamede
+MA
+7780
+Lago dos Rodrigues
+BA
+7779
+Macururé
+PE
+7770
+Salgadinho
+RJ
+7769
+Laje do Muriaé
+SP
+7767
+Bálsamo
+SE
+7760
+Brejo Grande
+PR
+7755
+Tupãssi
+RO
+7750
+Nova União
+PR
+7732
+Guaraqueçaba
+RS
+7728
+Minas do Leão
+MG
+7727
+Pintópolis
+GO
+7724
+Paranaiguara
+MG
+7722
+Itapeva
+MG
+7716
+Nazareno
+CE
+7715
+Penaforte
+SP
+7714
+Sud Mennucci
+PI
+7699
+Brasileira
+PR
+7684
+Juranda
+PI
+7680
+Madeiro
+PA
+7679
+Peixe-Boi
+BA
+7674
+Nova Fátima
+BA
+7673
+Itaju do Colônia
+SP
+7668
+Ouro Verde
+SP
+7664
+Dobrada
+PI
+7662
+Colônia do Piauí
+PI
+7655
+Murici dos Portelas
+RS
+7652
+Bossoroca
+PB
+7651
+Serra Redonda
+PA
+7650
+Magalhães Barata
+MA
+7648
+Feira Nova do Maranhão
+GO
+7647
+Sanclerlândia
+PR
+7641
+Grandes Rios
+MG
+7636
+Lagamar
+MG
+7634
+Capitólio
+MG
+7632
+Iguatama
+PB
+7630
+Baía da Traição
+SP
+7620
+Barra do Turvo
+BA
+7620
+Malhada de Pedras
+MT
+7619
+Barão de Melgaço
+PB
+7618
+Juarez Távora
+SE
+7618
+Siriri
+ES
+7617
+Apiacá
+MA
+7617
+Milagres do Maranhão
+RS
+7616
+Paverama
+TO
+7615
+Campos Lindos
+PB
+7610
+Santana dos Garrotes
+SP
+7607
+Cedral
+CE
+7591
+Umari
+BA
+7589
+Tanquinho
+RR
+7586
+Amajari
+PR
+7582
+Nova Santa Rosa
+PE
+7577
+Calumbi
+MG
+7571
+Ibiaí
+GO
+7567
+Cachoeira Dourada
+BA
+7564
+Itaquara
+SP
+7557
+Dumont
+SP
+7556
+Irapuru
+PR
+7548
+Guamiranga
+PR
+7546
+Califórnia
+PE
+7545
+Ibirajuba
+BA
+7534
+Ibirapuã
+AL
+7534
+Paulo Jacinto
+PR
+7532
+Formosa do Oeste
+SP
+7504
+Arealva
+PE
+7500
+Vertente do Lério
+AP
+7492
+Amapá
+TO
+7488
+Almas
+SP
+7487
+Iepê
+GO
+7482
+Araguapaz
+MG
+7482
+Indaiabira
+PR
+7480
+Coronel Domingos Soares
+PR
+7477
+Antônio Olinto
+AL
+7463
+Japaratinga
+CE
+7462
+Itaiçaba
+MG
+7458
+Mata Verde
+RO
+7456
+Chupinguaia
+MG
+7451
+Santa Bárbara do Leste
+PB
+7450
+Olho d'Água
+PI
+7447
+Alagoinha do Piauí
+PA
+7444
+Brejo Grande do Araguaia
+SP
+7444
+Itobi
+SC
+7432
+Salete
+BA
+7423
+Nova Itarana
+MG
+7416
+Tiros
+RN
+7405
+Pedro Avelino
+RR
+7403
+Uiramutã
+SP
+7396
+Macaubal
+MG
+7391
+Monsenhor Paulo
+MA
+7385
+Boa Vista do Gurupi
+RS
+7382
+São Miguel das Missões
+BA
+7379
+Apuarema
+RS
+7374
+Maquiné
+MG
+7370
+Serrania
+SP
+7367
+Águas da Prata
+MA
+7365
+Altamira do Maranhão
+MS
+7362
+Japorã
+GO
+7361
+Cezarina
+MG
+7358
+Nova Porteirinha
+RS
+7357
+Alecrim
+RS
+7348
+Paraíso do Sul
+SP
+7347
+Pereiras
+MG
+7347
+Santa Cruz de Minas
+MS
+7342
+Inocência
+PI
+7340
+Padre Marcos
+PB
+7340
+Sobrado
+SC
+7337
+Major Vieira
+GO
+7333
+Serranópolis
+AP
+7332
+Pedra Branca do Amapari
+PB
+7323
+Aparecida
+MG
+7321
+Guidoval
+PB
+7314
+Caiçara
+SC
+7312
+Armazém
+MG
+7310
+Perdigão
+SC
+7307
+Balneário Gaivota
+CE
+7302
+Arneiroz
+MG
+7302
+Galiléia
+RS
+7297
+Roque Gonzales
+MT
+7293
+Santa Terezinha
+PB
+7287
+Marcação
+MA
+7282
+São José dos Basílios
+SC
+7278
+Balneário Barra do Sul
+SP
+7275
+Natividade da Serra
+RS
+7273
+Augusto Pestana
+CE
+7270
+Jati
+MG
+7267
+Belo Vale
+RS
+7261
+Ajuricaba
+MG
+7259
+Montezuma
+PB
+7258
+Lagoa de Dentro
+MS
+7253
+Angélica
+MG
+7253
+Inconfidentes
+AL
+7248
+Santa Luzia do Norte
+AL
+7247
+Barra de São Miguel
+GO
+7243
+Aragoiânia
+RN
+7241
+Serra Negra do Norte
+AL
+7238
+Belo Monte
+BA
+7238
+Pedrão
+MG
+7225
+Jacuí
+SE
+7225
+Muribeca
+GO
+7223
+Nazário
+AL
+7219
+São Miguel dos Milagres
+BA
+7215
+Irajuba
+PR
+7204
+Luiziana
+MG
+7201
+Araújos
+RN
+7179
+Lagoa Salgada
+BA
+7174
+Vereda
+MA
+7170
+Ribamar Fiquene
+PI
+7163
+Monsenhor Hipólito
+MS
+7162
+Santa Rita do Pardo
+PE
+7158
+Brejinho
+PA
+7156
+Palestina do Pará
+GO
+7155
+Monte Alegre de Goiás
+MG
+7154
+Capetinga
+PI
+7154
+Marcolândia
+AC
+7148
+Manoel Urbano
+MG
+7136
+Estrela do Sul
+RS
+7131
+Caraá
+SC
+7120
+Praia Grande
+SC
+7118
+Ipumirim
+RR
+7118
+Normandia
+RS
+7116
+Formigueiro
+PB
+7105
+Livramento
+SC
+7095
+Ouro
+MA
+7094
+Centro do Guilherme
+RS
+7094
+Ibiraiaras
+PR
+7094
+Reserva do Iguaçu
+SP
+7094
+São Pedro do Turvo
+MG
+7092
+Santana da Vargem
+AL
+7090
+Monteirópolis
+SC
+7087
+Antônio Carlos
+RR
+7086
+Caroebe
+MG
+7083
+Sericita
+PI
+7081
+São João do Arraial
+MG
+7079
+Engenheiro Navarro
+BA
+7062
+Guajeru
+TO
+7060
+Dois Irmãos do Tocantins
+TO
+7060
+Praia Norte
+BA
+7049
+Itagimirim
+PB
+7047
+Cuitegi
+PR
+7046
+Pérola d'Oeste
+MG
+7041
+Palmópolis
+PB
+7040
+Belém do Brejo do Cruz
+SP
+7035
+Ouroeste
+SP
+7034
+Santo Antônio do Aracanguá
+PR
+7032
+Janiópolis
+PR
+7032
+Paulo Frontin
+PI
+7030
+Milton Brandão
+MG
+7030
+Periquito
+RS
+7026
+Cristal
+BA
+7023
+Rodelas
+RS
+7022
+Segredo
+MG
+7019
+Senador Firmino
+PB
+7016
+Santa Cecília
+MG
+7007
+Alpercata
+SP
+7005
+Cristais Paulista
+RN
+6997
+Antônio Martins
+SP
+6993
+Reginópolis
+BA
+6990
+Muniz Ferreira
+RN
+6989
+Lagoa de Pedras
+PB
+6984
+Mataraca
+PI
+6981
+Cajueiro da Praia
+SC
+6979
+Timbó Grande
+RS
+6973
+São José do Ouro
+MG
+6965
+Barra Longa
+RS
+6959
+Cambará do Sul
+MG
+6958
+São José do Jacuri
+SP
+6957
+Monte Alegre do Sul
+AL
+6953
+Chã Preta
+MA
+6953
+São Domingos do Azeitão
+SP
+6951
+Cosmorama
+PI
+6947
+Nazaré do Piauí
+MG
+6946
+Guimarânia
+PB
+6936
+Pilões
+PR
+6935
+Itambaracá
+MG
+6934
+São Tomás de Aquino
+PB
+6933
+Nazarezinho
+MG
+6932
+Durandé
+SP
+6928
+Ribeirão Grande
+RS
+6928
+Tiradentes do Sul
+CE
+6927
+Ererê
+RS
+6924
+Barão do Triunfo
+GO
+6918
+Faina
+SC
+6916
+São João do Sul
+GO
+6915
+Simolândia
+MG
+6914
+Desterro de Entre Rios
+RS
+6908
+Glorinha
+MG
+6907
+Curral de Dentro
+SP
+6905
+Bilac
+MG
+6905
+Jenipapo de Minas
+RS
+6905
+Palmitinho
+MA
+6900
+Porto Rico do Maranhão
+MG
+6896
+Salto da Divisa
+MG
+6886
+Coimbra
+MA
+6884
+Governador Luiz Rocha
+GO
+6884
+Nova Veneza
+AL
+6883
+Jacuípe
+SP
+6883
+Vargem
+SC
+6880
+Meleiro
+MT
+6880
+Novo São Joaquim
+GO
+6877
+Mundo Novo
+PR
+6877
+Quatiguá
+PE
+6875
+Quixaba
+RS
+6873
+Herval
+BA
+6871
+Nova Ibiá
+SP
+6870
+Catiguá
+PR
+6862
+Cambira
+BA
+6857
+Jussari
+MG
+6855
+Machacalis
+RN
+6855
+Portalegre
+BA
+6845
+Gongogi
+MG
+6840
+Maravilhas
+TO
+6839
+Arapoema
+RN
+6836
+Carnaúba dos Dantas
+MG
+6832
+Ouro Verde de Minas
+ES
+6831
+Ponto Belo
+SC
+6830
+Paulo Lopes
+RJ
+6829
+São José de Ubá
+MG
+6828
+São João Batista do Glória
+RN
+6824
+Riachuelo
+AL
+6820
+São Brás
+MG
+6820
+São Miguel do Anta
+MG
+6817
+Santo Antônio do Retiro
+SP
+6812
+Gália
+PB
+6810
+Pedra Lavrada
+PI
+6808
+São José do Piauí
+SC
+6795
+Rio do Oeste
+MA
+6790
+Marajá do Sena
+PB
+6787
+Cacimbas
+RS
+6784
+Manoel Viana
+MG
+6771
+Orizânia
+PB
+6762
+Casserengue
+PR
+6762
+Renascença
+CE
+6761
+Antonina do Norte
+SC
+6761
+Ascurra
+SC
+6756
+Água Doce
+MG
+6754
+Moema
+PR
+6744
+Boa Ventura de São Roque
+GO
+6744
+Bonfinópolis
+RN
+6740
+Serrinha
+GO
+6731
+Joviânia
+PI
+6726
+Campo Largo do Piauí
+MT
+6725
+Novo Mundo
+MG
+6724
+Divinolândia de Minas
+PI
+6721
+Dirceu Arcoverde
+MG
+6715
+Bonfim
+SP
+6710
+Irapuã
+PR
+6709
+Adrianópolis
+PB
+6702
+Condado
+MG
+6701
+São José da Barra
+MG
+6698
+Delfinópolis
+AL
+6692
+Roteiro
+RS
+6690
+São Paulo das Missões
+BA
+6687
+Almadina
+MG
+6687
+Felisburgo
+RS
+6679
+Independência
+SP
+6677
+Iacri
+MA
+6672
+Luís Domingues
+PI
+6672
+São João da Serra
+BA
+6669
+Barro Preto
+RS
+6663
+Sertão
+TO
+6663
+Tocantínia
+PI
+6661
+Barro Duro
+MA
+6652
+Tasso Fragoso
+RS
+6644
+Salvador do Sul
+GO
+6638
+Alto Paraíso de Goiás
+PR
+6638
+Sapopema
+RS
+6635
+Arroio do Sal
+RS
+6634
+Cândido Godói
+RS
+6629
+Cerrito
+SP
+6629
+Nuporanga
+MA
+6620
+Lajeado Novo
+SP
+6617
+Ibirarema
+MG
+6617
+São Thomé das Letras
+RS
+6616
+Aratiba
+MG
+6612
+Formoso
+GO
+6610
+Cabeceiras
+PI
+6609
+Angical do Piauí
+RS
+6607
+Condor
+BA
+6605
+Itanagra
+PB
+6602
+Serraria
+MG
+6600
+Delta
+SC
+6599
+Treze de Maio
+MG
+6597
+Catuji
+SE
+6596
+Santana do São Francisco
+MG
+6594
+Rio Espera
+MG
+6594
+Vargem Alegre
+PE
+6593
+Granito
+PA
+6592
+Abel Figueiredo
+MG
+6590
+Central de Minas
+SC
+6587
+Anchieta
+SP
+6586
+Saltinho
+PB
+6582
+Diamante
+MG
+6580
+Conquista
+MG
+6577
+Guarda-Mor
+RS
+6577
+Paraí
+PI
+6577
+Ribeiro Gonçalves
+RO
+6575
+Cabixi
+MG
+6570
+Campo Florido
+TO
+6569
+Ponte Alta do Tocantins
+PB
+6568
+São Miguel de Taipu
+SC
+6566
+Ipuaçu
+SP
+6560
+Santo Antônio do Pinhal
+MG
+6556
+Abadia dos Dourados
+MG
+6554
+Piracema
+MG
+6547
+Tiradentes
+SP
+6545
+Riversul
+AC
+6543
+Bujari
+SP
+6543
+Lavrinhas
+PR
+6541
+Marilena
+CE
+6540
+General Sampaio
+PR
+6540
+São Pedro do Iguaçu
+MG
+6539
+Cipotânea
+PI
+6532
+Dom Expedito Lopes
+PR
+6530
+Douradina
+TO
+6520
+Cristalândia
+PI
+6520
+Lagoa de São Francisco
+RS
+6519
+Barão de Cotegipe
+PB
+6505
+Cuité de Mamanguape
+PE
+6496
+Terezinha
+MG
+6493
+Mesquita
+MG
+6492
+Limeira do Oeste
+PB
+6486
+Junco do Seridó
+MG
+6481
+Bom Jardim de Minas
+PB
+6480
+Santa Cruz
+CE
+6478
+Potiretama
+GO
+6476
+Aruanã
+MG
+6474
+Pedra Bonita
+RS
+6468
+Boa Vista do Buricá
+PA
+6466
+Pau D'Arco
+SP
+6462
+Jaborandi
+PR
+6461
+Campo do Tenente
+MG
+6458
+Lassance
+SP
+6454
+Barbosa
+GO
+6454
+Mambaí
+RN
+6447
+Jandaíra
+GO
+6446
+Barro Alto
+MG
+6444
+Piedade de Caratinga
+MG
+6439
+Itumirim
+MG
+6435
+Botumirim
+RN
+6433
+São Pedro
+MG
+6432
+Luislândia
+RS
+6432
+Nova Palma
+RN
+6431
+Doutor Severiano
+MG
+6431
+Mendes Pimentel
+PI
+6430
+Rio Grande do Piauí
+SP
+6429
+Icém
+PI
+6428
+Massapê do Piauí
+MG
+6420
+Inimutaba
+CE
+6417
+Altaneira
+SC
+6417
+Itá
+MS
+6413
+Selvíria
+SP
+6410
+Guarantã
+RN
+6410
+Itajá
+TO
+6403
+Pium
+PR
+6397
+Bom Sucesso
+RS
+6389
+Lagoão
+TO
+6387
+Monte do Carmo
+TO
+6386
+Itacajá
+BA
+6386
+Santa Cruz da Vitória
+RN
+6384
+Caiçara do Norte
+PI
+6377
+Morro do Chapéu do Piauí
+GO
+6373
+Fazenda Nova
+GO
+6373
+Jandaia
+TO
+6359
+Divinópolis do Tocantins
+MG
+6359
+Pouso Alto
+PB
+6356
+Cubati
+SP
+6350
+Restinga
+MG
+6344
+Reduto
+RS
+6343
+Faxinal do Soturno
+MG
+6343
+Frei Gaspar
+RS
+6342
+Campina das Missões
+PR
+6342
+Francisco Alves
+MG
+6338
+Martins Soares
+PB
+6334
+Igaracy
+GO
+6331
+Campos Verdes
+BA
+6328
+Feira da Mata
+MG
+6327
+Fruta de Leite
+PI
+6325
+Boqueirão do Piauí
+MG
+6324
+Imbé de Minas
+PR
+6322
+Laranjal
+MG
+6310
+Laranjal
+PR
+6310
+Vitorino
+PI
+6300
+Acauã
+MG
+6298
+Munhoz
+MG
+6295
+Iraí de Minas
+SE
+6295
+Macambira
+MG
+6294
+Cabeceira Grande
+PR
+6293
+São José da Boa Vista
+RO
+6286
+São Felipe D'Oeste
+MG
+6283
+São Vicente de Minas
+SE
+6280
+Nossa Senhora de Lourdes
+PB
+6280
+Nova Olinda
+MG
+6279
+Cônego Marinho
+MG
+6276
+Luisburgo
+PI
+6276
+São Francisco do Piauí
+CE
+6274
+Senador Sá
+MA
+6254
+Graça Aranha
+SP
+6247
+Echaporã
+MG
+6247
+Mamonas
+MG
+6246
+São Francisco de Paula
+MG
+6244
+Indianópolis
+MT
+6237
+Nortelândia
+PB
+6234
+Areial
+RS
+6232
+Amaral Ferrador
+SC
+6221
+Trombudo Central
+SC
+6217
+Caibi
+SP
+6217
+Guatapará
+PB
+6214
+Marizópolis
+RS
+6210
+Progresso
+RS
+6199
+Morro Redondo
+ES
+6198
+Alto Rio Novo
+MG
+6194
+Gurinhatã
+PI
+6191
+Novo Oriente do Piauí
+MG
+6178
+Rodeiro
+RS
+6173
+Santa Maria do Herval
+PI
+6171
+Patos do Piauí
+PR
+6169
+Honório Serpa
+MA
+6168
+Amapá do Maranhão
+TO
+6167
+Rio Sono
+RS
+6163
+Anta Gorda
+MG
+6156
+São Gonçalo do Abaeté
+MG
+6141
+São Roque de Minas
+PB
+6139
+Ibiara
+BA
+6133
+Barra do Rocha
+MG
+6118
+Palma
+MT
+6116
+Porto dos Gaúchos
+MG
+6113
+Araporã
+RS
+6108
+Gaurama
+SP
+6108
+Tarabai
+ES
+6106
+Dores do Rio Preto
+RS
+6102
+Liberato Salzano
+SP
+6100
+Vista Alegre do Alto
+MG
+6099
+Aiuruoca
+BA
+6095
+São José da Vitória
+PR
+6090
+Jussara
+PI
+6086
+Boa Hora
+RS
+6086
+Estação
+SC
+6086
+Águas de Chapecó
+SP
+6081
+Clementina
+SP
+6079
+Oriente
+TO
+6074
+Itaguatins
+SP
+6073
+Colômbia
+SC
+6064
+Petrolândia
+AC
+6059
+Jordão
+MT
+6058
+Alto Taquari
+MA
+6058
+Presidente Médici
+SC
+6054
+Rio das Antas
+SC
+6051
+Grão Pará
+MG
+6050
+Juvenília
+PR
+6044
+Braganey
+SC
+6043
+Rio do Campo
+PR
+6031
+São Jorge do Patrocínio
+RS
+6030
+Hulha Negra
+MG
+6029
+Careaçu
+PB
+6028
+Santa Helena
+SP
+6020
+Santo Antônio da Alegria
+SC
+6020
+São João do Oeste
+MG
+6018
+Silvianópolis
+AL
+6016
+Campestre
+SP
+6013
+Arandu
+PR
+6012
+Maria Helena
+PA
+6007
+Santarém Novo
+MG
+6005
+Heliodora
+PI
+5999
+Santa Filomena
+MG
+5993
+Varjão de Minas
+MG
+5990
+Sobrália
+RN
+5982
+José da Penha
+SC
+5981
+Vidal Ramos
+MG
+5979
+Pai Pedro
+PR
+5979
+São João do Caiuá
+PR
+5974
+Enéas Marques
+MA
+5972
+Bernardo do Mearim
+RS
+5967
+Passo do Sobrado
+MG
+5964
+Tumiritinga
+PR
+5956
+Doutor Ulysses
+CE
+5950
+Pacujá
+PB
+5942
+São José de Caiana
+RN
+5940
+Lagoa d'Anta
+AL
+5939
+Jaramataia
+MG
+5928
+Florestal
+PR
+5927
+Ibema
+PA
+5921
+Santa Cruz do Arari
+PR
+5921
+Tunas do Paraná
+GO
+5919
+Vicentinópolis
+SC
+5909
+Bela Vista do Toldo
+SC
+5909
+Maracajá
+RS
+5909
+São Nicolau
+PI
+5908
+São Julião
+RS
+5907
+Tucunduva
+RN
+5906
+Senador Elói de Souza
+RS
+5905
+Trindade do Sul
+MG
+5900
+Alfredo Vasconcelos
+MG
+5898
+Ibiracatu
+PR
+5897
+Itambé
+PR
+5894
+Sertaneja
+PR
+5893
+Pinhalão
+MG
+5892
+Jeceaba
+MG
+5892
+Santa Helena de Minas
+MS
+5888
+Bandeirantes
+MG
+5885
+Naque
+BA
+5881
+Ichu
+RN
+5875
+Equador
+RS
+5875
+Ipê
+GO
+5873
+Santa Rita do Araguaia
+GO
+5868
+Abadia de Goiás
+RR
+5863
+Iracema
+PI
+5857
+Aroazes
+RS
+5853
+São Martinho
+MT
+5841
+Cocalinho
+PE
+5837
+Solidão
+SP
+5835
+Pedra Bela
+PR
+5832
+Foz do Jordão
+MG
+5830
+Itueta
+PR
+5829
+Tapira
+MG
+5828
+Bonfinópolis de Minas
+MG
+5828
+Padre Carvalho
+PR
+5823
+Rosário do Ivaí
+RN
+5819
+São Vicente
+PR
+5818
+Xambrê
+PR
+5817
+São Carlos do Ivaí
+MT
+5816
+Gaúcha do Norte
+MS
+5813
+Laguna Carapã
+PR
+5811
+Pranchita
+PR
+5805
+Mariópolis
+SP
+5804
+Taiaçu
+MA
+5803
+Brejo de Areia
+RN
+5801
+Serra de São Bento
+MG
+5801
+São Pedro do Suaçuí
+PB
+5800
+Boa Ventura
+MG
+5793
+Divisa Alegre
+MA
+5792
+Sambaíba
+RS
+5791
+Sertão Santana
+PI
+5790
+Santa Cruz do Piauí
+MG
+5787
+Santa Rita de Minas
+PB
+5785
+Maturéia
+CE
+5780
+Baixio
+MG
+5772
+Sapucaí-Mirim
+GO
+5767
+Campo Alegre de Goiás
+RN
+5765
+São João do Sabugi
+PB
+5761
+Camalaú
+RN
+5758
+Itaú
+ES
+5755
+Mucurici
+SP
+5749
+Tuiuti
+PB
+5743
+Brejo dos Santos
+SP
+5743
+Santo Antônio do Jardim
+SC
+5738
+Romelândia
+MG
+5732
+Veredinha
+MG
+5731
+Cristália
+PI
+5729
+Santo Antônio de Lisboa
+RR
+5727
+São João da Baliza
+MG
+5724
+Itaverava
+AL
+5724
+Jacaré dos Homens
+MG
+5724
+Santa Maria do Salto
+MG
+5724
+Virgolândia
+PR
+5721
+Guairaçá
+RR
+5720
+São Luiz
+MG
+5720
+Toledo
+MA
+5717
+Belágua
+GO
+5713
+São Francisco de Goiás
+MG
+5712
+Cana Verde
+TO
+5701
+Aliança do Tocantins
+PI
+5700
+Colônia do Gurguéia
+MG
+5699
+Presidente Bernardes
+RS
+5698
+Rodeio Bonito
+AL
+5695
+Tanque d'Arca
+PR
+5688
+Fernandes Pinheiro
+MG
+5687
+Ijaci
+MG
+5685
+Felício dos Santos
+MG
+5680
+Confins
+RN
+5680
+Felipe Guerra
+MG
+5675
+Senhora de Oliveira
+RS
+5674
+Rondinha
+PB
+5673
+Boa Vista
+RN
+5671
+Severiano Melo
+MG
+5664
+Franciscópolis
+RS
+5663
+Viadutos
+MG
+5659
+Crisólita
+GO
+5658
+Santa Bárbara de Goiás
+SP
+5657
+Lindóia
+MG
+5656
+Barão de Monte Alto
+SP
+5654
+Quintana
+MG
+5652
+Santa Rita do Itueto
+MA
+5651
+Afonso Cunha
+GO
+5650
+Inaciolândia
+MG
+5646
+São José do Goiabal
+PI
+5645
+Campo Grande do Piauí
+SC
+5641
+Treze Tílias
+MG
+5635
+Córrego Fundo
+PB
+5634
+Malta
+RS
+5631
+Porto Lucena
+PB
+5629
+Aguiar
+SE
+5628
+Feira Nova
+MG
+5628
+Joanésia
+MS
+5627
+Vicentina
+PI
+5622
+Caldeirão Grande do Piauí
+MG
+5620
+Gonzaga
+GO
+5620
+Terezópolis de Goiás
+MG
+5619
+Divisa Nova
+SP
+5614
+Itirapuã
+PR
+5611
+Diamante do Norte
+RN
+5610
+Japi
+TO
+5610
+Santa Fé do Araguaia
+PR
+5609
+Doutor Camargo
+PB
+5609
+Santana de Mangueira
+RS
+5599
+Morro Reuter
+PI
+5598
+Campinas do Piauí
+PI
+5597
+Jacobina do Piauí
+GO
+5596
+Campo Limpo de Goiás
+MG
+5593
+Dom Cavati
+SE
+5590
+Pinhão
+RS
+5588
+Campinas do Sul
+PB
+5588
+Pedro Régis
+MG
+5588
+Santa Rita de Jacutinga
+PI
+5586
+Landri Sales
+RS
+5581
+Campo Novo
+BA
+5577
+Firmino Alves
+MS
+5577
+Jaraguari
+PR
+5571
+Maripá
+MG
+5569
+Dona Eusébia
+RS
+5569
+Vicente Dutra
+SC
+5563
+Vitor Meireles
+SP
+5562
+Silveiras
+SP
+5559
+Paraíso
+SE
+5554
+Gracho Cardoso
+MT
+5554
+Nova Maringá
+RO
+5553
+Cacaulândia
+MG
+5539
+São Francisco do Glória
+PR
+5537
+Santana do Itararé
+PI
+5537
+Sussuapara
+MT
+5530
+Acorizal
+MG
+5528
+Dores de Guanhães
+MA
+5526
+Santa Filomena do Maranhão
+MG
+5518
+Soledade de Minas
+MA
+5517
+Tufilândia
+SP
+5510
+Santa Ernestina
+SP
+5506
+Paulicéia
+RS
+5503
+Machadinho
+SC
+5501
+Imbuia
+RS
+5494
+Doutor Maurício Cardoso
+MG
+5491
+Jequitibá
+SC
+5483
+Laurentino
+PB
+5482
+São José dos Ramos
+RS
+5471
+Santa Clara do Sul
+TO
+5469
+Aragominas
+PB
+5469
+Curral de Cima
+GO
+5467
+Itaguaru
+MG
+5465
+Chalé
+PR
+5465
+Ouro Verde do Oeste
+MG
+5461
+Nova União
+PR
+5457
+Paula Freitas
+PR
+5447
+Sabáudia
+PR
+5446
+Lindoeste
+PB
+5435
+Barra de São Miguel
+BA
+5429
+Cravolândia
+MA
+5425
+Bacurituba
+TO
+5423
+Araguacema
+MG
+5418
+Datas
+SP
+5417
+Santa Maria da Serra
+RN
+5416
+Janduís
+MG
+5412
+Bom Jesus do Amparo
+GO
+5409
+Itajá
+SP
+5402
+Taciba
+SC
+5399
+Aurora
+SC
+5391
+Luzerna
+MG
+5388
+Rio Preto
+MG
+5388
+São Sebastião do Anta
+MA
+5387
+Benedito Leite
+SP
+5379
+Américo de Campos
+MG
+5374
+Luminárias
+RS
+5372
+Marcelino Ramos
+PI
+5371
+Caraúbas do Piauí
+SP
+5366
+Taiúva
+PB
+5363
+Caldas Brandão
+SP
+5360
+Águas de Santa Bárbara
+SE
+5358
+Cedro de São João
+PI
+5357
+Manoel Emídio
+MS
+5353
+Juti
+AC
+5351
+Assis Brasil
+MG
+5347
+Inhaúma
+MG
+5346
+Patis
+PI
+5345
+Joca Marques
+GO
+5344
+Divinópolis de Goiás
+PI
+5341
+Cocal dos Alves
+GO
+5338
+Itarumã
+MG
+5337
+Bandeira
+MT
+5337
+Canabrava do Norte
+AL
+5336
+Coqueiro Seco
+MG
+5336
+São Sebastião do Oeste
+MG
+5333
+Liberdade
+SC
+5322
+Angelina
+SP
+5320
+Campina do Monte Alegre
+MG
+5319
+Patrocínio do Muriaé
+PB
+5319
+Pilõezinhos
+SC
+5313
+Passo de Torres
+RS
+5306
+Barracão
+MG
+5303
+Catuti
+PI
+5302
+Bertolínia
+TO
+5295
+Brejinho de Nazaré
+RS
+5294
+Erval Grande
+RS
+5293
+Barão
+PI
+5292
+Francinópolis
+RS
+5291
+Mata
+MG
+5291
+São Pedro da União
+RS
+5290
+Sentinela do Sul
+GO
+5289
+Chapadão do Céu
+PR
+5286
+São Jorge do Ivaí
+MG
+5284
+Dom Silvério
+AM
+5281
+Japurá
+PI
+5280
+Santa Luz
+RS
+5279
+Lindolfo Collor
+PR
+5279
+São Tomé
+RS
+5278
+Chuí
+SP
+5277
+Coronel Macedo
+PI
+5276
+Bom Princípio do Piauí
+RN
+5276
+Várzea
+SP
+5271
+Anhembi
+RN
+5255
+Coronel Ezequiel
+PI
+5255
+Geminiano
+PI
+5250
+Júlio Borges
+RJ
+5246
+Macuco
+MG
+5245
+Amparo do Serra
+GO
+5241
+Formoso
+MG
+5232
+São Domingos das Dores
+PR
+5227
+Nova Olímpia
+MG
+5226
+Gameleiras
+TO
+5221
+Goianorte
+PR
+5215
+Floresta
+BA
+5212
+Aiquara
+SP
+5212
+Fernando Prestes
+RN
+5212
+Sítio Novo
+MG
+5208
+Braúnas
+PB
+5207
+Capim
+PR
+5205
+Marquinho
+MG
+5196
+Sardoá
+SP
+5193
+Marabá Paulista
+MG
+5193
+Santa Cruz do Escalvado
+MG
+5192
+Santa Cruz de Salinas
+PI
+5190
+Fartura do Piauí
+PI
+5185
+Bonfim do Piauí
+RS
+5184
+Caiçara
+PR
+5182
+Nova Esperança do Sudoeste
+PI
+5178
+Várzea Branca
+PR
+5173
+Quinta do Sol
+MG
+5167
+São Francisco de Sales
+MG
+5166
+Volta Grande
+SP
+5164
+Ipeúna
+AL
+5160
+Minador do Negrão
+RS
+5160
+Tavares
+RN
+5158
+Encanto
+TO
+5155
+Barrolândia
+PB
+5152
+Bom Sucesso
+SP
+5150
+Sabino
+PI
+5149
+Santa Rosa do Piauí
+PR
+5140
+Amaporã
+SC
+5133
+Timbé do Sul
+TO
+5130
+Darcinópolis
+MG
+5125
+Piranguçu
+RN
+5120
+Tenente Laurentino Cruz
+PA
+5117
+Sapucaia
+MG
+5110
+Congonhas do Norte
+MG
+5106
+Bandeira do Sul
+PR
+5104
+Espigão Alto do Iguaçu
+TO
+5098
+Silvanópolis
+SP
+5098
+Taquarivaí
+MS
+5095
+Caracol
+SP
+5093
+Piacatu
+PR
+5087
+Salto do Itararé
+PR
+5082
+Lunardelli
+RS
+5080
+Caibaté
+SC
+5080
+Ponte Alta
+SP
+5077
+Barra do Chapéu
+GO
+5073
+Britânia
+PB
+5068
+Alcantil
+MG
+5068
+Ritápolis
+RS
+5059
+Maximiliano de Almeida
+MG
+5057
+Ibertioga
+PR
+5055
+Perobal
+MT
+5053
+Rio Branco
+PR
+5051
+Floraí
+MG
+5051
+Senador Amaral
+MG
+5048
+Alto Caparaó
+PI
+5045
+São José do Divino
+GO
+5044
+Vila Propício
+PI
+5042
+Lagoa do Sítio
+SP
+5042
+Santa Albertina
+AP
+5040
+Ferreira Gomes
+MG
+5034
+Bocaina de Minas
+AL
+5031
+Belém
+SP
+5031
+Três Fronteiras
+SP
+5030
+Pardinho
+MT
+5025
+Alto Boa Vista
+SP
+5025
+Sales
+PI
+5023
+Caxingó
+SP
+5019
+Aramina
+PR
+5019
+Jaboti
+MG
+5018
+Itacambira
+PI
+5017
+Francisco Ayres
+PI
+5015
+São Francisco de Assis do Piauí
+SP
+5015
+Tejupá
+PB
+5009
+Borborema
+SP
+5008
+Jaci
+PI
+5008
+São João da Fronteira
+GO
+5008
+Água Fria de Goiás
+BA
+5007
+Ibiquera
+MG
+5007
+Rio Manso
+RN
+5006
+Bento Fernandes
+PI
+5002
+Arraial
+TO
+5000
+Araguanã
+SC
+4998
+Riqueza
+RS
+4996
+Passa Sete
+PR
+4993
+Guaraci
+MG
+4991
+Olhos-d'Água
+MA
+4989
+São Roberto
+MG
+4988
+Senador Modestino Gonçalves
+PI
+4985
+Palmeira do Piauí
+PI
+4980
+Agricolândia
+PI
+4976
+Alvorada do Gurguéia
+RN
+4973
+Ouro Branco
+SP
+4968
+Jambeiro
+MS
+4967
+Novo Horizonte do Sul
+MT
+4966
+Pontal do Araguaia
+GO
+4962
+Turvânia
+MS
+4961
+Rio Negro
+GO
+4954
+Mossâmedes
+SP
+4953
+Caiuá
+MG
+4951
+Madre de Deus de Minas
+MT
+4949
+Nova Lacerda
+RN
+4948
+Almino Afonso
+RS
+4946
+São João da Urtiga
+RS
+4945
+Ciríaco
+PR
+4944
+Diamante D'Oeste
+MG
+4934
+Divino das Laranjeiras
+MG
+4931
+Entre Folhas
+CE
+4931
+Granjeiro
+PR
+4931
+Saudade do Iguaçu
+MG
+4930
+Leme do Prado
+MG
+4926
+Jampruca
+GO
+4925
+Goiandira
+PI
+4923
+Conceição do Canindé
+RS
+4923
+Humaitá
+RO
+4919
+Teixeirópolis
+SP
+4916
+Orindiúva
+PB
+4913
+São José de Espinharas
+PB
+4907
+Cabaceiras
+SP
+4905
+Nova Aliança
+MS
+4900
+Douradina
+MG
+4899
+Novorizonte
+PI
+4899
+São Lourenço do Piauí
+PI
+4898
+Curral Novo do Piauí
+MG
+4893
+Paulistas
+MA
+4892
+Nova Iorque
+MT
+4891
+Nova Brasilândia
+TO
+4887
+Couto de Magalhães
+SC
+4885
+Caxambu do Sul
+TO
+4885
+São Valério da Natividade
+PI
+4884
+Riacho Frio
+MG
+4884
+São Sebastião da Bela Vista
+SP
+4881
+Coroados
+MG
+4881
+Cristiano Otoni
+SP
+4880
+Poloni
+TO
+4878
+Combinado
+AL
+4878
+Palestina
+SP
+4877
+Avaí
+MT
+4877
+Nova Guarita
+MG
+4876
+Descoberto
+PR
+4876
+Santo Inácio
+RS
+4874
+Chuvisca
+PR
+4871
+Fênix
+MT
+4870
+Lambari D'Oeste
+RS
+4869
+Miraguaí
+MG
+4863
+Caparaó
+MG
+4855
+São João do Manteninha
+SC
+4850
+São Cristovão do Sul
+PB
+4849
+Catingueira
+PR
+4848
+Quarto Centenário
+PI
+4841
+Santana do Piauí
+SC
+4840
+José Boiteux
+ES
+4837
+Divino de São Lourenço
+MT
+4835
+Curvelândia
+MG
+4835
+Fronteira dos Vales
+MG
+4832
+Aricanduva
+MA
+4829
+Nova Colinas
+RN
+4827
+Coronel João Pessoa
+RS
+4824
+Cacique Doble
+RS
+4824
+Picada Café
+MG
+4821
+Jesuânia
+TO
+4820
+Figueirópolis
+AL
+4817
+Olho d'Água Grande
+SC
+4817
+Pedras Grandes
+PB
+4807
+Damião
+PB
+4807
+Lagoa
+MT
+4803
+General Carneiro
+MG
+4801
+Capitão Andrade
+TO
+4799
+Pequizeiro
+SP
+4798
+Lagoinha
+RN
+4792
+Porto do Mangue
+RS
+4789
+Alegria
+RS
+4781
+Araricá
+MG
+4781
+Piedade do Rio Grande
+SP
+4777
+Iaras
+PI
+4776
+São João da Varjota
+RS
+4775
+Nova Esperança do Sul
+RS
+4773
+Selbach
+RN
+4772
+Parazinho
+MT
+4770
+Campos de Júlio
+PB
+4770
+Congo
+PI
+4769
+Juazeiro do Piauí
+MG
+4768
+São Geraldo da Piedade
+TO
+4767
+Pau D'Arco
+SC
+4765
+São Pedro de Alcântara
+SP
+4763
+Luiziânia
+MG
+4759
+Francisco Dumont
+PB
+4756
+Vieirópolis
+SP
+4752
+Guaimbê
+RS
+4741
+Vale Real
+MG
+4737
+Turvolândia
+SE
+4736
+Itabi
+GO
+4736
+Ouvidor
+MG
+4729
+São João da Lagoa
+SP
+4728
+Braúna
+MG
+4725
+Conceição do Pará
+PI
+4722
+Eliseu Martins
+SC
+4722
+Guarujá do Sul
+PA
+4715
+São João da Ponta
+PR
+4713
+Mercedes
+MG
+4709
+Monte Formoso
+MG
+4708
+Miravânia
+PR
+4706
+Boa Esperança
+SC
+4705
+Ipira
+RS
+4704
+David Canabarro
+MT
+4703
+Itanhangá
+MG
+4703
+Vargem Grande do Rio Pardo
+RS
+4701
+Brochier
+GO
+4698
+Americano do Brasil
+PR
+4694
+Japira
+TO
+4689
+Palmeirante
+PR
+4685
+Flor da Serra do Sul
+SP
+4682
+Indiana
+RS
+4681
+Ibiaçá
+SC
+4677
+Agronômica
+MA
+4675
+Sucupira do Riachão
+PR
+4674
+Presidente Castelo Branco
+MG
+4668
+Canaã
+TO
+4667
+Caseara
+PR
+4666
+Salgado Filho
+PR
+4664
+Kaloré
+MG
+4662
+Materlândia
+RN
+4659
+Santa Maria
+SP
+4651
+Campos Novos Paulista
+SC
+4650
+Tunápolis
+PB
+4644
+Santa Teresinha
+PB
+4644
+São José de Princesa
+RS
+4633
+Itaara
+PR
+4631
+Pato Bragado
+MT
+4625
+Itaúba
+MG
+4623
+Natércia
+SP
+4616
+Guzolândia
+MG
+4611
+Carvalhos
+SP
+4610
+Álvaro de Carvalho
+RN
+4608
+Rafael Fernandes
+SP
+4603
+Iporanga
+PI
+4599
+Socorro do Piauí
+MG
+4598
+Capela Nova
+RS
+4597
+Fortaleza dos Valos
+MG
+4594
+Paineiras
+GO
+4594
+Santa Fé de Goiás
+MG
+4593
+Crucilândia
+MG
+4593
+União de Minas
+MG
+4592
+Brás Pires
+MG
+4589
+Augusto de Lima
+MG
+4588
+Bertópolis
+PI
+4583
+Caridade do Piauí
+RO
+4583
+Parecis
+PB
+4578
+São João do Tigre
+SP
+4577
+Aparecida d'Oeste
+RS
+4577
+Cotiporã
+RS
+4574
+Itatiba do Sul
+RS
+4574
+Muçum
+MG
+4574
+Ressaquinha
+MG
+4572
+Dores do Turvo
+SC
+4570
+Piratuba
+AL
+4569
+Jundiá
+RN
+4569
+Rodolfo Fernandes
+PR
+4564
+Tamboara
+MG
+4561
+Catas Altas
+SC
+4560
+Lindóia do Sul
+MG
+4558
+Alvarenga
+PB
+4558
+Montadas
+MG
+4554
+Guaraciama
+SP
+4552
+Ubarana
+SP
+4551
+Salmourão
+MG
+4551
+Vermelho Novo
+MG
+4547
+José Gonçalves de Minas
+PI
+4543
+Lagoa do Barro do Piauí
+TO
+4542
+Palmeiras do Tocantins
+MG
+4542
+Piedade dos Gerais
+PI
+4538
+Currais
+MG
+4537
+Caiana
+MG
+4532
+Santana do Jacaré
+PI
+4531
+Paquetá
+MG
+4530
+Dom Joaquim
+TO
+4529
+Ponte Alta do Bom Jesus
+TO
+4528
+Nazaré
+PI
+4523
+Jatobá do Piauí
+PI
+4522
+Cocal de Telha
+MT
+4520
+Bom Jesus do Araguaia
+MG
+4519
+Santa Efigênia de Minas
+TO
+4518
+Bernardo Sayão
+MG
+4517
+Santo Antônio do Itambé
+MG
+4515
+Serranópolis de Minas
+PR
+4508
+Itaguajé
+GO
+4507
+Gouvelândia
+MG
+4506
+Moeda
+SC
+4505
+Guatambú
+MG
+4504
+Santa Bárbara do Tugúrio
+MA
+4502
+São Raimundo do Doca Bezerra
+SP
+4497
+Ribeirão do Sul
+RS
+4496
+Pinhal Grande
+PR
+4493
+Cruzeiro do Sul
+TO
+4489
+Dueré
+MG
+4489
+Rio do Prado
+PI
+4482
+Alegrete do Piauí
+RS
+4480
+Paim Filho
+GO
+4477
+Caturaí
+TO
+4473
+Marianópolis do Tocantins
+SC
+4472
+Passos Maia
+PI
+4468
+Flores do Piauí
+SC
+4468
+Rio Fortuna
+PB
+4467
+Caturité
+RS
+4465
+Cerro Branco
+PI
+4462
+Paes Landim
+PI
+4452
+Wall Ferraz
+PI
+4451
+Campo Alegre do Fidalgo
+MG
+4448
+Lagoa dos Patos
+TO
+4447
+São Bento do Tocantins
+BA
+4444
+Gavião
+PE
+4444
+Ingazeira
+RN
+4442
+Olho-d'Água do Borges
+MG
+4440
+Josenópolis
+PB
+4438
+São João do Cariri
+GO
+4430
+Ouro Verde de Goiás
+PI
+4429
+Várzea Grande
+PR
+4426
+Campo Bonito
+TO
+4417
+Santa Rosa do Tocantins
+RS
+4415
+Maçambara
+RS
+4411
+Pinheirinho do Vale
+SC
+4410
+Águas Mornas
+RS
+4406
+Riozinho
+MG
+4404
+Cuparaque
+RS
+4404
+Jaquirana
+TO
+4402
+Conceição do Tocantins
+MG
+4400
+São Bento Abade
+MG
+4399
+Berizal
+SP
+4398
+Glicério
+MA
+4398
+São Félix de Balsas
+TO
+4397
+Pindorama do Tocantins
+MG
+4396
+Conceição de Ipanema
+GO
+4395
+Montividiu do Norte
+PI
+4388
+Jurema
+RS
+4388
+Três Palmeiras
+MG
+4385
+Oratórios
+RS
+4378
+Tunas
+PR
+4375
+Lupionópolis
+PI
+4371
+Jerumenha
+AL
+4370
+Feliz Deserto
+PR
+4369
+Altamira do Paraná
+PI
+4364
+São João da Canabrava
+RN
+4360
+Frutuoso Gomes
+RN
+4360
+Serrinha dos Pintos
+PI
+4356
+Coronel José Dias
+SP
+4346
+Presidente Alves
+MS
+4346
+Rochedo
+PB
+4345
+Monte Horebe
+PI
+4343
+Guaribas
+PI
+4342
+São Gonçalo do Piauí
+SP
+4340
+Cabrália Paulista
+SP
+4340
+Motuca
+MG
+4332
+Couto de Magalhães de Minas
+RS
+4331
+Ibarama
+BA
+4329
+Lajedinho
+PR
+4327
+Serranópolis do Iguaçu
+GO
+4325
+Matrinchã
+SC
+4321
+Vargem Bonita
+AP
+4320
+Cutias
+MT
+4319
+Santa Carmem
+SP
+4318
+Canas
+SP
+4318
+Júlio Mesquita
+PI
+4312
+Domingos Mourão
+PI
+4311
+São Braz do Piauí
+SP
+4309
+Pratânia
+CE
+4307
+Guaramiranga
+MG
+4307
+Serra Azul de Minas
+MS
+4299
+Alcinópolis
+MG
+4295
+Claraval
+MG
+4293
+Espírito Santo do Dourado
+RN
+4292
+Riacho de Santana
+PI
+4291
+Pavussu
+MG
+4285
+Marilac
+PI
+4284
+Nova Santa Rita
+SP
+4278
+São José do Barreiro
+PR
+4271
+Cafezal do Sul
+MG
+4270
+Gonçalves
+SP
+4269
+Ubirajara
+GO
+4266
+São Luíz do Norte
+SP
+4265
+Canitar
+PR
+4262
+Corumbataí do Sul
+SC
+4261
+Iraceminha
+MG
+4257
+Presidente Juscelino
+RS
+4255
+Vila Nova do Sul
+GO
+4254
+Itaguari
+RS
+4246
+Novo Machado
+TO
+4244
+São Sebastião do Tocantins
+PI
+4241
+Morro Cabeça no Tempo
+MG
+4241
+Santo Antônio do Grama
+PB
+4239
+Riachão do Poço
+SP
+4238
+Lupércio
+MG
+4232
+Pequi
+PR
+4230
+Leópolis
+PR
+4219
+Lobato
+SC
+4218
+Xavantina
+RN
+4217
+Lajes Pintadas
+SC
+4214
+Bom Jardim da Serra
+PB
+4213
+Sertãozinho
+PR
+4212
+Porto Amazonas
+RS
+4202
+Ilópolis
+RS
+4202
+Rio dos Índios
+SP
+4201
+Populina
+SE
+4198
+Divina Pastora
+PI
+4198
+Marcos Parente
+MT
+4198
+São José do Xingu
+GO
+4198
+Vila Boa
+SC
+4195
+Paraíso
+RS
+4192
+Putinga
+MG
+4191
+Ipiaçu
+RS
+4182
+Ibirapuitã
+PR
+4180
+Campina do Simão
+SP
+4180
+Ocauçu
+PB
+4178
+Matinhas
+PI
+4178
+Sebastião Barros
+RS
+4173
+Jaboticaba
+PB
+4172
+Riachão do Bacamarte
+SC
+4172
+Salto Veloso
+PI
+4171
+Jardim do Mulato
+GO
+4167
+Rianápolis
+SP
+4166
+Analândia
+MS
+4165
+Corguinho
+MG
+4159
+Santana do Riacho
+RS
+4159
+Vila Maria
+SP
+4157
+Alto Alegre
+GO
+4157
+Hidrolina
+PR
+4156
+Mato Rico
+MG
+4151
+Rosário da Limeira
+PR
+4150
+Cruzeiro do Iguaçu
+PR
+4147
+Ramilândia
+MG
+4146
+José Raydan
+GO
+4145
+Santa Tereza de Goiás
+PR
+4142
+Marumbi
+RS
+4138
+Aceguá
+PR
+4138
+Indianópolis
+PR
+4136
+Bela Vista da Caroba
+GO
+4134
+Santo Antônio da Barra
+MT
+4129
+Ipiranga do Norte
+SP
+4128
+Boracéia
+SC
+4127
+Botuverá
+PI
+4127
+Passagem Franca do Piauí
+PR
+4123
+Lidianópolis
+SC
+4118
+Nova Erechim
+SC
+4117
+Nova Itaberaba
+MG
+4113
+Piedade de Ponte Nova
+GO
+4105
+Guarani de Goiás
+SP
+4103
+Espírito Santo do Turvo
+SP
+4103
+Gavião Peixoto
+PI
+4103
+Ribeira do Piauí
+MT
+4101
+Torixoréu
+SP
+4099
+Mirassolândia
+SC
+4098
+Erval Velho
+PE
+4097
+Itacuruba
+SP
+4092
+João Ramalho
+SP
+4091
+Murutinga do Sul
+SP
+4081
+Redenção da Serra
+PI
+4080
+Sebastião Leal
+RS
+4078
+Chiapetta
+PI
+4072
+Curralinhos
+SC
+4072
+Saltinho
+SP
+4070
+Alambari
+PR
+4062
+Santa Amélia
+MG
+4061
+Tabuleiro
+MG
+4056
+Acaiaca
+MG
+4056
+Pescador
+MG
+4054
+Aguanil
+MG
+4051
+Itutinga
+PB
+4049
+São Bentinho
+PI
+4048
+Nossa Senhora de Nazaré
+MG
+4046
+Ponto Chique
+RS
+4046
+Tabaí
+RS
+4043
+Marques de Souza
+PI
+4039
+Bocaina
+MG
+4035
+Itamarati de Minas
+MG
+4034
+Santa Fé de Minas
+SC
+4032
+Jaborá
+MT
+4028
+São Pedro da Cipa
+PR
+4024
+Virmond
+MA
+4020
+São Pedro dos Crentes
+TO
+4018
+Aparecida do Rio Negro
+MG
+4017
+Guarará
+PB
+4017
+Mãe d'Água
+MG
+4016
+Pingo-d'Água
+MG
+4015
+Cajuri
+MG
+4015
+Carrancas
+MA
+4014
+Junco do Maranhão
+AL
+4014
+Mar Vermelho
+SP
+4014
+Monte Castelo
+SP
+4014
+Planalto
+SP
+4014
+Ribeirão Corrente
+SC
+4012
+Calmon
+SP
+4011
+Caiabu
+MT
+4011
+Porto Estrela
+SP
+4008
+Santópolis do Aguapeí
+MG
+4003
+São João do Pacuí
+PR
+4001
+Rancho Alegre
+MT
+3998
+União do Sul
+TO
+3995
+Aguiarnópolis
+SP
+3994
+Monteiro Lobato
+MG
+3989
+Santana dos Montes
+GO
+3986
+Novo Planalto
+PB
+3986
+São José do Sabugi
+PI
+3984
+Canavieira
+TO
+3984
+Fátima
+SP
+3980
+Mendonça
+PB
+3973
+São José dos Cordeiros
+MG
+3967
+Cantagalo
+RS
+3964
+Mariana Pimentel
+SC
+3962
+Arabutã
+MG
+3960
+Bugre
+MG
+3960
+Conceição da Barra de Minas
+MG
+3960
+Juramento
+PB
+3959
+Poço de José de Moura
+GO
+3954
+Mutunópolis
+SC
+3948
+Cerro Negro
+AC
+3948
+Santa Rosa do Purus
+PR
+3945
+Arapuã
+MG
+3941
+Diogo de Vasconcelos
+SP
+3941
+Narandiba
+MG
+3937
+Joaquim Felício
+SP
+3935
+Corumbataí
+PB
+3934
+Nova Palmeira
+MG
+3929
+São José da Safira
+RN
+3928
+Barcelona
+MG
+3926
+Tocos do Moji
+SP
+3925
+Ipiguá
+RN
+3925
+São José do Seridó
+MG
+3921
+Pedra do Indaiá
+PB
+3919
+Poço Dantas
+RS
+3919
+São Valentim
+RN
+3918
+Pedra Grande
+RS
+3911
+Gramado Xavier
+SE
+3910
+Canhoba
+MG
+3908
+São José do Alegre
+RS
+3907
+Severiano de Almeida
+SP
+3906
+Pontalinda
+RS
+3904
+Pontão
+PR
+3903
+Nossa Senhora das Graças
+SP
+3902
+Álvares Florence
+RS
+3900
+Pejuçara
+PB
+3896
+Prata
+GO
+3893
+Santo Antônio de Goiás
+RN
+3886
+Paraná
+RS
+3883
+São José do Hortêncio
+GO
+3880
+Araçu
+MG
+3880
+Bias Fortes
+SP
+3880
+Indiaporã
+RN
+3880
+Paraú
+MG
+3878
+Nova Módica
+PR
+3873
+São José das Palmeiras
+SP
+3872
+Buritizal
+SP
+3872
+Santa Cruz da Conceição
+PI
+3865
+Capitão Gervásio Oliveira
+PB
+3864
+Baraúna
+SP
+3863
+Gastão Vidigal
+RS
+3858
+Novo Barreiro
+BA
+3857
+Contendas do Sincorá
+SP
+3857
+Meridiano
+GO
+3856
+Colinas do Sul
+GO
+3852
+Turvelândia
+SP
+3851
+Alfredo Marcondes
+PR
+3850
+Rio Branco do Ivaí
+SE
+3844
+Santa Rosa de Lima
+PR
+3842
+Entre Rios do Oeste
+MG
+3837
+Fortaleza de Minas
+PR
+3835
+Bom Jesus do Sul
+MG
+3833
+Santana do Deserto
+RS
+3829
+Turuçu
+MG
+3828
+Campo Azul
+RS
+3826
+Braga
+RS
+3825
+Arambaré
+PB
+3824
+Caraúbas
+PB
+3816
+Logradouro
+PA
+3812
+Bannach
+SP
+3812
+Itapura
+BA
+3809
+Dom Macedo Costa
+MS
+3808
+Jateí
+MG
+3808
+Vieiras
+MG
+3802
+Cachoeira da Prata
+PR
+3802
+Nova Santa Bárbara
+MT
+3802
+Novo Horizonte do Norte
+PI
+3797
+Coivaras
+MG
+3797
+São José da Varginha
+RN
+3795
+Messias Targino
+PR
+3791
+Planaltina do Paraná
+TO
+3789
+Jaú do Tocantins
+MG
+3787
+Bom Jesus da Penha
+SP
+3786
+Mariápolis
+MG
+3781
+Dom Bosco
+PR
+3779
+Porto Vitória
+RS
+3776
+Barra do Quaraí
+MG
+3776
+São José do Divino
+RS
+3775
+Nova Araçá
+PI
+3774
+Barra D'Alcântara
+MG
+3773
+Ribeirão Vermelho
+SC
+3772
+Modelo
+TO
+3772
+Nova Rosalândia
+AP
+3772
+Serra do Navio
+BA
+3767
+Catolândia
+RS
+3766
+Novo Cabrais
+GO
+3765
+Campinaçu
+SP
+3762
+Nipoã
+PR
+3761
+Porto Barreiro
+MG
+3760
+Cruzeiro da Fortaleza
+MG
+3757
+Taquaraçu de Minas
+TO
+3754
+Novo Acordo
+RN
+3750
+Tibau
+PB
+3748
+Duas Estradas
+MG
+3747
+Santa Rita de Ibitipoca
+PB
+3745
+Pedra Branca
+RS
+3744
+Colorado
+MG
+3743
+Marliéria
+SE
+3741
+Cumbe
+PR
+3741
+Iguaraçu
+SP
+3736
+Onda Verde
+PI
+3730
+São José do Peixe
+PR
+3725
+Santa Lúcia
+MG
+3724
+Córrego do Bom Jesus
+SP
+3723
+Itapirapuã Paulista
+GO
+3719
+Aurilândia
+GO
+3718
+Edealina
+RS
+3715
+Áurea
+PI
+3713
+Pau D'Arco do Piauí
+PB
+3707
+Santa Inês
+RO
+3704
+Primavera de Rondônia
+RN
+3702
+São Bento do Trairí
+MG
+3700
+Matutina
+PR
+3699
+Itaúna do Sul
+SP
+3695
+Anhumas
+MG
+3694
+Pirajuba
+RS
+3692
+Jari
+TO
+3691
+Riachinho
+RN
+3690
+Senador Georgino Avelino
+MG
+3688
+Japaraíba
+PI
+3684
+Lagoa do Piauí
+TO
+3680
+Chapada da Natividade
+TO
+3680
+Presidente Kennedy
+SP
+3680
+Sarutaiá
+GO
+3680
+São Miguel do Passa Quatro
+PR
+3676
+Santa Cecília do Pavão
+PI
+3674
+Hugo Napoleão
+MG
+3672
+Pedra do Anta
+TO
+3672
+Sampaio
+SE
+3670
+São Miguel do Aleixo
+PR
+3669
+Quatro Pontes
+RN
+3669
+São Francisco do Oeste
+MG
+3667
+Veríssimo
+PR
+3665
+Diamante do Sul
+TO
+3665
+Recursolândia
+SP
+3661
+Novais
+RS
+3659
+Estrela Velha
+SP
+3658
+Bom Sucesso de Itararé
+RS
+3658
+Harmonia
+SE
+3658
+Malhada dos Bois
+PR
+3654
+Jundiaí do Sul
+RS
+3652
+Vitória das Missões
+MG
+3651
+Estrela do Indaiá
+MT
+3650
+Salto do Céu
+GO
+3649
+Varjão
+MT
+3648
+Figueirópolis D'Oeste
+MG
+3643
+Goianá
+MG
+3639
+Funilândia
+PR
+3639
+Guapirama
+TO
+3634
+Lizarda
+MG
+3629
+Nova Belém
+PR
+3627
+Atalaia
+PI
+3626
+Santo Inácio do Piauí
+RN
+3625
+Ruy Barbosa
+RO
+3624
+Castanheiras
+GO
+3622
+Palminópolis
+SP
+3619
+Balbinos
+GO
+3618
+Cromínia
+PI
+3616
+Pajeú do Piauí
+SP
+3614
+Paranapuã
+MG
+3612
+Faria Lemos
+SP
+3609
+Adolfo
+RS
+3604
+Tupandi
+MG
+3603
+Minduri
+MG
+3603
+Santana de Cataguases
+SP
+3599
+Piquerobi
+SP
+3595
+Inúbia Paulista
+MG
+3592
+Campanário
+SC
+3589
+Leoberto Leal
+SP
+3587
+Rifaina
+RS
+3585
+Mato Leitão
+TO
+3581
+Barra do Ouro
+RS
+3581
+Charrua
+MG
+3575
+Tapira
+RS
+3572
+Dona Francisca
+SP
+3571
+Areias
+MG
+3570
+Cordislândia
+PR
+3568
+Godoy Moreira
+RS
+3568
+Itacurubi
+MG
+3567
+Ewbank da Câmara
+RS
+3567
+Jacutinga
+RS
+3565
+Água Santa
+RS
+3564
+Campos Borges
+TO
+3562
+Cariri do Tocantins
+RS
+3561
+Quinze de Novembro
+MG
+3561
+Romaria
+SC
+3560
+Vargeão
+GO
+3556
+Heitoraí
+GO
+3555
+Nova Roma
+GO
+3554
+Aporé
+PR
+3554
+Conselheiro Mairinck
+PR
+3552
+Munhoz de Melo
+MG
+3546
+Lamim
+GO
+3542
+Santa Cruz de Goiás
+MG
+3541
+Santo Hipólito
+GO
+3537
+Trombas
+GO
+3530
+Castelândia
+RN
+3529
+São Bento do Norte
+GO
+3527
+Amorinópolis
+BA
+3526
+Lafaiete Coutinho
+RN
+3517
+Jundiá
+MG
+3517
+Senhora do Porto
+SC
+3516
+Arroio Trinta
+GO
+3507
+Damianópolis
+SC
+3500
+Ponte Alta do Norte
+SC
+3498
+Treviso
+GO
+3495
+Arenópolis
+RN
+3494
+Venha-Ver
+SC
+3493
+Galvão
+GO
+3492
+Amaralina
+RS
+3490
+Nova Roma do Sul
+PB
+3489
+Olivedos
+MG
+3489
+Santo Antônio do Aventureiro
+MG
+3488
+São Brás do Suaçuí
+PB
+3485
+Cacimba de Areia
+GO
+3485
+Santa Isabel
+MG
+3482
+Alvorada de Minas
+MG
+3474
+Morro do Pilar
+SP
+3473
+Pongaí
+BA
+3469
+Lajedão
+RN
+3459
+Major Sales
+RS
+3457
+Garruchos
+MG
+3457
+Mathias Lobato
+PR
+3453
+Santa Mônica
+GO
+3451
+Novo Brasil
+MG
+3448
+Pedrinópolis
+MG
+3445
+Caranaíba
+RS
+3445
+Esperança do Sul
+PR
+3445
+Sulina
+SP
+3444
+Ribeira
+TO
+3443
+Sandolândia
+GO
+3442
+Buritinópolis
+PB
+3442
+São Francisco
+SC
+3441
+Dona Emma
+AP
+3439
+Itaubal
+SC
+3431
+Witmarsum
+MG
+3424
+Catas Altas da Noruega
+MG
+3423
+Córrego Danta
+TO
+3421
+Itapiratins
+SP
+3421
+Suzanápolis
+RN
+3418
+Lucrécia
+GO
+3411
+Campestre de Goiás
+SP
+3411
+Macedônia
+RS
+3409
+São Martinho da Serra
+PB
+3405
+Riachão
+GO
+3404
+Taquaral de Goiás
+SP
+3403
+Nova Luzitânia
+PR
+3394
+Farol
+SC
+3390
+Ibicaré
+MG
+3387
+São Félix de Minas
+TO
+3385
+Aurora do Tocantins
+PI
+3383
+Novo Santo Antônio
+MG
+3382
+Ibitiúra de Minas
+RN
+3381
+Pilões
+RN
+3381
+São Fernando
+RS
+3378
+Derrubadas
+GO
+3372
+Santa Rita do Novo Destino
+PB
+3367
+Salgadinho
+SC
+3361
+Cordilheira Alta
+PI
+3355
+Barreiras do Piauí
+AP
+3353
+Pracuúba
+PI
+3352
+Santa Cruz dos Milagres
+MT
+3348
+Rondolândia
+MT
+3347
+Nova Santa Helena
+PI
+3344
+Bela Vista do Piauí
+PR
+3344
+Prado Ferreira
+MG
+3342
+Frei Lagonegro
+RS
+3339
+Capivari do Sul
+PB
+3336
+Assunção
+RS
+3334
+Dois Lajeados
+SC
+3317
+Atalanta
+TO
+3314
+Carrasco Bonito
+GO
+3310
+Portelândia
+PR
+3306
+Brasilândia do Sul
+PR
+3306
+Manfrinópolis
+MT
+3305
+São José do Povo
+GO
+3299
+Baliza
+PR
+3298
+Nova América da Colina
+GO
+3298
+Professor Jamil
+PR
+3296
+Ourizona
+SC
+3294
+Doutor Pedrinho
+GO
+3289
+Gameleira de Goiás
+SC
+3289
+São João do Itaperiú
+SC
+3288
+Braço do Trombudo
+MS
+3280
+Figueirão
+SP
+3280
+Mombuca
+MG
+3276
+Divinésia
+SP
+3272
+Altair
+RN
+3272
+Triunfo Potiguar
+MG
+3271
+Natalândia
+MG
+3261
+Santa Rosa da Serra
+PR
+3260
+Rio Bom
+PB
+3257
+Emas
+MG
+3253
+São Geraldo do Baixio
+PB
+3253
+Vista Serrana
+PR
+3252
+Alto Paraíso
+GO
+3251
+Sítio d'Abadia
+MT
+3249
+Santo Antônio do Leste
+MG
+3243
+Taparuba
+RS
+3241
+Morrinhos do Sul
+MG
+3238
+Medeiros
+MG
+3236
+Pratinha
+MG
+3234
+Carvalhópolis
+RS
+3234
+Esmeralda
+GO
+3229
+Palestina de Goiás
+RS
+3227
+Vale Verde
+SP
+3217
+Sandovalina
+SC
+3210
+Capão Alto
+RS
+3205
+Campestre da Serra
+MG
+3204
+Camacho
+MG
+3200
+Quartel Geral
+SC
+3200
+Serra Alta
+PI
+3199
+João Costa
+MG
+3198
+Desterro do Melo
+MG
+3194
+Coronel Xavier Chaves
+SC
+3194
+São Martinho
+PI
+3193
+Cajazeiras do Piauí
+TO
+3185
+Maurilândia do Tocantins
+PI
+3181
+Brejo do Piauí
+RS
+3180
+Capão do Cipó
+PB
+3180
+São José do Bonfim
+RS
+3180
+São José dos Ausentes
+TO
+3179
+Lagoa do Tocantins
+SC
+3178
+São Bonifácio
+SC
+3175
+Anitápolis
+GO
+3174
+Estrela do Norte
+RO
+3174
+Rio Crespo
+TO
+3169
+Angico
+RS
+3169
+Vila Flores
+SP
+3167
+Platina
+PB
+3164
+Bernardino Batista
+RS
+3162
+Nova Bréscia
+GO
+3160
+Bonópolis
+PI
+3159
+Prata do Piauí
+GO
+3157
+Caldazinha
+MG
+3155
+Córrego Novo
+SP
+3154
+Magda
+SP
+3153
+Jeriquara
+RS
+3151
+Pareci Novo
+GO
+3142
+Brazabrantes
+PI
+3140
+Antônio Almeida
+GO
+3136
+Alto Horizonte
+PI
+3132
+São Félix do Piauí
+RN
+3131
+Rafael Godeiro
+PB
+3130
+Serra da Raiz
+RS
+3129
+Dilermando de Aguiar
+AL
+3126
+Pindoba
+MT
+3124
+Glória D'Oeste
+MG
+3124
+São Gonçalo do Rio Preto
+RS
+3122
+Monte Alegre dos Campos
+RS
+3117
+São Pedro da Serra
+MS
+3117
+Taquarussu
+PR
+3116
+Cruzmaltina
+SC
+3110
+Vargem
+MT
+3109
+Tesouro
+MT
+3106
+Conquista D'Oeste
+RS
+3106
+Coqueiros do Sul
+RS
+3101
+Entre Rios do Sul
+MG
+3100
+Marmelópolis
+PI
+3097
+Vera Mendes
+MG
+3087
+Comendador Gomes
+SP
+3087
+Itaóca
+RS
+3080
+Victor Graeff
+PI
+3078
+São Miguel do Fidalgo
+RS
+3073
+Três Forquilhas
+RS
+3070
+Toropi
+RS
+3068
+Fazenda Vilanova
+MG
+3067
+Belmiro Braga
+RN
+3064
+Caiçara do Rio do Vento
+PR
+3061
+Bom Sucesso do Sul
+SC
+3061
+Sul Brasil
+PB
+3061
+São Sebastião do Umbuzeiro
+RS
+3058
+Nova Alvorada
+SC
+3058
+União do Oeste
+PB
+3057
+Cajazeirinhas
+RS
+3057
+Eugênio de Castro
+GO
+3055
+Cumari
+MG
+3052
+Goiabeira
+SC
+3047
+Bocaina do Sul
+SC
+3044
+Santa Terezinha do Progresso
+GO
+3041
+Cristianópolis
+PB
+3038
+Serra Grande
+RS
+3031
+Centenário
+PI
+3030
+Vila Nova do Piauí
+SC
+3028
+Bandeirante
+RN
+3025
+Riacho da Cruz
+SP
+3024
+Elisiário
+SP
+3021
+Emilianópolis
+GO
+3021
+Uirapuru
+MG
+3020
+Dom Viçoso
+MG
+3019
+Onça de Pitangui
+RS
+3015
+Três Arroios
+TO
+3014
+Piraquê
+RS
+3013
+Imigrante
+TO
+3012
+São Salvador do Tocantins
+RS
+3010
+Ernestina
+GO
+3008
+Porteirão
+GO
+2998
+Jaupaci
+MG
+2997
+Pequeri
+MG
+2995
+Argirita
+RS
+2989
+Caseiros
+TO
+2989
+Itaporã do Tocantins
+RS
+2988
+Pirapó
+PB
+2985
+Gurjão
+RS
+2982
+Saldanha Marinho
+SC
+2979
+Entre Rios
+MG
+2978
+Presidente Kubitschek
+MT
+2974
+Araguaiana
+PB
+2974
+Ouro Velho
+MG
+2973
+Piau
+RS
+2969
+Barra do Guarita
+RS
+2969
+Muitos Capões
+RS
+2968
+Dezesseis de Novembro
+RS
+2968
+Sede Nova
+RS
+2967
+Cristal do Sul
+PB
+2965
+Sossêgo
+GO
+2959
+Rio Quente
+MG
+2957
+Nacip Raydan
+MG
+2955
+Leandro Ferreira
+RS
+2952
+São José das Missões
+MG
+2950
+Sem-Peixe
+SC
+2944
+Peritiba
+PB
+2935
+Frei Martinho
+RS
+2934
+Alto Feliz
+SC
+2934
+Brunópolis
+MG
+2932
+Glaucilândia
+RN
+2928
+Francisco Dantas
+PR
+2928
+Rancho Alegre D'Oeste
+RS
+2926
+Mampituba
+RS
+2916
+Coxilha
+SC
+2912
+Pinheiro Preto
+SP
+2907
+Floreal
+SC
+2902
+Novo Horizonte
+PI
+2897
+Tamboril do Piauí
+MG
+2893
+Chiador
+MG
+2887
+Morro da Garça
+RS
+2881
+Erebango
+RN
+2876
+Fernando Pedroza
+SE
+2874
+São Francisco
+MT
+2873
+Vale de São Domingos
+MG
+2872
+Albertina
+SP
+2871
+Sebastianópolis do Sul
+RS
+2871
+Vista Alegre
+PR
+2868
+Anahy
+SC
+2868
+Zortéa
+PR
+2866
+Boa Esperança do Iguaçu
+GO
+2862
+Três Ranchos
+RS
+2861
+Senador Salgado Filho
+SP
+2860
+Florínia
+MG
+2858
+São João da Mata
+MT
+2855
+Santo Afonso
+RS
+2854
+São Domingos do Sul
+GO
+2852
+Pilar de Goiás
+SE
+2852
+Telha
+GO
+2851
+Santa Rosa de Goiás
+TO
+2850
+Muricilândia
+RS
+2849
+Taquaruçu do Sul
+RN
+2843
+Água Nova
+SC
+2842
+Major Gercino
+GO
+2836
+Mimoso de Goiás
+PB
+2834
+Lastro
+SP
+2834
+Pedrinhas Paulista
+TO
+2830
+Porto Alegre do Tocantins
+GO
+2827
+Israelândia
+MG
+2827
+Maripá de Minas
+SP
+2827
+Taquaral
+MG
+2825
+Alagoa
+RS
+2825
+Herveiras
+MG
+2825
+Ibituruna
+SC
+2818
+Matos Costa
+GO
+2813
+Ipiranga de Goiás
+SP
+2812
+São Francisco
+PR
+2810
+Inajá
+PR
+2807
+Ângulo
+PB
+2806
+Tenório
+PE
+2801
+Fernando de Noronha
+MG
+2799
+Cascalho Rico
+MG
+2796
+Santa Bárbara do Monte Verde
+RS
+2795
+Rolador
+SP
+2794
+Lutécia
+PI
+2788
+Belém do Piauí
+SP
+2787
+Alvinlândia
+TO
+2784
+Luzinópolis
+SP
+2784
+Torre de Pedra
+MG
+2782
+Jaguaraçu
+PB
+2781
+Curral Velho
+MG
+2777
+Uruana de Minas
+MG
+2776
+Umburatiba
+SE
+2774
+Pedra Mole
+SE
+2773
+General Maynard
+GO
+2773
+Teresina de Goiás
+SC
+2772
+Rancho Queimado
+RS
+2766
+Monte Belo do Sul
+RS
+2764
+São Jorge
+SP
+2759
+Santo Expedito
+PR
+2757
+Barra do Jacaré
+SP
+2751
+Barão de Antonina
+SC
+2749
+Chapadão do Lageado
+GO
+2748
+Perolândia
+PR
+2747
+Novo Itacolomi
+MT
+2745
+Nova Nazaré
+RS
+2744
+São Pedro do Butiá
+MG
+2743
+São Sebastião da Vargem Alegre
+SP
+2740
+Bento de Abreu
+RS
+2739
+Nova Candelária
+RS
+2734
+Arroio do Padre
+SP
+2734
+Pedranópolis
+MT
+2734
+Planalto da Serra
+RS
+2732
+Quevedos
+RN
+2729
+Santana do Seridó
+RS
+2728
+Dom Pedro de Alcântara
+SC
+2727
+Morro Grande
+GO
+2727
+Urutaí
+SC
+2726
+Abdon Batista
+MG
+2726
+Conceição das Pedras
+RN
+2723
+João Dias
+PB
+2719
+São Domingos de Pombal
+GO
+2718
+Ivolândia
+RS
+2716
+Westfalia
+PR
+2715
+Ivatuba
+SP
+2714
+Óleo
+RS
+2713
+Vista Gaúcha
+TO
+2711
+Bandeirantes do Tocantins
+TO
+2710
+Bom Jesus do Tocantins
+SP
+2706
+Cássia dos Coqueiros
+GO
+2702
+Aparecida do Rio Doce
+PR
+2702
+Cafeara
+RS
+2702
+São João do Polêsine
+MG
+2699
+Arapuá
+RN
+2699
+Lagoa de Velhos
+PR
+2692
+Santo Antônio do Caiuá
+GO
+2688
+Damolândia
+SC
+2681
+Belmonte
+SP
+2679
+Quadra
+RS
+2677
+Itati
+TO
+2673
+Santa Maria do Tocantins
+SC
+2671
+Celso Ramos
+SP
+2667
+Pracinha
+PR
+2664
+Pitangueiras
+RS
+2663
+Boa Vista do Sul
+PB
+2660
+Santarém
+RN
+2659
+Pedra Preta
+PR
+2656
+Paranapoema
+SP
+2655
+Cândido Rodrigues
+SC
+2655
+Frei Rogério
+GO
+2655
+Mairipotaba
+PI
+2654
+Aroeiras do Itaim
+SC
+2653
+São Bernardino
+RN
+2647
+Vila Flor
+PB
+2641
+Santo André
+SC
+2639
+Planalto Alegre
+SP
+2638
+Gabriel Monteiro
+PI
+2637
+Olho D'Água do Piauí
+RS
+2635
+São Valério do Sul
+GO
+2633
+Córrego do Ouro
+RN
+2629
+Passagem
+SP
+2624
+Itaju
+GO
+2622
+Nova Iguaçu de Goiás
+SC
+2620
+Formosa do Sul
+RS
+2619
+Jacuizinho
+GO
+2618
+Panamá
+RS
+2617
+Lagoa Bonita do Sul
+RS
+2614
+Santo Expedito do Sul
+MG
+2613
+Chácara
+RS
+2613
+Faxinalzinho
+MG
+2612
+Fernandes Tourinho
+RS
+2608
+Mato Castelhano
+PI
+2605
+Tanque do Piauí
+SC
+2604
+Princesa
+SP
+2603
+Queiroz
+PB
+2601
+Mato Grosso
+RS
+2601
+Salvador das Missões
+PI
+2596
+São Luis do Piauí
+RS
+2595
+Capitão
+RS
+2595
+Sagrada Família
+RS
+2593
+Tio Hugo
+MG
+2592
+Biquinhas
+SP
+2589
+Santa Mercedes
+PR
+2580
+Iracema do Oeste
+RS
+2578
+Mormaço
+RS
+2577
+Cerro Grande
+SP
+2576
+Mira Estrela
+SP
+2571
+São João das Duas Pontes
+RS
+2565
+Porto Mauá
+PI
+2563
+Lagoinha do Piauí
+SC
+2558
+Iomerê
+SP
+2556
+Marapoama
+TO
+2555
+Talismã
+PI
+2551
+Floresta do Piauí
+SC
+2551
+Águas Frias
+MG
+2550
+Carmésia
+RS
+2548
+Forquetinha
+RS
+2546
+Pedras Altas
+SP
+2546
+Rubinéia
+SC
+2545
+Mirim Doce
+MG
+2544
+Arantina
+RN
+2542
+Bodó
+PR
+2540
+Ariranha do Ivaí
+RN
+2536
+Jardim de Angicos
+RS
+2536
+Lajeado do Bugre
+SP
+2535
+Timburi
+PR
+2532
+São Pedro do Paraná
+SP
+2527
+Arapeí
+MT
+2524
+Indiavaí
+PR
+2524
+Pinhal de São Bento
+MG
+2520
+Rio Doce
+GO
+2510
+Adelândia
+MG
+2509
+Wenceslau Braz
+RS
+2508
+Fagundes Varela
+MG
+2505
+Olímpio Noronha
+MT
+2505
+Reserva do Cabaçal
+MG
+2503
+Simão Pereira
+SP
+2501
+Rubiácea
+SC
+2501
+Urupema
+MG
+2497
+Estrela Dalva
+MG
+2496
+Ingaí
+SP
+2493
+Santa Rita d'Oeste
+SP
+2487
+Pontes Gestal
+RS
+2484
+Nova Pádua
+SP
+2483
+Nantes
+SC
+2481
+Coronel Martins
+SP
+2480
+Nova Independência
+RS
+2479
+Silveira Martins
+RS
+2479
+São José do Herval
+MT
+2478
+Santa Rita do Trivelato
+SP
+2476
+Oscar Bressane
+MG
+2472
+São José do Mantimento
+RS
+2471
+Camargo
+MG
+2470
+Cachoeira Dourada
+PI
+2468
+Porto Alegre do Piauí
+PR
+2462
+Porto Rico
+RS
+2461
+Nova Ramada
+MG
+2457
+Coronel Pacheco
+PB
+2457
+Várzea
+PI
+2455
+São Gonçalo do Gurguéia
+SP
+2454
+Estrela do Norte
+MG
+2454
+Fortuna de Minas
+RS
+2454
+Itapuca
+PR
+2448
+Flórida
+RS
+2447
+Boa Vista do Cadeado
+RS
+2447
+Boa Vista do Incra
+RS
+2444
+Maratá
+RS
+2441
+Bom Progresso
+RS
+2441
+Coronel Barros
+RS
+2440
+Ubiretama
+SC
+2437
+Santa Helena
+MG
+2434
+Itambé do Mato Dentro
+SC
+2433
+Rio Rufino
+SP
+2432
+Brejo Alegre
+TO
+2419
+Novo Jardim
+GO
+2411
+Guarinos
+MT
+2405
+Luciára
+RS
+2404
+Colinas
+PR
+2402
+Uniflor
+RS
+2399
+Sério
+GO
+2394
+Guaraíta
+RN
+2394
+Monte das Gameleiras
+RS
+2392
+Unistalda
+SP
+2391
+Embaúba
+PB
+2389
+Carrapateira
+TO
+2386
+Centenário
+MG
+2384
+Araçaí
+MG
+2380
+Olaria
+RS
+2379
+Travesseiro
+RS
+2378
+Ivorá
+GO
+2375
+Avelinópolis
+RS
+2370
+Gramado dos Loureiros
+SP
+2368
+Cruzália
+RS
+2362
+Dois Irmãos das Missões
+RS
+2362
+Pinhal
+RO
+2358
+Pimenteiras do Oeste
+RS
+2355
+Presidente Lucena
+PR
+2354
+Santo Antônio do Paraíso
+PB
+2342
+Algodão de Jandaíra
+SP
+2340
+Águas de São Pedro
+GO
+2339
+Morro Agudo de Goiás
+RS
+2338
+Barra Funda
+PR
+2336
+Mirador
+SC
+2334
+Palmeira
+RS
+2331
+Novo Tiradentes
+MT
+2315
+Nova Marilândia
+TO
+2313
+Carmolândia
+SP
+2307
+Sagres
+MG
+2303
+Monjolos
+SP
+2299
+Lucianópolis
+SC
+2297
+Painel
+TO
+2297
+Santa Tereza do Tocantins
+SC
+2296
+Bom Jesus
+RS
+2296
+Bozano
+RN
+2295
+Timbaúba dos Batistas
+TO
+2291
+Santa Terezinha do Tocantins
+RS
+2290
+Inhacorá
+PR
+2286
+Iguatu
+RS
+2284
+Mariano Moro
+SC
+2282
+Marema
+RN
+2278
+Taboleiro Grande
+RS
+2273
+Cruzaltense
+PB
+2265
+São Domingos do Cariri
+GO
+2260
+Palmelo
+TO
+2260
+Santa Rita do Tocantins
+SC
+2259
+Presidente Nereu
+RS
+2256
+Benjamin Constant do Sul
+PI
+2255
+Francisco Macedo
+TO
+2245
+Abreulândia
+GO
+2238
+Buriti de Goiás
+GO
+2236
+Diorama
+PB
+2233
+Bom Jesus
+RS
+2233
+São Valentim do Sul
+SP
+2231
+Ribeirão dos Índios
+RS
+2230
+Vila Lângaro
+SP
+2229
+Zacarias
+MG
+2219
+Fama
+RS
+2216
+Santo Antônio do Palma
+SP
+2205
+Jumirim
+SP
+2205
+Nova Canaã Paulista
+GO
+2201
+Jesúpolis
+GO
+2200
+Nova América
+SE
+2197
+Amparo de São Francisco
+RS
+2196
+Relvado
+SC
+2193
+Arvoredo
+PR
+2190
+Guaporema
+SC
+2190
+Lacerdópolis
+SP
+2181
+Dolcinópolis
+SP
+2172
+Borebi
+TO
+2171
+Cachoeirinha
+MG
+2170
+São Sebastião do Rio Verde
+TO
+2165
+Pugmil
+RS
+2163
+Santa Margarida do Sul
+TO
+2159
+Lajeado
+RS
+2158
+Almirante Tamandaré do Sul
+SC
+2152
+Ouro Verde
+RN
+2149
+Galinhos
+RS
+2148
+Floriano Peixoto
+TO
+2141
+Juarina
+SC
+2134
+Jupiá
+RS
+2132
+São José do Inhacorá
+SP
+2132
+São João do Pau d'Alho
+RS
+2131
+Sete de Setembro
+MG
+2125
+Silveirânia
+PB
+2124
+Passagem
+TO
+2119
+Brasilândia do Tocantins
+MT
+2116
+Santa Cruz do Xingu
+SP
+2114
+Marinópolis
+RS
+2114
+Protásio Alves
+MT
+2110
+Novo Santo Antônio
+MT
+2107
+Ribeirãozinho
+PI
+2105
+Pedro Laurentino
+MG
+2104
+Santana do Garambéu
+TO
+2101
+Fortaleza do Tabocão
+SP
+2101
+Nova Guataporanga
+MG
+2100
+Casa Grande
+MG
+2100
+Pedra Dourada
+MG
+2098
+Vargem Bonita
+PB
+2096
+Areia de Baraúnas
+GO
+2094
+Nova Aurora
+PR
+2093
+São Manoel do Paraná
+MG
+2093
+Água Comprida
+TO
+2092
+Rio dos Bois
+RS
+2090
+Paulo Bento
+RS
+2084
+Porto Vera Cruz
+RS
+2083
+Nova Boa Vista
+PI
+2083
+São Miguel da Baixa Grande
+MG
+2082
+Passa-Vinte
+SP
+2081
+Santa Clara d'Oeste
+GO
+2074
+Água Limpa
+RS
+2066
+Boa Vista das Missões
+GO
+2065
+Aloândia
+SC
+2064
+Barra Bonita
+MG
+2063
+Serranos
+RS
+2058
+Pinhal da Serra
+SP
+2054
+Monções
+RS
+2053
+Doutor Ricardo
+GO
+2053
+Marzagão
+GO
+2051
+São Patrício
+SP
+2038
+Parisi
+MG
+2036
+Rochedo de Minas
+RS
+2035
+Barra do Rio Azul
+RN
+2035
+Ipueira
+SC
+2031
+Santa Rosa de Lima
+RS
+2029
+Santo Antônio do Planalto
+SC
+2026
+Bom Jesus do Oeste
+SC
+2025
+Irati
+SP
+2024
+Turmalina
+PB
+2024
+Zabelê
+SC
+2021
+Alto Bela Vista
+SP
+2019
+Flora Rica
+RS
+2017
+Pouso Novo
+GO
+2013
+Davinópolis
+MG
+2011
+Senador Cortes
+PB
+2007
+Amparo
+TO
+2007
+Tupiratins
+SP
+2003
+Arco-Íris
+SC
+1987
+Ibiam
+RS
+1983
+Ipiranga do Sul
+RS
+1976
+Poço das Antas
+SP
+1974
+Lourdes
+RS
+1973
+Vespasiano Correa
+SC
+1972
+São Miguel da Boa Vista
+PI
+1965
+Santo Antônio dos Milagres
+SP
+1963
+Guarani d'Oeste
+MG
+1962
+Antônio Prado de Minas
+RS
+1956
+Vanini
+SP
+1947
+Turiúba
+RS
+1941
+Canudos do Vale
+RS
+1940
+Alto Alegre
+MG
+1939
+Oliveira Fortes
+RS
+1939
+São Pedro das Missões
+TO
+1916
+Taipas do Tocantins
+MG
+1908
+Senador José Bento
+PR
+1899
+Miraselva
+RS
+1899
+São José do Sul
+PR
+1887
+Esperança Nova
+PR
+1878
+Santa Inês
+MG
+1875
+Aracitaba
+SC
+1874
+Cunhataí
+RS
+1865
+Mato Queimado
+TO
+1858
+Monte Santo do Tocantins
+RS
+1858
+Novo Xingu
+SC
+1851
+Jardinópolis
+GO
+1848
+Moiporá
+MG
+1846
+Douradoquara
+SC
+1843
+Ermo
+MG
+1841
+Tapiraí
+RS
+1840
+Ponte Preta
+RS
+1837
+Capão Bonito do Sul
+MG
+1826
+Queluzito
+SP
+1824
+Paulistânia
+SC
+1821
+Paial
+RS
+1815
+Santa Tereza
+TO
+1801
+Novo Alegre
+MG
+1801
+Passabém
+RS
+1800
+Muliterno
+MT
+1794
+Ponte Branca
+RS
+1794
+São Vendelino
+SP
+1790
+Aspásia
+RN
+1769
+Viçosa
+SP
+1768
+Mesópolis
+SC
+1760
+Macieira
+RS
+1759
+Nicolau Vergueiro
+SC
+1757
+Presidente Castello Branco
+MG
+1755
+Seritinga
+MG
+1753
+Santo Antônio do Rio Abaixo
+SC
+1741
+Tigrinhos
+TO
+1737
+Mateiros
+RS
+1735
+Quatro Irmãos
+SP
+1725
+São João de Iracema
+RS
+1723
+Tupanci do Sul
+RS
+1719
+Carlos Gomes
+RS
+1716
+Santa Cecília do Sul
+SP
+1707
+Santa Cruz da Esperança
+PB
+1705
+Coxixola
+MG
+1700
+São Sebastião do Rio Preto
+GO
+1699
+São João da Paraúna
+TO
+1698
+Ipueiras
+MG
+1695
+Consolação
+RS
+1669
+Guabiju
+TO
+1667
+Sucupira
+RS
+1666
+União da Serra
+RS
+1658
+Coronel Pilar
+MG
+1658
+Pedro Teixeira
+SP
+1654
+Santana da Ponte Pensa
+PB
+1647
+São José do Brejo do Cruz
+SC
+1640
+Flor do Sertão
+MG
+1630
+Paiva
+SP
+1624
+Vitória Brasil
+RS
+1590
+Lagoa dos Três Cantos
+TO
+1590
+Lavandeira
+RS
+1584
+Engenho Velho
+RS
+1583
+Montauri
+SP
+1582
+Dirce Reis
+RS
+1579
+Gentil
+RS
+1566
+Coqueiro Baixo
+PB
+1524
+Riacho de Santo Antônio
+MG
+1492
+Doresópolis
+RS
+1492
+Vista Alegre do Prata
+RS
+1488
+Linha Nova
+PR
+1461
+Jardim Olinda
+SC
+1461
+Lajeado Grande
+SP
+1457
+Fernão
+TO
+1454
+Rio da Conceição
+SC
+1450
+Santiago do Sul
+SP
+1441
+Trabiju
+SP
+1436
+União Paulista
+PB
+1433
+Quixabá
+MG
+1412
+Grupiara
+GO
+1410
+Cachoeira de Goiás
+TO
+1409
+São Félix do Tocantins
+TO
+1405
+Tupirama
+SP
+1390
+Santa Salete
+PR
+1377
+Nova Aliança do Ivaí
+SP
+1362
+Uru
+MT
+1349
+Serra Nova Dourada
+TO
+1264
+Crixás do Tocantins
+PB
+1245
+Parari
+TO
+1239
+Chapada de Areia
+GO
+1225
+Lagoa Santa
+RS
+1206
+André da Rocha
+MG
+1203
+Cedro do Abaeté
+PI
+1194
+Miguel Leão
+MT
+1117
+Araguainha
+TO
+1081
+Oliveira de Fátima
+SP
+1057
+Nova Castilho
+GO
+966
+Anhanguera
+MG
+863
+Serra da Saudade
+SP
+804
+Borá
