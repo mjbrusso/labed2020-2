@@ -87,10 +87,10 @@ int main() {
             }
         }
         // Desenha o frame
-        window.clear(sf::Color::White);
+        window.clear();
         window.draw(bgSprite);
         window.draw(grSprite);
-        window.draw(tuxSprite);
+        window.draw(tuxSprite);            
         window.draw(oilSprite);
         window.draw(text);
         window.display();
