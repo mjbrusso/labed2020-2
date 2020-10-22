@@ -1,8 +1,9 @@
 #include <SFML/Graphics.hpp>
+#include <string>
 
 int main() {
     const int windowWidth = 800, windowHeight = 400;
-    const float step_time = 0.1, groundSpeed = 1.2;
+    const float step_time = 0.1, groundSpeed = 2;
 
     sf::RenderWindow window(sf::VideoMode(windowWidth, windowHeight), "Meu game");
     window.setFramerateLimit(60);
@@ -27,7 +28,18 @@ int main() {
     oilTexture.loadFromFile("assets/oil.png");
     sf::Sprite oilSprite(oilTexture);
 
+    sf::Font font;
+    font.loadFromFile("assets/pixelart.ttf");
+
+    sf::Text text;
+    text.setFont(font);
+    text.setCharacterSize(40);
+    text.setFillColor(sf::Color::Red);
+    text.setPosition(10, 10);
+
     float tuxY = windowHeight - 90, oilX = windowWidth;
+    bool gameOver = false;
+    int steps=0;
     // game loop
     while (window.isOpen()) {
         // Tratamento dos eventos
@@ -41,34 +53,46 @@ int main() {
             }
         }
         // Atualização do estado do jogo
-        bgRect.left++;
-        bgSprite.setTextureRect(bgRect);
-        
-        grSprite.setPosition(0, 375);
-        grRect.left -= groundSpeed;
-        grSprite.setTextureRect(grRect);
+        if (!gameOver) {
+            bgRect.left++;
+            bgSprite.setTextureRect(bgRect);
 
-        if(clock.getElapsedTime().asSeconds() >= step_time){
-            tuxRect.left += 65;
-            if(tuxRect.left >= 470) tuxRect.left = 12;
-            clock.restart();
+            grSprite.setPosition(0, 375);
+            grRect.left -= groundSpeed;
+            grSprite.setTextureRect(grRect);
+
+            if (clock.getElapsedTime().asSeconds() >= step_time) {
+                tuxRect.left += 65;
+                if (tuxRect.left >= 470){ 
+                    tuxRect.left = 12;
+                    steps++;
+                    text.setString(std::to_string(steps));
+                }
+                clock.restart();
+            }
+
+            tuxSprite.setTextureRect(tuxRect);
+            tuxSprite.setPosition(20, tuxY);
+
+            oilX -= groundSpeed;
+            if (oilX <= -65) oilX = windowWidth;
+            oilSprite.setPosition(oilX, windowHeight - 27);
+
+            if (tuxSprite.getGlobalBounds().intersects(oilSprite.getGlobalBounds())) {
+                gameOver = true;
+                tuxRect.top = 123;
+                tuxRect.left = 74;
+                tuxSprite.setTextureRect(tuxRect);
+                text.setString("Game over!");
+            }
         }
-        
-        tuxSprite.setTextureRect(tuxRect);
-        tuxSprite.setPosition(20, tuxY);
-
-        oilX -= groundSpeed;
-        if(oilX <= -65) oilX = windowWidth;
-        oilSprite.setPosition(oilX, windowHeight-27);
-
-    
-
         // Desenha o frame
         window.clear(sf::Color::White);
         window.draw(bgSprite);
         window.draw(grSprite);
         window.draw(tuxSprite);
         window.draw(oilSprite);
+        window.draw(text);
         window.display();
     }
 
