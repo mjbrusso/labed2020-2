@@ -1,6 +1,13 @@
 #include <SFML/Graphics.hpp>
 #include <string>
 
+enum tuxStatus {
+    Walking,
+    JumpingUp,
+    FallingDown,
+    Dead
+};
+
 int main() {
     const int windowWidth = 800, windowHeight = 400;
     const float step_time = 0.1, groundSpeed = 2;
@@ -28,6 +35,11 @@ int main() {
     oilTexture.loadFromFile("assets/oil.png");
     sf::Sprite oilSprite(oilTexture);
 
+    sf::Texture menuTexture;
+    menuTexture.loadFromFile("assets/menu.png");
+    sf::Sprite menuSprite(menuTexture);
+    menuSprite.setColor(sf::Color(255, 255, 255, 100));
+
     sf::Font font;
     font.loadFromFile("assets/pixelart.ttf");
 
@@ -40,7 +52,8 @@ int main() {
 
     float tuxY = windowHeight - 90, oilX = windowWidth;
     bool gameOver = false;
-    int steps=0;
+    int steps = 0;
+    tuxStatus tuxCurrentStatus = tuxStatus::Walking;
     // game loop
     while (window.isOpen()) {
         // Tratamento dos eventos
@@ -51,9 +64,21 @@ int main() {
             else if (event.type == sf::Event::KeyPressed) {
                 if (event.key.code == sf::Keyboard::Escape)
                     window.close();
+                else if (event.key.code == sf::Keyboard::F2){
+                    gameOver = false;
+                    bgRect = {0, 0, windowWidth, windowHeight};
+                    grRect = {0, 375, windowWidth, 25};
+                    tuxRect = {12, 786, 42, 67};
+                    text.setString("0");
+                    tuxY = windowHeight - 90;
+                    oilX = windowWidth;
+                    steps = 0;
+                    tuxCurrentStatus = tuxStatus::Walking;
+                }
             }
         }
         // Atualização do estado do jogo
+
         if (!gameOver) {
             bgRect.left++;
             bgSprite.setTextureRect(bgRect);
@@ -63,15 +88,34 @@ int main() {
             grSprite.setTextureRect(grRect);
 
             if (clock.getElapsedTime().asSeconds() >= step_time) {
-                tuxRect.left += 65;
-                if (tuxRect.left >= 470){ 
-                    tuxRect.left = 12;
+                if (tuxCurrentStatus == tuxStatus::Walking) {
+                    tuxRect.left += 65;
+                    if (tuxRect.left >= 470) {
+                        tuxRect.left = 12;
+                    }
                     steps++;
-                    text.setString(std::to_string(steps));
+                    text.setString(std::to_string(steps/8));
                 }
                 clock.restart();
             }
 
+            if (sf::Keyboard::isKeyPressed(sf::Keyboard::Space)) {
+                tuxCurrentStatus = tuxStatus::JumpingUp;
+                tuxRect = {9, 608, 47, 49};
+            }
+
+            if (tuxCurrentStatus == tuxStatus::JumpingUp) {
+                tuxY--;
+                if (tuxY <= windowHeight - 119)
+                    tuxCurrentStatus = tuxStatus::FallingDown;
+            }
+            if (tuxCurrentStatus == tuxStatus::FallingDown) {
+                tuxY++;
+                if (tuxY >= windowHeight - 90){
+                    tuxCurrentStatus = tuxStatus::Walking;
+                    tuxRect = {12, 786, 42, 67};
+                }
+            }
             tuxSprite.setTextureRect(tuxRect);
             tuxSprite.setPosition(20, tuxY);
 
@@ -91,9 +135,10 @@ int main() {
         window.clear();
         window.draw(bgSprite);
         window.draw(grSprite);
-        window.draw(tuxSprite);            
+        window.draw(tuxSprite);
         window.draw(oilSprite);
         window.draw(text);
+        if(gameOver) window.draw(menuSprite);
         window.display();
     }
 
