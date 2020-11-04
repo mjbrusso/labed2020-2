@@ -33,17 +33,14 @@ void lista_mostra(lista l) {
     }
 }
 
-bool lista_insere_inicio(lista &l, std::string s) {
-    nodolista *novo;
-    novo = new (std::nothrow) nodolista;
-    if (novo == nullptr) return false;
+void lista_insere_inicio(lista &l, std::string s) {
+    nodolista *novo = new nodolista;
 
     novo->info = s;
     novo->elo = l.inicio;
     l.inicio = novo;
     if (l.fim == nullptr) l.fim = novo;
     l.tamanho++;
-    return true;
 }
 
 bool lista_consulta(lista l, std::string s) {
