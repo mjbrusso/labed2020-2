@@ -1,4 +1,4 @@
-                    gnu general public license
+                    gnu general public license gnu
                        version   june 
 
  copyright c  free software foundation inc httpfsforg
