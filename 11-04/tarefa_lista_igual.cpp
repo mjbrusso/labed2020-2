@@ -20,7 +20,7 @@ int main()
 {
     lista l1, l2;
 
-    assert(lista_igual(l1, l2)==true);  // Ambas estãoo vazias, então são iguais
+    assert(lista_igual(l1, l2)==true);  // Ambas estão vazias, então são iguais
 
     lista_insere_fim(l1, "a");
     assert(lista_igual(l1, l2)==false); // l1: ["a"] l2: []

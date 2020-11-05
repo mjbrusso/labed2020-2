@@ -21,6 +21,7 @@ int main()
 {
     lista l1;
     assert(lista_esta_ordenada(l1)==true);            // Vazia!
+    
     lista_insere_fim(l1, "a");
     lista_insere_fim(l1, "b");
     lista_insere_fim(l1, "c");

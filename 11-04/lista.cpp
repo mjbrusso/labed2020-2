@@ -43,6 +43,7 @@ void lista_insere_inicio(lista &l, std::string s) {
     l.tamanho++;
 }
 
+
 bool lista_consulta(lista l, std::string s) {
     nodolista *aux = l.inicio;
     while (aux != nullptr) {
@@ -148,5 +149,38 @@ bool lista_ordenada_retira(lista &l, std::string valor) {
 
     l.tamanho--;
     delete it;
+    return true;
+}
+
+// Esta função deve testar se os valores armazenados na lista encadeada l
+//    estão ordenados em ordem alfabética crescente.
+// Considerar que uma lista vazia ou com um único nodo está ordenada.
+bool lista_esta_ordenada(lista l)
+{
+    if(l.tamanho < 2) return true;
+    nodolista *it = l.inicio;
+
+    while(it->elo != nullptr){
+        if(it->info > it->elo->info) return false;
+        it = it->elo;
+    }
+    return true;
+}
+
+
+// Esta função deve verificar se duas listas encadeadas passadas por parâmetro (l1 e l2) são iguais.
+// Duas  listas  são  consideradas  iguais  se  têm  o mesmo tamanho e
+// exatamente a  mesma  sequência  de  valores (info), ou se ambas estão vazias.
+// A função deve retornar true, caso as listas sejam iguais, ou false em caso contrário.
+bool lista_igual(lista l1, lista l2)
+{
+    if(l1.tamanho != l2.tamanho) return false;
+
+    nodolista *it1 = l1.inicio, *it2 = l2.inicio;
+    while(it1 != nullptr){
+        if(it1->info != it2->info) return false;
+        it1 = it1->elo;
+        it2 = it2->elo;
+    }
     return true;
 }
